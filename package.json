@@ -1,0 +1,20 @@
+{
+  "name": "gadget-news-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "ガジェットニュース毎朝ダイジェスト: 26本のRSSを24時間分収集し、推奨度つきHTMLをメール配信する",
+  "scripts": {
+    "collect": "node src/collect-cli.js",
+    "render": "node src/render-cli.js",
+    "send": "node src/send-cli.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "goal": "node src/goal.js"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "js-yaml": "^4.1.0",
+    "resend": "^4.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -1,0 +1,109 @@
+# スコアリング用キーワード（正本）
+# 注意: bid-radar と違い「マッチしない記事を捨てる」ためのものではない。
+#       ここはあくまでスコア加点／減点で、鮮度を満たす記事は全部が候補に残る
+#       （想定外の大ニュースを取りこぼさないため）。
+# weight は正負どちらも可。英数字のみの語は単語境界マッチ、日本語は部分一致。
+
+- name: AI・生成AI
+  weight: 3
+  keywords:
+    - AI
+    - 生成AI
+    - LLM
+    - ChatGPT
+    - Claude
+    - Gemini
+    - Copilot
+    - エージェント
+    - 機械学習
+    - NPU
+    - 推論
+
+- name: 新製品・発表
+  weight: 2
+  keywords:
+    - 発表
+    - 発売
+    - 新製品
+    - 予約
+    - 提供開始
+    - 正式
+    - launch
+    - announce
+    - unveil
+    - release
+    - hands-on
+
+- name: スマホ・PC本体
+  weight: 2
+  keywords:
+    - iPhone
+    - iPad
+    - Pixel
+    - Galaxy
+    - Android
+    - Mac
+    - Windows
+    - Surface
+    - ノートPC
+    - スマートフォン
+    - タブレット
+    - smartphone
+    - laptop
+
+- name: 実務で使える周辺機器
+  weight: 2
+  keywords:
+    - キーボード
+    - マウス
+    - モニター
+    - ディスプレイ
+    - ドック
+    - SSD
+    - イヤホン
+    - ヘッドホン
+    - マイク
+    - webカメラ
+    - モバイルバッテリー
+    - keyboard
+    - monitor
+    - headphone
+
+- name: 制度・プライバシー
+  weight: 1
+  keywords:
+    - 規制
+    - 法案
+    - プライバシー
+    - 個人情報
+    - セキュリティ
+    - 脆弱性
+    - privacy
+    - regulation
+    - security
+
+- name: 減点対象（セール・広告色）
+  weight: -3
+  keywords:
+    - セール
+    - タイムセール
+    - 特価
+    - 割引
+    - クーポン
+    - PR
+    - ふるさと納税
+    - Amazonギフト
+    - deal
+    - deals
+    - discount
+    - coupon
+
+- name: 減点対象（噂・リーク）
+  weight: -1
+  keywords:
+    - 噂
+    - リーク
+    - とみられる
+    - rumor
+    - leak
+    - allegedly

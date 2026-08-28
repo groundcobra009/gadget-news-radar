@@ -7,6 +7,16 @@
 
 ---
 
+## 2026-08-28 — 収集〜配信パイプラインを実装（TDD）
+
+- **変更対象**: `src/` `test/` `config/` `.github/workflows/daily-digest.yml`
+- **変更内容**: 26フィードの収集・24時間窓・重複除去・スコアリング・判定契約層・メールHTML生成・
+  Resend送信・失敗通知を実装。テスト78件（すべてfixtureベースでネットワークに出ない）。
+  GitHub Actions の cron（毎朝JST5:00）から `claude-code-action@v1` を1ステップだけ呼ぶ構成。
+- **変更理由**: 手で26サイトを巡回する時間をゼロにするため（DS.md）
+- **影響範囲**: `npm run goal` で完成判定できる状態。実配信には Secrets 4件の登録が必要
+  （`CLAUDE_CODE_OAUTH_TOKEN` / `RESEND_API_KEY` / `MAIL_FROM` / `MAIL_TO`）
+
 ## 2026-08-28 — エリア開始
 
 - **変更対象**: リポジトリ全体

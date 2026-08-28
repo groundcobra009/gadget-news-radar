@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ITmedia NEWS</title>
+    <item>
+      <title>新型AIノートPCが国内発表、9月10日発売</title>
+      <link>https://example.com/news/1?utm_source=rss&amp;utm_medium=feed</link>
+      <description>NPU搭載の新型ノートPCが発表された。価格は19万8000円。</description>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>週末タイムセール情報</title>
+      <link>https://example.com/news/2</link>
+      <description>お買い得なクーポンをまとめた。</description>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日付のない記事</title>
+      <link>https://example.com/news/3</link>
+      <description>pubDateが無いケース。</description>
+    </item>
+  </channel>
+</rss>

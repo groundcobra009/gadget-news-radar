@@ -1,0 +1,238 @@
+# ガジェットニュース収集元（正本: ~/Downloads/gadget_rss_sources.csv を移植・26本）
+# priority: A=主力（推奨度の初期スコアが高い） / B=補助
+# enabled: false にすると収集対象から外れる（コード修正不要）
+# notes は判定プロンプトには渡さない（運用メモ）
+
+- id: getnews
+  name: ガジェット通信
+  url: https://getnews.jp/feed
+  priority: A
+  region: 国内
+  focus: 話題系ガジェット・ネットカルチャー
+  enabled: true
+  notes: 広告・イベント記事が多いため厳選
+
+- id: itmedia-news
+  name: ITmedia NEWS
+  url: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
+  priority: A
+  region: 国内
+  focus: テクノロジー・AI・業界動向
+  enabled: true
+  notes: 一次情報へのリンク確認を推奨
+
+- id: itmedia-mobile
+  name: ITmedia Mobile
+  url: https://rss.itmedia.co.jp/rss/2.0/mobile.xml
+  priority: A
+  region: 国内
+  focus: スマートフォン・通信
+  enabled: true
+  notes: 日本市場の価格と発売日を優先
+
+- id: itmedia-pcuser
+  name: ITmedia PC USER
+  url: https://rss.itmedia.co.jp/rss/2.0/pcuser.xml
+  priority: A
+  region: 国内
+  focus: PC・周辺機器
+  enabled: true
+  notes: セール記事は原則除外
+
+- id: pc-watch
+  name: PC Watch
+  url: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
+  priority: A
+  region: 国内
+  focus: PC・半導体・AIハードウェア
+  enabled: true
+  notes: 技術系の重要ソース・RSS 1.0(RDF)
+
+- id: k-tai-watch
+  name: ケータイ Watch
+  url: https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf
+  priority: A
+  region: 国内
+  focus: スマートフォン・通信サービス
+  enabled: true
+  notes: 通信制度・衛星通信も対象・RSS 1.0(RDF)
+
+- id: av-watch
+  name: AV Watch
+  url: https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf
+  priority: A
+  region: 国内
+  focus: テレビ・オーディオ・映像機器
+  enabled: true
+  notes: 新製品発表を優先・RSS 1.0(RDF)
+
+- id: internet-watch
+  name: INTERNET Watch
+  url: https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf
+  priority: B
+  region: 国内
+  focus: ネットワーク・スマートホーム
+  enabled: true
+  notes: キャンペーン記事は除外・RSS 1.0(RDF)
+
+- id: gizmodo-jp
+  name: GIZMODO JAPAN
+  url: https://www.gizmodo.jp/index.xml
+  priority: A
+  region: 国内
+  focus: ガジェット・未来技術
+  enabled: true
+  notes: 文字コード警告はあるが記事取得可
+
+- id: ascii
+  name: ASCII.jp
+  url: https://ascii.jp/rss.xml
+  priority: B
+  region: 国内
+  focus: PC・AI・スタートアップ
+  enabled: true
+  notes: 広範囲のためガジェット関連だけ抽出
+
+- id: jetstream
+  name: Jetstream BLOG
+  url: https://jetstream.blog/feed/
+  priority: B
+  region: 国内
+  focus: Google・Android・セール
+  enabled: true
+  notes: 解析記事は未確定情報と明記
+
+- id: orefolder
+  name: OREFOLDER
+  url: https://orefolder.jp/feed/
+  priority: B
+  region: 国内
+  focus: Android・スマートフォン
+  enabled: true
+  notes: 更新件数は少なめ
+
+- id: smhn
+  name: すまほん!!
+  url: https://smhn.info/feed
+  priority: B
+  region: 国内
+  focus: スマートフォン・通信
+  enabled: true
+  notes: 噂記事は信頼度を下げる
+
+- id: engadget
+  name: Engadget
+  url: https://www.engadget.com/rss.xml
+  priority: A
+  region: 海外
+  focus: 総合ガジェット・レビュー
+  enabled: true
+  notes: 速報性が高い
+
+- id: the-verge
+  name: The Verge
+  url: https://www.theverge.com/rss/index.xml
+  priority: A
+  region: 海外
+  focus: 消費者テック・プラットフォーム
+  enabled: true
+  notes: 制度・プライバシーも対象
+
+- id: ars-gadgets
+  name: Ars Technica Gear & Gadgets
+  url: https://feeds.arstechnica.com/arstechnica/gadgets
+  priority: A
+  region: 海外
+  focus: 技術解説・製品
+  enabled: true
+  notes: 更新が少なく0件の日がある
+
+- id: techcrunch
+  name: TechCrunch
+  url: https://techcrunch.com/feed/
+  priority: A
+  region: 海外
+  focus: AIハードウェア・ロボット・スタートアップ
+  enabled: true
+  notes: 企業動向だけの記事は優先度を下げる
+
+- id: 9to5mac
+  name: 9to5Mac
+  url: https://9to5mac.com/feed/
+  priority: A
+  region: 海外
+  focus: Apple製品・OS
+  enabled: true
+  notes: 予想記事と正式発表を区別
+
+- id: android-authority
+  name: Android Authority
+  url: https://www.androidauthority.com/feed/
+  priority: A
+  region: 海外
+  focus: Android・スマートフォン
+  enabled: true
+  notes: リーク記事は別枠
+
+- id: gsmarena
+  name: GSMArena
+  url: https://www.gsmarena.com/rss-news-reviews.php3
+  priority: A
+  region: 海外
+  focus: スマートフォン新製品
+  enabled: true
+  notes: グローバル版と日本版を区別
+
+- id: toms-hardware
+  name: Tom's Hardware
+  url: https://www.tomshardware.com/feeds/all
+  priority: A
+  region: 海外
+  focus: PCパーツ・半導体・AI計算基盤
+  enabled: true
+  notes: 消費者向けと業界向けを分類
+
+- id: wired
+  name: WIRED
+  url: https://www.wired.com/feed/rss
+  priority: B
+  region: 海外
+  focus: AI・新技術・デジタル社会
+  enabled: true
+  notes: 買い物記事は除外
+
+- id: techradar
+  name: TechRadar
+  url: https://www.techradar.com/rss
+  priority: A
+  region: 海外
+  focus: 総合ガジェット・製品情報
+  enabled: true
+  notes: 記事URL欠落時は原サイト検索で補完
+
+- id: digital-trends
+  name: Digital Trends
+  url: https://www.digitaltrends.com/feed/
+  priority: B
+  region: 海外
+  focus: 総合ガジェット
+  enabled: true
+  notes: CSV作成時点でフィード項目0件（REVIEW）。落ちたままなら enabled:false にする
+
+- id: ieee-spectrum
+  name: IEEE Spectrum
+  url: https://spectrum.ieee.org/feeds/feed.rss
+  priority: B
+  region: 海外
+  focus: 工学・DIY・先端技術
+  enabled: true
+  notes: 更新頻度は少なめ
+
+- id: new-atlas
+  name: New Atlas
+  url: https://newatlas.com/index.rss
+  priority: B
+  region: 海外
+  focus: 新奇ガジェット・ロボット・モビリティ
+  enabled: true
+  notes: クラウドファンディング製品は未発売と明記

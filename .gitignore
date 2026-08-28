@@ -9,3 +9,11 @@ build/
 __pycache__/
 *.pyc
 _archive/
+
+# 中間生成物（レポートHTMLだけは履歴として残すのでignoreしない）
+out/candidates.json
+out/judge-input.json
+out/judgments.json
+out/source-status.json
+out/digest.json
+out/*.bak

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<rss version="2.0">
+  <channel>
+    <title>文字コードテスト</title>
+    <item>
+      <title>ワイヤレスイヤホンの新製品が発売</title>
+      <link>https://example.jp/sjis/1</link>
+      <description>ノイズキャンセリング対応。</description>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
