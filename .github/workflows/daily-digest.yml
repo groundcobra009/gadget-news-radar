@@ -48,6 +48,22 @@ jobs:
           fi
           echo "必要なSecretsはすべて設定されています"
 
+      # 401 の切り分け用。値は絶対に出さず、長さと形だけを見る（原因が分かったら消す）
+      - name: OAuthトークンの形を検査（値は出さない）
+        env:
+          T: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          echo "長さ: ${#T}"
+          case "$T" in
+            sk-ant-oat01-*) echo "接頭辞: sk-ant-oat01- で始まる（OK）" ;;
+            *) echo "接頭辞: sk-ant-oat01- で始まっていない（NG）" ;;
+          esac
+          if printf %s "$T" | grep -q "[[:space:]]"; then
+            echo "空白/改行: 含まれている（NG・コピー時に折り返しが入った可能性）"
+          else
+            echo "空白/改行: なし（OK）"
+          fi
+
       - name: ユニットテスト
         run: npm test
 
