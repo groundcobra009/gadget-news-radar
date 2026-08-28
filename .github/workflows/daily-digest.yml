@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write # data/processed-items.json と out/report-*.html のコミットバックに必要
+  id-token: write # claude-code-action がOIDCトークンを取得するのに必要（無いと判定ステップだけ落ちる）
 
 concurrency:
   group: daily-digest # 定期実行と手動実行が重なっても同時に走らせない（二重送信の防止）
@@ -19,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm

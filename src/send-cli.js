@@ -5,6 +5,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { sendDigest } from "./mailer.js";
 import { addProcessed, loadProcessed, saveProcessed } from "./dedupe.js";
+import { shouldRecordAsSent } from "./send-policy.js";
 import { CANDIDATES_PATH, OUT_DIR, PROCESSED_PATH, readJsonOrNull } from "./config.js";
 
 const dryRun = process.argv.slice(2).includes("--dry-run");
@@ -30,7 +31,13 @@ async function main() {
 
   console.log(`送信しました（Resend id: ${result.id}）`);
 
-  // 送信できたときだけ既出として記録する（送信前に記録すると、失敗した記事が永久に届かなくなる）
+  // 送信できたときだけ既出として記録する（送信前に記録すると、失敗した記事が永久に届かなくなる）。
+  // ただし判定が全滅した回は記録しない（翌日に判定つきでもう一度届けるため）。
+  const { record, reason } = shouldRecordAsSent(digest);
+  if (!record) {
+    console.log(`既出記録は更新しません: ${reason}`);
+    return;
+  }
   const collected = readJsonOrNull(CANDIDATES_PATH);
   const sentItems = collected?.candidates ?? [];
   const processed = loadProcessed(PROCESSED_PATH);
