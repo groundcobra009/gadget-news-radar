@@ -48,24 +48,6 @@ jobs:
           fi
           echo "必要なSecretsはすべて設定されています"
 
-      # 認証エラーの切り分け用。値は絶対に出さず、長さ・接頭辞・非ASCII混入だけを見る
-      - name: 認証情報の形を検査（値は出さない）
-        env:
-          OAUTH: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          APIKEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          check() {
-            local label="$1" value="$2" want="$3"
-            if [ -z "$value" ]; then echo "$label: 未登録"; return; fi
-            local note="長さ=${#value}"
-            case "$value" in "$want"*) note="$note 接頭辞OK" ;; *) note="$note 接頭辞NG(${want}で始まっていない)" ;; esac
-            if printf %s "$value" | LC_ALL=C grep -q "[^ -~]"; then note="$note 非ASCII混入NG"; fi
-            if printf %s "$value" | grep -q "[[:space:]]"; then note="$note 空白/改行NG"; fi
-            echo "$label: $note"
-          }
-          check "CLAUDE_CODE_OAUTH_TOKEN" "$OAUTH" "sk-ant-oat01-"
-          check "ANTHROPIC_API_KEY" "$APIKEY" "sk-ant-api03-"
-
       - name: ユニットテスト
         run: npm test
 
@@ -82,8 +64,6 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          # 判定が is_error で落ちる原因を追うため一時的に有効化（原因が分かったら外す）
-          show_full_output: true
           claude_args: |
             --model claude-sonnet-5
             --allowedTools "Read,Write"
