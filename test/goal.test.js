@@ -10,7 +10,7 @@ const WIN = jstWindow(new Date("2026-08-28T20:40:00Z"));
 const GOOD = renderEmailHtml({
   window: WIN,
   generatedAt: "2026-08-29T05:02:00+09:00",
-  summary: "要約",
+  summary: { headline: "見出し", lead: "要約", points: ["論点1"] },
   items: [
     {
       id: "a",

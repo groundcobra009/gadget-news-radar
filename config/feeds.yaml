@@ -236,3 +236,15 @@
   focus: 新奇ガジェット・ロボット・モビリティ
   enabled: true
   notes: クラウドファンディング製品は未発売と明記
+
+- id: getnavi
+  name: GetNavi web
+  url: https://news.google.com/rss/search?q=site:getnavi.jp+when:2d&hl=ja&gl=JP&ceid=JP:ja
+  priority: B
+  region: 国内
+  focus: ガジェット・家電・カメラ・買いもの情報
+  enabled: true
+  via: google-news
+  notes: 公式RSSは2026-08時点で廃止（/feed/ 系はトップへリダイレクト・記事タイトル入りsitemapも無し）。
+    そのためGoogleニュース経由で取得している。要約は取れずタイトルのみ。リンクはGoogle経由の転送URL。
+    公式RSSが復活したら url を https://getnavi.jp/feed/ に戻し via を消すこと

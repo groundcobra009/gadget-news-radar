@@ -1,12 +1,12 @@
 # ガジェットニュース毎朝ダイジェスト（gadget-news-radar）
 
-26本のRSSを毎朝5時に24時間分収集し、Claude が推奨度（★1〜★3）を付けたHTMLダイジェストを
+27本のフィードを毎朝5時に24時間分収集し、Claude が推奨度（★1〜★3）を付けたHTMLダイジェストを
 Resend でGmailに配信する。GitHub Actions の cron で自動実行。
 
 ## パイプライン
 
 ```
-① npm run collect   26フィード取得 → 24h窓で絞る → 既出除外 → スコア順 → out/candidates.json
+① npm run collect   27フィード取得 → 24h窓で絞る → 既出除外 → スコア順 → out/candidates.json
                     LLMに渡す用の絞り込み版 out/judge-input.json も書く
                           ↓
 ② Claude（GitHub Actions のみ）  judge-input.json + config/profile.md を読み
@@ -45,7 +45,7 @@ npm run goal      # 完成判定（実フィードに出る）
 
 | ファイル | 中身 |
 |---|---|
-| `config/feeds.yaml` | 収集元26本。`enabled: false` で除外できる（コード修正不要） |
+| `config/feeds.yaml` | 収集元27本。`enabled: false` で除外できる（コード修正不要）。公式RSSが無い媒体は `via: google-news` でGoogleニュース経由にできる |
 | `config/keywords.yaml` | スコア加点・減点のキーワード。**捨てるためではなく並べるため** |
 | `config/profile.md` | 推奨度の判定基準。★の付き方を変えたいときはここを直す |
 

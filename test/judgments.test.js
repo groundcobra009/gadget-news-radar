@@ -27,13 +27,15 @@ test("judgments が配列でも文字列でも壊れていても落ちない", (
 
 test("正常な判定はマージされる", () => {
   const r = applyJudgments(CANDIDATES, {
-    summary: "今日は3本",
+    summary: { headline: "今日は3本", lead: "内訳はAIが2本、周辺機器が1本。", points: ["MCP更新"] },
     items: [
       { id: "a", stars: 3, reason: "一次情報の正式発表" },
       { id: "b", stars: 1, reason: "噂のみ" },
     ],
   });
-  assert.equal(r.summary, "今日は3本");
+  assert.equal(r.summary.headline, "今日は3本");
+  assert.equal(r.summary.lead, "内訳はAIが2本、周辺機器が1本。");
+  assert.deepEqual(r.summary.points, ["MCP更新"]);
   assert.equal(r.items[0].stars, 3);
   assert.equal(r.items[0].reason, "一次情報の正式発表");
   assert.equal(r.items[1].stars, 1);

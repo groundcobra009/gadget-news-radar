@@ -72,6 +72,39 @@ function emptyRow(text) {
   return `<tr><td style="padding:12px 0;font-size:12px;color:${MUTED};">${escapeHtml(text)}</td></tr>`;
 }
 
+// 要約は「見出し1行 → 概況2〜3文 → トピック箇条書き」の3層で描く。
+// 箇条書きは <ul> ではなく行＋中黒で組む（メールクライアント間で余白が暴れないため）。
+function summaryRows(summary) {
+  // 契約層が正規化して渡すが、素の文字列で来ても壊れないようにしておく
+  if (typeof summary === "string") {
+    summary = summary.trim() ? { headline: null, lead: summary, points: [] } : null;
+  }
+  if (!summary) {
+    return [emptyRow("要約はありません（判定ステップが要約を返しませんでした）。")];
+  }
+  const rows = [];
+  if (summary.headline) {
+    rows.push(
+      `<tr><td style="padding:14px 0 0 0;font-size:15px;font-weight:700;line-height:1.6;color:${INK};">${escapeHtml(summary.headline)}</td></tr>`
+    );
+  }
+  if (summary.lead) {
+    rows.push(
+      `<tr><td style="padding:8px 0 0 0;font-size:13px;line-height:1.8;color:${INK};">${escapeHtml(summary.lead)}</td></tr>`
+    );
+  }
+  for (const point of summary.points ?? []) {
+    rows.push(
+      `<tr><td style="padding:5px 0 0 0;font-size:12px;line-height:1.7;color:${INK};">` +
+        `<span style="color:${MUTED};">・</span> ${escapeHtml(point)}</td></tr>`
+    );
+  }
+  if ((summary.points ?? []).length > 0) {
+    rows.push('<tr><td style="padding:0 0 6px 0;font-size:1px;line-height:1px;">&nbsp;</td></tr>');
+  }
+  return rows;
+}
+
 /**
  * メール件名を組み立てる。未判定があれば件名の時点でわかるようにする。
  */
@@ -107,11 +140,7 @@ export function renderEmailHtml({ window: win, generatedAt, summary, items, sour
   }
 
   rows.push(heading("今日の要約"));
-  rows.push(
-    summary
-      ? `<tr><td style="padding:12px 0;font-size:13px;line-height:1.8;color:${INK};">${escapeHtml(summary)}</td></tr>`
-      : emptyRow("要約はありません（判定ステップが要約を返しませんでした）。")
-  );
+  rows.push(...summaryRows(summary));
 
   if (list.length === 0) {
     rows.push(emptyRow("該当する記事はありませんでした。"));

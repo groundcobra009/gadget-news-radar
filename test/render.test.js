@@ -10,7 +10,11 @@ const WIN = jstWindow(new Date("2026-08-28T20:40:00Z"));
 const BASE = {
   window: WIN,
   generatedAt: "2026-08-29T05:02:00+09:00",
-  summary: "本日はAIノートPCの国内発表が中心。",
+  summary: {
+    headline: "Googleの発表が集中した一日",
+    lead: "本日はAIノートPCの国内発表が中心。価格と発売日が判明した。",
+    points: ["Gemini 3.5 Transcribeが公開", "Galaxy S26 FEが約11万円から"],
+  },
   items: [
     {
       id: "a",
@@ -112,6 +116,29 @@ test("取得に失敗したソースは理由つきで出す（黙って消さ�
 test("記事が0件でも落ちず、その旨を出す", () => {
   const html = renderEmailHtml({ ...BASE, items: [], summary: null, unjudgedCount: 0 });
   assert.ok(html.includes("該当する記事はありませんでした"));
+});
+
+test("要約は見出し・リード・箇条書きの3層で出る", () => {
+  const html = renderEmailHtml(BASE);
+  assert.ok(html.includes("Googleの発表が集中した一日"), "見出しが無い");
+  assert.ok(html.includes("価格と発売日が判明した"), "リードが無い");
+  assert.ok(html.includes("Gemini 3.5 Transcribeが公開"), "箇条書きが無い");
+  assert.ok(html.includes("Galaxy S26 FEが約11万円から"), "箇条書き2件目が無い");
+});
+
+test("要約が無いときはその旨を出す（黙って空欄にしない）", () => {
+  const html = renderEmailHtml({ ...BASE, summary: null });
+  assert.ok(html.includes("要約はありません"));
+});
+
+test("要約の見出し・箇条書きもHTMLエスケープされる", () => {
+  const html = renderEmailHtml({
+    ...BASE,
+    summary: { headline: "<b>見出し</b>", lead: null, points: ["a<b>c"] },
+  });
+  assert.ok(!html.includes("<b>見出し</b>"));
+  assert.ok(html.includes("&lt;b&gt;見出し&lt;/b&gt;"));
+  assert.ok(html.includes("a&lt;b&gt;c"));
 });
 
 test("buildSubject は日付・★★★件数・全件数を含む", () => {

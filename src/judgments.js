@@ -7,15 +7,16 @@
 //   （設計は 001Area/bid-radar の src/judgments.js を踏襲）
 //
 // 契約:
-//   { "summary": "…", "items": [ { "id": "<候補のid>", "stars": 1|2|3, "reason": "…" } ] }
+//   { "summary": { "headline": "…", "lead": "…", "points": ["…"] },
+//     "items": [ { "id": "<候補のid>", "stars": 1|2|3, "reason": "…" } ] }
 //   - stars が整数の 1/2/3 以外 → 未判定（stars: null）
 //   - candidates に無い id → 無視（幻の記事を混入させない）
 //   - judgments に無い候補 → 未判定として残す（判定漏れを隠さない）
 //   - ファイルが無い・壊れている → 全件未判定で続行（例外にしない）
 import { sanitizeText } from "./sanitize.js";
+import { normalizeSummary } from "./summary.js";
 
 const REASON_MAX = 200;
-const SUMMARY_MAX = 400;
 
 function isPlainObject(value) {
   return value !== null && typeof value === "object" && !Array.isArray(value);
@@ -45,6 +46,6 @@ export function applyJudgments(candidates, judgments) {
     return { ...candidate, stars, reason };
   });
 
-  const summary = typeof root.summary === "string" ? sanitizeText(root.summary, SUMMARY_MAX) : null;
+  const summary = normalizeSummary(root.summary);
   return { items, summary, unjudgedCount };
 }

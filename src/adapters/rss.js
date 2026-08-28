@@ -55,20 +55,35 @@ function toIso(value) {
  * @param {{ id:string, name:string, priority:string, region:string }} source
  */
 export function feedToItems(feed, source) {
+  const viaGoogleNews = source.via === "google-news";
   return (feed?.items ?? []).map((item) => {
     const url = item.link || item.guid || "";
+    let title = item.title || "";
+    let summary = item.contentSnippet || item.summary || item.content || item.description || "";
+
+    if (viaGoogleNews) {
+      // Googleニュースはタイトル末尾に「 - 媒体名」を付ける。媒体名は別枠で出すので落とす
+      title = title.replace(new RegExp(`\\s*[-–—]\\s*${escapeRegExp(source.name)}\\s*$`), "");
+      // descriptionは記事へのアンカータグだけで要約になっていない。渡さない
+      summary = "";
+    }
+
     return {
       id: makeId(url),
-      title: item.title || "",
+      title,
       url,
       source: source.name,
       sourceId: source.id,
       sourcePriority: source.priority,
       sourceRegion: source.region,
       publishedAt: toIso(item.isoDate || item.pubDate || item.dcDate || item.date || item.updated),
-      summary: item.contentSnippet || item.summary || item.content || item.description || "",
+      summary,
     };
   });
+}
+
+function escapeRegExp(value) {
+  return String(value ?? "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 // 既定の取得関数。生バイトで返すのは文字コード判定を自前でやるため。
