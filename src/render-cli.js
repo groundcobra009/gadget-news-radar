@@ -5,6 +5,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { applyJudgments } from "./judgments.js";
 import { renderEmailHtml, buildSubject } from "./render.js";
+import { buildExport } from "./export.js";
 import {
   CANDIDATES_PATH,
   JUDGMENTS_PATH,
@@ -46,9 +47,12 @@ function main() {
 
   fs.writeFileSync(htmlPath, html);
   writeJson(path.join(OUT_DIR, "digest.json"), { subject, htmlPath, unjudgedCount, itemCount: items.length });
+  // 他リポジトリ（x-viral-drafts等）が読む機械可読版。固定パスで毎日上書きする
+  writeJson(path.join(OUT_DIR, "latest.json"), buildExport(view));
 
   console.log(`件名: ${subject}`);
   console.log(`本文: ${htmlPath}（${items.length}件・未判定 ${unjudgedCount}件）`);
+  console.log(`連携用: out/latest.json（${items.length}件）`);
 }
 
 try {

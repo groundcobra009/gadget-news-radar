@@ -62,3 +62,31 @@ npm run goal      # 完成判定（実フィードに出る）
 
 `node --test`。全テストが fixture ベースでネットワークに出ない（fetcher とメールクライアントを
 注入する）。`test/fixtures/` に RSS 2.0 / RDF(Impress系) / Atom / Shift_JIS / 空 / 壊れXML を置いてある。
+
+## 他リポジトリへの連携（out/latest.json）
+
+判定済みの結果を機械可読な形で公開している。認証不要で読める。
+
+```
+https://raw.githubusercontent.com/groundcobra009/gadget-news-radar/main/out/latest.json
+```
+
+```json
+{
+  "producer": "gadget-news-radar",
+  "schemaVersion": 1,
+  "window": { "startIso": "…", "endIso": "…", "dateLabel": "2026-08-29" },
+  "summary": { "headline": "…", "lead": "…", "points": ["…"] },
+  "counts": { "total": 250, "stars3": 7, "stars2": 40, "stars1": 203, "unjudged": 0 },
+  "items": [
+    { "id": "…", "title": "…", "url": "…", "source": "PC Watch", "region": "国内",
+      "publishedAt": "…", "stars": 3, "reason": "…", "score": 8, "groups": ["AI・生成AI"] }
+  ]
+}
+```
+
+- **絞り込みは読む側の仕事**。判定結果は全件そのまま出し、材料（`stars` / `score` /
+  `groups` / `region`）を添えるだけにしてある
+- AI関連だけ欲しい場合は `groups` に `AI・生成AI` を含むものを抜く
+- 固定パスで毎日上書きするので、常に直近24時間分が入っている。鮮度は `window.endIso` で判断する
+- 記事本文の抜粋（`summary`）は渡していない。必要なら `url` から各自取得すること
