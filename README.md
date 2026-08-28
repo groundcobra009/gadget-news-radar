@@ -39,7 +39,7 @@ npm run goal      # 完成判定（実フィードに出る）
 | `CLAUDE_CODE_OAUTH_TOKEN` | 判定ステップ。`claude setup-token` で発行（Maxサブスクを使うので追加課金なし） |
 | `RESEND_API_KEY` | メール送信 |
 | `MAIL_FROM` | `ガジェットレーダー <digest@news.keitro-aigc.com>`（ドメイン検証前は `onboarding@resend.dev` でも可） |
-| `MAIL_TO` | `nakashima.keitarou@gmail.com`（本人のGmail1件のみ） |
+| `MAIL_TO` | 配信先。**本人のGmail 1件のみ**（増やすときは DECISIONS.md の線引きを読む） |
 
 ## 設定
 

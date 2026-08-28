@@ -85,8 +85,9 @@ async function main() {
 
   console.log("=== 5. 送信payloadの組み立て（--dry-run・実送信しません） ===");
   const sendCode = await run("node", ["src/send-cli.js", "--dry-run"], {
-    MAIL_FROM: process.env.MAIL_FROM || "ガジェットレーダー <digest@news.keitro-aigc.com>",
-    MAIL_TO: process.env.MAIL_TO || "nakashima.keitarou@gmail.com",
+    // dry-run で payload の組み立てだけ確認するためのダミー値。実送信はしない
+    MAIL_FROM: process.env.MAIL_FROM || "gadget-news-radar <digest@example.com>",
+    MAIL_TO: process.env.MAIL_TO || "you@example.com",
   });
   record("send --dry-run", sendCode === 0);
 
