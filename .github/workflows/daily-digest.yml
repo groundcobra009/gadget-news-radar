@@ -33,13 +33,13 @@ jobs:
       # 値は絶対に表示しない。キー名だけを出す（ai-company CLAUDE.md §3）
       - name: Secretsの設定を確認
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
         run: |
           missing=""
-          for key in CLAUDE_CODE_OAUTH_TOKEN RESEND_API_KEY MAIL_FROM MAIL_TO; do
+          for key in ANTHROPIC_API_KEY RESEND_API_KEY MAIL_FROM MAIL_TO; do
             if [ -z "$(eval echo \$$key)" ]; then missing="$missing $key"; fi
           done
           if [ -n "$missing" ]; then
@@ -48,15 +48,15 @@ jobs:
           fi
           echo "必要なSecretsはすべて設定されています"
 
-      # 401 の切り分け用。値は絶対に出さず、長さと形だけを見る（原因が分かったら消す）
-      - name: OAuthトークンの形を検査（値は出さない）
+      # 401 の切り分け用。値は絶対に出さず、長さと形だけを見る（安定したら消す）
+      - name: APIキーの形を検査（値は出さない）
         env:
-          T: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          T: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           echo "長さ: ${#T}"
           case "$T" in
-            sk-ant-oat01-*) echo "接頭辞: sk-ant-oat01- で始まる（OK）" ;;
-            *) echo "接頭辞: sk-ant-oat01- で始まっていない（NG）" ;;
+            sk-ant-api03-*) echo "接頭辞: sk-ant-api03- で始まる（OK）" ;;
+            *) echo "接頭辞: sk-ant-api03- で始まっていない（NG）" ;;
           esac
           if printf %s "$T" | grep -q "[[:space:]]"; then
             echo "空白/改行: 含まれている（NG・コピー時に折り返しが入った可能性）"
@@ -79,7 +79,7 @@ jobs:
         continue-on-error: true # 判定が落ちてもメールは「未判定」として必ず出す
         uses: anthropics/claude-code-action@v1
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           # 判定が is_error で落ちる原因を追うため一時的に有効化（原因が分かったら外す）
           show_full_output: true
           claude_args: |
