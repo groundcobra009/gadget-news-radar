@@ -33,13 +33,13 @@ jobs:
       # 値は絶対に表示しない。キー名だけを出す（ai-company CLAUDE.md §3）
       - name: Secretsの設定を確認
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
         run: |
           missing=""
-          for key in ANTHROPIC_API_KEY RESEND_API_KEY MAIL_FROM MAIL_TO; do
+          for key in CLAUDE_CODE_OAUTH_TOKEN RESEND_API_KEY MAIL_FROM MAIL_TO; do
             if [ -z "$(eval echo \$$key)" ]; then missing="$missing $key"; fi
           done
           if [ -n "$missing" ]; then
@@ -48,21 +48,23 @@ jobs:
           fi
           echo "必要なSecretsはすべて設定されています"
 
-      # 401 の切り分け用。値は絶対に出さず、長さと形だけを見る（安定したら消す）
-      - name: APIキーの形を検査（値は出さない）
+      # 認証エラーの切り分け用。値は絶対に出さず、長さ・接頭辞・非ASCII混入だけを見る
+      - name: 認証情報の形を検査（値は出さない）
         env:
-          T: ${{ secrets.ANTHROPIC_API_KEY }}
+          OAUTH: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          APIKEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          echo "長さ: ${#T}"
-          case "$T" in
-            sk-ant-api03-*) echo "接頭辞: sk-ant-api03- で始まる（OK）" ;;
-            *) echo "接頭辞: sk-ant-api03- で始まっていない（NG）" ;;
-          esac
-          if printf %s "$T" | grep -q "[[:space:]]"; then
-            echo "空白/改行: 含まれている（NG・コピー時に折り返しが入った可能性）"
-          else
-            echo "空白/改行: なし（OK）"
-          fi
+          check() {
+            local label="$1" value="$2" want="$3"
+            if [ -z "$value" ]; then echo "$label: 未登録"; return; fi
+            local note="長さ=${#value}"
+            case "$value" in "$want"*) note="$note 接頭辞OK" ;; *) note="$note 接頭辞NG(${want}で始まっていない)" ;; esac
+            if printf %s "$value" | LC_ALL=C grep -q "[^ -~]"; then note="$note 非ASCII混入NG"; fi
+            if printf %s "$value" | grep -q "[[:space:]]"; then note="$note 空白/改行NG"; fi
+            echo "$label: $note"
+          }
+          check "CLAUDE_CODE_OAUTH_TOKEN" "$OAUTH" "sk-ant-oat01-"
+          check "ANTHROPIC_API_KEY" "$APIKEY" "sk-ant-api03-"
 
       - name: ユニットテスト
         run: npm test
@@ -79,7 +81,7 @@ jobs:
         continue-on-error: true # 判定が落ちてもメールは「未判定」として必ず出す
         uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           # 判定が is_error で落ちる原因を追うため一時的に有効化（原因が分かったら外す）
           show_full_output: true
           claude_args: |
