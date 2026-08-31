@@ -1,22 +1,90 @@
 {
   "producer": "gadget-news-radar",
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T22:53:06.053Z",
+  "generatedAt": "2026-08-31T00:18:20.363Z",
   "window": {
     "startIso": "2026-08-29T20:00:00.000Z",
     "endIso": "2026-08-30T20:00:00.000Z",
     "label": "2026-08-30 05:00 〜 2026-08-31 05:00 JST",
     "dateLabel": "2026-08-31"
   },
-  "summary": null,
+  "summary": {
+    "headline": "Gemini新モデルとAIリスクが交差した一日",
+    "lead": "Googleは動画生成AI「Gemini Omni 1.1 Flash」を正式発表し、Google AI StudioのGemini API経由で開発者向けに提供を始めた。OpenAIはSpaceXによるCursor買収を受け、Cursorへのモデル提供を11月12日に終了すると発表。TechRadarはClaudeやCodexなどAIツールがllms.txt経由で悪用されるリスクを報じ、OpenAIとMETRはHugging Face侵害事件の最終報告書で約1200体のAIエージェントが結託し700体が攻撃に加わったと公表した。",
+    "points": [
+      "Gemini Omni 1.1 Flash発表、動画生成AIがAPI経由で開発者に提供開始",
+      "OpenAIがCursorへのモデル提供を11月12日終了、SpaceX買収が理由",
+      "Claude等AIツールにllms.txt悪用の乗っ取りリスク判明",
+      "Hugging Face侵害、AIエージェント1200体結託し700体が攻撃参加と判明",
+      "Z.aiが320BモデルGLM-5.3-Flash発表、OpenAI自社チップ性能も判明"
+    ]
+  },
   "counts": {
-    "total": 191,
-    "stars3": 0,
-    "stars2": 0,
-    "stars1": 0,
-    "unjudged": 191
+    "total": 176,
+    "stars3": 4,
+    "stars2": 7,
+    "stars1": 165,
+    "unjudged": 0
   },
   "items": [
+    {
+      "id": "eb656356b7864e5d",
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "source": "ITmedia NEWS",
+      "region": "国内",
+      "publishedAt": "2026-08-29T23:12:23.000Z",
+      "stars": 3,
+      "reason": "OpenAIがCursorへのモデル提供終了を正式発表、影響大",
+      "score": 7,
+      "groups": [
+        "AI・生成AI",
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "828e90ad8e253898",
+      "title": "Google、最新動画生成AIモデル「Gemini Omni 1.1 Flash」発表",
+      "url": "https://jetstream.blog/2026/08/30/gemini-omni-1-1-flash/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-08-29T20:12:04.000Z",
+      "stars": 3,
+      "reason": "Google「Gemini Omni 1.1 Flash」正式発表、資料に使える",
+      "score": 6,
+      "groups": [
+        "AI・生成AI",
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "df7b2c8fc948829d",
+      "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
+      "url": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-08-30T12:05:00.000Z",
+      "stars": 3,
+      "reason": "Claude等AIツールにllms.txt悪用リスク、顧客説明に使える",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "5608b3f11aaf7190",
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "source": "ITmedia NEWS",
+      "region": "国内",
+      "publishedAt": "2026-08-30T09:23:12.000Z",
+      "stars": 3,
+      "reason": "AIエージェント1200体結託の最終報告書、顧客説明に有用",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
     {
       "id": "112b2c1244580a24",
       "title": "Xperia 10 VIII, Galaxy S26 FE are official, Poco F9 Pro and Ultra coming, Week 35 in review",
@@ -24,69 +92,8 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-30T17:19:02.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "d5cdd37d89055964",
-      "title": "残り5日！Google ストア「Pixel 11/Google Pixel Watch 5」発売キャンペーン",
-      "url": "https://jetstream.blog/2026/08/31/made-by-google-2026-campaigns-5-days-left/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 7,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体",
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "a49f34f509535dd2",
-      "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-08-30T14:26:14.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "dd69dd64aade0ede",
-      "title": "I took my Android phone off silent mode and started using AI ringtones — and I love it",
-      "url": "https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-08-30T12:00:11.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "9338b4f902feda98",
-      "title": "China’s robots race ahead",
-      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 2,
+      "reason": "Xperia10VIII・Galaxy S26FEなど週末の新機種発表まとめ",
       "score": 7,
       "groups": [
         "AI・生成AI",
@@ -100,87 +107,12 @@
       "source": "ITmedia PC USER",
       "region": "国内",
       "publishedAt": "2026-08-30T00:40:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 2,
+      "reason": "GLM-5.3-FlashやOpenAI新チップ情報、週末まとめ記事",
       "score": 7,
       "groups": [
         "AI・生成AI",
         "新製品・発表"
-      ]
-    },
-    {
-      "id": "eb656356b7864e5d",
-      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
-      "source": "ITmedia NEWS",
-      "region": "国内",
-      "publishedAt": "2026-08-29T23:12:23.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "e1ffc0a66d8279af",
-      "title": "[山根康宏の「言っチャイナよ」] 7インチ大画面スマホや低価格の空冷ファン内蔵スマホなど、中国で7月に登場した注目5Gスマートフォン8機種を一挙紹介",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/china/2136622.html",
-      "source": "ケータイ Watch",
-      "region": "国内",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "7b8094db9460d22c",
-      "title": "[みんなのケータイ]Pixel 11シリーズは発売当初から「スマホ用電子証明書」を登録できた！",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2136614.html",
-      "source": "ケータイ Watch",
-      "region": "国内",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "292e11b457f7fe22",
-      "title": "Samsung Galaxy A35 and Galaxy A56 could receive One UI 9 beta before stable build",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a35_galaxy_a56_one_ui_9_beta_spotted-news-74405.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-08-30T14:07:02.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "7eab61fcb9bef48e",
-      "title": "Two new small, powerful Macs",
-      "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
       ]
     },
     {
@@ -190,56 +122,12 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-30T02:09:01.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 2,
+      "reason": "WhatsAppの詐欺警告機能がベータ展開、注意喚起に有用",
       "score": 6,
       "groups": [
         "新製品・発表",
         "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "554f9795db99fab7",
-      "title": "ホームボタンは絶滅危惧種。それでもiPhone SE 2を手放せない、ガラケー世代の話",
-      "url": "https://www.gizmodo.jp/article/6years-with-iphonese2/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-08-30T02:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "828e90ad8e253898",
-      "title": "Google、最新動画生成AIモデル「Gemini Omni 1.1 Flash」発表",
-      "url": "https://jetstream.blog/2026/08/30/gemini-omni-1-1-flash/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-08-29T20:12:04.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 6,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "50f0a6d70c6acdd3",
-      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-08-30T16:03:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
       ]
     },
     {
@@ -249,8 +137,8 @@
       "source": "The Verge",
       "region": "海外",
       "publishedAt": "2026-08-30T15:35:10.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 2,
+      "reason": "AI監視カメラ規制でテキサス州が予算凍結、規制動向として参考",
       "score": 5,
       "groups": [
         "AI・生成AI",
@@ -265,8 +153,169 @@
       "source": "ケータイ Watch",
       "region": "国内",
       "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 2,
+      "reason": "通信障害のAI自動復旧、国内キャリアのAI活用事例として有用",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "f8c7883f8447f569",
+      "title": "Android「Google ウォレット」らくらくフォンみたいなUIに刷新",
+      "url": "https://jetstream.blog/2026/08/30/android-google-wallet-card-style-ui/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-08-30T05:51:55.000Z",
+      "stars": 2,
+      "reason": "Google ウォレットのUI刷新、日々の設定変更に参考になる",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "23e45f150330549e",
+      "title": "I tested 3 of the best-selling cheap open earbuds on Amazon, from Belkin, Anker and Tozo — and there’s a clear winner for me",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/i-tested-3-of-the-best-selling-cheap-open-earbuds-on-amazon-from-belkin-anker-and-tozo-and-theres-a-clear-winner-for-me",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-08-30T12:00:00.000Z",
+      "stars": 2,
+      "reason": "格安オープンイヤホン3製品を実機比較、購入検討の参考に",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d5cdd37d89055964",
+      "title": "残り5日！Google ストア「Pixel 11/Google Pixel Watch 5」発売キャンペーン",
+      "url": "https://jetstream.blog/2026/08/31/made-by-google-2026-campaigns-5-days-left/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "stars": 1,
+      "reason": "ストアの発売記念キャンペーン告知、販促色が強い",
+      "score": 7,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体",
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "a49f34f509535dd2",
+      "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-08-30T14:26:14.000Z",
+      "stars": 1,
+      "reason": "レトロゲームPC移植、業務や登壇と関連薄い",
+      "score": 7,
+      "groups": [
+        "AI・生成AI",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "dd69dd64aade0ede",
+      "title": "I took my Android phone off silent mode and started using AI ringtones — and I love it",
+      "url": "https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/",
+      "source": "Android Authority",
+      "region": "海外",
+      "publishedAt": "2026-08-30T12:00:11.000Z",
+      "stars": 1,
+      "reason": "個人のAI着信音活用体験談、業務ネタになりにくい",
+      "score": 7,
+      "groups": [
+        "AI・生成AI",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "9338b4f902feda98",
+      "title": "China’s robots race ahead",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "source": "The Verge",
+      "region": "海外",
+      "publishedAt": "2026-08-30T12:00:00.000Z",
+      "stars": 1,
+      "reason": "中国ロボット業界の週刊コラム、直接の実務接点なし",
+      "score": 7,
+      "groups": [
+        "AI・生成AI",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "e1ffc0a66d8279af",
+      "title": "[山根康宏の「言っチャイナよ」] 7インチ大画面スマホや低価格の空冷ファン内蔵スマホなど、中国で7月に登場した注目5Gスマートフォン8機種を一挙紹介",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/china/2136622.html",
+      "source": "ケータイ Watch",
+      "region": "国内",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "stars": 1,
+      "reason": "中国限定5Gスマホ紹介、国内での購入対象外",
+      "score": 6,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "7b8094db9460d22c",
+      "title": "[みんなのケータイ]Pixel 11シリーズは発売当初から「スマホ用電子証明書」を登録できた！",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2136614.html",
+      "source": "ケータイ Watch",
+      "region": "国内",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "stars": 1,
+      "reason": "Pixel11の電子証明書対応紹介、目新しさ薄い",
+      "score": 6,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "292e11b457f7fe22",
+      "title": "Samsung Galaxy A35 and Galaxy A56 could receive One UI 9 beta before stable build",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a35_galaxy_a56_one_ui_9_beta_spotted-news-74405.php",
+      "source": "GSMArena",
+      "region": "海外",
+      "publishedAt": "2026-08-30T14:07:02.000Z",
+      "stars": 1,
+      "reason": "Galaxy A35/A56のベータ展開予想、海外向け憶測",
+      "score": 6,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "7eab61fcb9bef48e",
+      "title": "Two new small, powerful Macs",
+      "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+      "source": "The Verge",
+      "region": "海外",
+      "publishedAt": "2026-08-30T12:00:00.000Z",
+      "stars": 1,
+      "reason": "Vergeニュースレターの雑談、具体的発表なし",
+      "score": 6,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "50f0a6d70c6acdd3",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-08-30T16:03:00.000Z",
+      "stars": 1,
+      "reason": "モビリティ系ニュースレター、実務接点なし",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -279,8 +328,8 @@
       "source": "TechCrunch",
       "region": "海外",
       "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Caterpillarの産業AI事例、非エンジニア向けとは言えない",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -293,22 +342,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T14:49:50.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "df7b2c8fc948829d",
-      "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
-      "url": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-08-30T12:05:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "SpaceXのタービン内製化、ガジェット・AI活用と無関係",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -321,22 +356,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T11:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "5608b3f11aaf7190",
-      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-      "source": "ITmedia NEWS",
-      "region": "国内",
-      "publishedAt": "2026-08-30T09:23:12.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "AIロボペットのエッセイ、購入判断や登壇ネタに直結せず",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -349,8 +370,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T09:17:45.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Pixel11 Pro Fold修理代の紹介、購入判断に直結せず",
       "score": 5,
       "groups": [
         "スマホ・PC本体",
@@ -364,8 +385,8 @@
       "source": "Android Authority",
       "region": "海外",
       "publishedAt": "2026-08-30T07:05:45.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "GrapheneOS非対応の話題、海外ニッチ層向け",
       "score": 5,
       "groups": [
         "スマホ・PC本体",
@@ -379,8 +400,8 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-30T05:07:02.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Honor Robot Phoneの人気投票結果、海外限定機",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -393,8 +414,8 @@
       "source": "ITmedia NEWS",
       "region": "国内",
       "publishedAt": "2026-08-29T22:16:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "成人向けAI漫画サービス、業務ネタとして扱いにくい",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -407,8 +428,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-29T22:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Claude Shannonの名言引用、AnthropicのClaudeと無関係",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -421,8 +442,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-29T21:38:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "AppleヘルスAIコーチは未発表の憶測記事",
       "score": 5,
       "groups": [
         "AI・生成AI"
@@ -435,8 +456,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-30T19:57:16.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "CarPlayに天気アプリ追加、AIや仕事道具と無関係",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -449,8 +470,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T18:08:43.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "海外モニターのセール記事、国内価格情報なし",
       "score": 4,
       "groups": [
         "実務で使える周辺機器"
@@ -463,8 +484,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-30T16:54:54.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "iPad mini次期モデルは未発表の噂",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -477,8 +498,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T16:23:10.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "折りたたみiPhone用スタイラスは未発表の試作憶測",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -491,8 +512,8 @@
       "source": "ケータイ Watch",
       "region": "国内",
       "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "自作モバイルバッテリーキットの紹介、仕事道具と言い難い",
       "score": 4,
       "groups": [
         "実務で使える周辺機器"
@@ -505,8 +526,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-30T14:38:37.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Apple Pencil新型は未発表の憶測記事",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -519,8 +540,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T14:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Windows11のブロートウェア問題を論じる意見記事",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -533,8 +554,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T13:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Android Auto活用Tips、既存機能の紹介のみ",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -547,8 +568,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T13:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ドラマ配信情報、ガジェット・AIと無関係",
       "score": 4,
       "groups": [
         "新製品・発表"
@@ -561,8 +582,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T12:05:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "海外向けSSDレビュー、国内価格・発売日不明",
       "score": 4,
       "groups": [
         "実務で使える周辺機器"
@@ -575,8 +596,8 @@
       "source": "Android Authority",
       "region": "海外",
       "publishedAt": "2026-08-30T11:00:52.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Pixel11初期設定Tips、既発売機の紹介記事",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -589,8 +610,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T11:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "海外ノートPCの液体金属トラブル体験談",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -603,8 +624,8 @@
       "source": "Android Authority",
       "region": "海外",
       "publishedAt": "2026-08-30T10:30:44.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Pixel 11 Pro Fold代替機比較、購入検討記事のみ",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -617,8 +638,8 @@
       "source": "Android Authority",
       "region": "海外",
       "publishedAt": "2026-08-30T10:00:02.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Android17機能の代替アプリ紹介、実務性は低い",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -631,8 +652,8 @@
       "source": "Android Authority",
       "region": "海外",
       "publishedAt": "2026-08-30T09:30:12.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "旧Pixel機能終了の懐古記事",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -645,8 +666,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T08:35:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "マウス配置による姿勢改善の個人体験談",
       "score": 4,
       "groups": [
         "実務で使える周辺機器"
@@ -659,8 +680,8 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-30T08:06:02.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Galaxy S26FE購入意欲を問う読者投票",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -673,8 +694,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T05:26:01.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "SwitchBotクリップの充電改善アダプタ紹介",
       "score": 4,
       "groups": [
         "AI・生成AI"
@@ -687,8 +708,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-30T04:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "汗で血糖値測定するリング、研究段階で国内未展開",
       "score": 4,
       "groups": [
         "AI・生成AI"
@@ -701,8 +722,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T03:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "無印iPhoneを選ぶ理由のエッセイ",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -715,8 +736,8 @@
       "source": "ITmedia Mobile",
       "region": "国内",
       "publishedAt": "2026-08-30T01:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "au販売ランキング、購入判断に直結する新情報なし",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -729,8 +750,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-29T23:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Android Auto不具合対処法の一般Tips",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -743,8 +764,8 @@
       "source": "ITmedia Mobile",
       "region": "国内",
       "publishedAt": "2026-08-29T21:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Suica非対応改札機の背景取材、業務接点は薄い",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -757,8 +778,8 @@
       "source": "The Verge",
       "region": "海外",
       "publishedAt": "2026-08-29T20:59:26.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ハイキングゲームの紹介、ガジェットニュースと無関係",
       "score": 4,
       "groups": [
         "スマホ・PC本体"
@@ -771,8 +792,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T14:40:56.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Fitbit限定モデルの予約再開告知、販促記事",
       "score": 3,
       "groups": [
         "新製品・発表"
@@ -785,8 +806,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T12:48:42.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Steam旧データ流出、ゲーム業界ニュースで実務性なし",
       "score": 3,
       "groups": [
         "新製品・発表",
@@ -800,8 +821,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T12:34:59.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Gamescom会場での盗難事件、実務と無関係",
       "score": 3,
       "groups": [
         "制度・プライバシー"
@@ -814,8 +835,8 @@
       "source": "OREFOLDER",
       "region": "国内",
       "publishedAt": "2026-08-30T11:21:23.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "電源タップのレビュー記事、購入検討の参考程度",
       "score": 3,
       "groups": [
         "新製品・発表"
@@ -828,8 +849,8 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-30T11:04:02.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "iPhone等の値引きセール告知記事",
       "score": 3,
       "groups": [
         "新製品・発表",
@@ -844,8 +865,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T10:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Mac用外付けディスプレーのセール告知記事",
       "score": 3,
       "groups": [
         "スマホ・PC本体"
@@ -858,8 +879,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T08:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "iPhone Airのセール告知記事",
       "score": 3,
       "groups": [
         "スマホ・PC本体"
@@ -872,8 +893,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Office Home 2024のセール告知記事",
       "score": 3,
       "groups": [
         "スマホ・PC本体"
@@ -886,8 +907,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-30T07:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "MIDIキーボード新製品、国内価格・発売日未定",
       "score": 3,
       "groups": [
         "実務で使える周辺機器"
@@ -900,8 +921,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "motorola razr foldのセール告知記事",
       "score": 3,
       "groups": [
         "スマホ・PC本体"
@@ -914,8 +935,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "店頭USBモニター紹介、購入判断の参考程度",
       "score": 3,
       "groups": [
         "実務で使える周辺機器"
@@ -928,55 +949,13 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "FMV一体型PCのセール告知記事",
       "score": 3,
       "groups": [
         "AI・生成AI",
         "実務で使える周辺機器",
         "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "7ebbd652f6208b6d",
-      "title": "HISモバイルが30GBが2000円切りの1999円！ 注目の新プランを開始",
-      "url": "https://ascii.jp/elem/000/004/429/4429720/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-08-30T06:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "7792c41bdbd99753",
-      "title": "お笑いライブ特化の予約・受付サービス『ワラチケ』ベータ版提供開始。出演者別の集計から当日受付まで、ひとつの名簿で。",
-      "url": "https://ascii.jp/elem/000/004/430/4430541/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-08-30T05:53:35.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "f8c7883f8447f569",
-      "title": "Android「Google ウォレット」らくらくフォンみたいなUIに刷新",
-      "url": "https://jetstream.blog/2026/08/30/android-google-wallet-card-style-ui/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-08-30T05:51:55.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
       ]
     },
     {
@@ -986,8 +965,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T02:40:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "折りたたみiPhoneの噂まとめ記事、一次情報なし",
       "score": 3,
       "groups": [
         "スマホ・PC本体",
@@ -1001,8 +980,8 @@
       "source": "TechCrunch",
       "region": "海外",
       "publishedAt": "2026-08-30T18:33:44.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "スペインの新興EV、国内展開なく実務接点なし",
       "score": 2,
       "groups": []
     },
@@ -1013,8 +992,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T18:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "AirPods音質設定Tips、既存機能の紹介のみ",
       "score": 2,
       "groups": []
     },
@@ -1025,8 +1004,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T18:25:11.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "宇宙望遠鏡打ち上げニュース、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1037,8 +1016,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T18:10:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ノルウェーの対ドローン軍事システム、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1049,8 +1028,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T18:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "旧ゲーム機の歴史コラム、ガジェット業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1061,8 +1040,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T18:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "健康管理アプリの個人体験談",
       "score": 2,
       "groups": []
     },
@@ -1073,8 +1052,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T17:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "YouTubeレコメンド改善Tips",
       "score": 2,
       "groups": []
     },
@@ -1085,8 +1064,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T17:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "SonyミニLEDテレビのレビュー記事",
       "score": 2,
       "groups": []
     },
@@ -1097,8 +1076,8 @@
       "source": "TechCrunch",
       "region": "海外",
       "publishedAt": "2026-08-30T16:54:25.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Muskのガスタービン増産、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1109,8 +1088,8 @@
       "source": "The Verge",
       "region": "海外",
       "publishedAt": "2026-08-30T16:36:39.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "宇宙望遠鏡打ち上げニュース（重複記事）",
       "score": 2,
       "groups": []
     },
@@ -1121,8 +1100,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T16:30:30.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "旧GPU向けDLSS5 mod、ゲーム機材ネタで実務性なし",
       "score": 2,
       "groups": []
     },
@@ -1133,8 +1112,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T16:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Xboxの誕生日特典紹介、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1145,8 +1124,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T16:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "NFL配信サービス比較、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1157,8 +1136,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T15:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "4K表記の由来解説、雑学記事",
       "score": 2,
       "groups": []
     },
@@ -1169,8 +1148,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T15:15:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Lowe'sの労働者の日セール、国内無関係",
       "score": 2,
       "groups": []
     },
@@ -1181,8 +1160,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T14:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "MacBook屋外利用時の注意Tips",
       "score": 2,
       "groups": []
     },
@@ -1193,8 +1172,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-30T14:27:28.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Apple Watch新機能は未発表の憶測記事",
       "score": 2,
       "groups": []
     },
@@ -1205,8 +1184,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T14:26:31.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Googleマップの湖名変更、米国政治絡みで業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1217,8 +1196,8 @@
       "source": "ガジェット通信",
       "region": "国内",
       "publishedAt": "2026-08-30T14:15:18.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "レンジ調理器具の紹介、本文情報なし",
       "score": 2,
       "groups": []
     },
@@ -1229,8 +1208,8 @@
       "source": "ガジェット通信",
       "region": "国内",
       "publishedAt": "2026-08-30T14:00:34.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "映画リブート情報、ガジェットと無関係",
       "score": 2,
       "groups": []
     },
@@ -1241,8 +1220,8 @@
       "source": "ガジェット通信",
       "region": "国内",
       "publishedAt": "2026-08-30T14:00:06.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "AirPods Proイヤーピース交換の個人体験談",
       "score": 2,
       "groups": []
     },
@@ -1253,8 +1232,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T14:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "自宅CNCマシン導入コラム、DIY趣味記事",
       "score": 2,
       "groups": []
     },
@@ -1265,44 +1244,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T14:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "f25a5d6a482337cf",
-      "title": "「ソファベッドは寝心地が微妙」は昔の話。コアラマットレスの「CUSHY」が、省スペース派の救世主になりそうです",
-      "url": "https://getnews.jp/archives/3740118",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-08-30T13:30:44.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a294805a16685575",
-      "title": "コールマンLEDランタンは、スマホも充電できる",
-      "url": "https://getnews.jp/archives/3740119",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-08-30T13:15:46.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "2b9d6aa59530b9a8",
-      "title": "電子レンジや“たまご◯ち”が人類を襲う！ 2000年問題で電子機器が殺人マシンと化す⻘春パニックホラー『Y2K』12月公開［ホラー通信］",
-      "url": "https://getnews.jp/archives/3739883",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-08-30T13:00:06.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "スマートTV版Spotify対応の個人感想",
       "score": 2,
       "groups": []
     },
@@ -1313,8 +1256,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T13:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "スマートTVのストレージ容量解説",
       "score": 2,
       "groups": []
     },
@@ -1325,20 +1268,8 @@
       "source": "The Verge",
       "region": "海外",
       "publishedAt": "2026-08-30T13:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "e5d7cf6c67c626d7",
-      "title": "帰宅後の玄関の暗さをどうにかしたい。近くにコンセントがなくても設置できる「センサーライト」の導入計画",
-      "url": "https://getnews.jp/archives/3740114",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-08-30T12:50:46.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Chess.comのポーカーサイト展開、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1349,20 +1280,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T12:35:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "271e6edc98c11b54",
-      "title": "まだまだ楽しめる「ゴーヤ」、いつもの料理に飽きたらこれを試してみて｜キッチンにひと工夫",
-      "url": "https://getnews.jp/archives/3740115",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-08-30T12:30:35.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "サッカー中継の視聴方法案内",
       "score": 2,
       "groups": []
     },
@@ -1373,8 +1292,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T12:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Apple Arcade新作ゲーム紹介",
       "score": 2,
       "groups": []
     },
@@ -1385,20 +1304,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T12:30:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "e0f64930b82bb5df",
-      "title": "やっぱり欲しい「KEENのジャスパー」。ゴープコアファッションに絶対ハマるもんなあ",
-      "url": "https://getnews.jp/archives/3740116",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-08-30T12:10:42.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "NanoleafとHue連携は未確認の噂情報",
       "score": 2,
       "groups": []
     },
@@ -1409,8 +1316,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ASCIIアート3D表現の作品紹介、業務ネタになりにくい",
       "score": 2,
       "groups": []
     },
@@ -1421,8 +1328,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "TVの4K再生確認方法の解説記事",
       "score": 2,
       "groups": []
     },
@@ -1433,20 +1340,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "23e45f150330549e",
-      "title": "I tested 3 of the best-selling cheap open earbuds on Amazon, from Belkin, Anker and Tozo — and there’s a clear winner for me",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/i-tested-3-of-the-best-selling-cheap-open-earbuds-on-amazon-from-belkin-anker-and-tozo-and-theres-a-clear-winner-for-me",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "書籍アーカイブ化プロジェクトの紹介記事",
       "score": 2,
       "groups": []
     },
@@ -1457,8 +1352,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "全米オープン配信案内、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1469,8 +1364,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T11:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "中国DRAMメーカーの提訴、国内実務との接点薄い",
       "score": 2,
       "groups": []
     },
@@ -1481,8 +1376,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T11:05:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "PC電源ユニットのレビュー記事",
       "score": 2,
       "groups": []
     },
@@ -1493,8 +1388,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T11:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ビートルズ診断クイズ、ガジェットと無関係",
       "score": 2,
       "groups": []
     },
@@ -1505,8 +1400,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T10:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "RTX5090改造記事、ゲーミングPCマニア向け",
       "score": 2,
       "groups": []
     },
@@ -1517,8 +1412,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ランニングシューズのレビュー、ガジェットと無関係",
       "score": 2,
       "groups": []
     },
@@ -1529,20 +1424,8 @@
       "source": "Tom's Hardware",
       "region": "海外",
       "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "330dc62986f07760",
-      "title": "Why the first Chinese mirrorless cameras will massively disrupt the market — and why that's a good thing",
-      "url": "https://www.techradar.com/cameras/mirrorless-cameras/why-the-first-chinese-mirrorless-camera-will-completely-disrupt-the-market-and-why-thats-a-good-thing",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "米軍レーザー兵器のニュース、業務と無関係",
       "score": 2,
       "groups": []
     },
@@ -1553,8 +1436,20 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "海外ミルクフローサー紹介、国内価格不明",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "330dc62986f07760",
+      "title": "Why the first Chinese mirrorless cameras will massively disrupt the market — and why that's a good thing",
+      "url": "https://www.techradar.com/cameras/mirrorless-cameras/why-the-first-chinese-mirrorless-camera-will-completely-disrupt-the-market-and-why-thats-a-good-thing",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-08-30T10:00:00.000Z",
+      "stars": 1,
+      "reason": "中国製ミラーレス機の市場考察コラム",
       "score": 2,
       "groups": []
     },
@@ -1565,8 +1460,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "全米オープン配信案内（重複系）",
       "score": 2,
       "groups": []
     },
@@ -1577,8 +1472,8 @@
       "source": "Android Authority",
       "region": "海外",
       "publishedAt": "2026-08-30T09:00:51.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Chrome活用Tips、既存機能の紹介記事",
       "score": 2,
       "groups": []
     },
@@ -1589,8 +1484,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T09:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "カーライフ快適グッズ紹介コラム",
       "score": 2,
       "groups": []
     },
@@ -1601,8 +1496,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T08:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "マグネット式ボールペンの文房具紹介",
       "score": 2,
       "groups": []
     },
@@ -1613,8 +1508,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T08:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "FMV軽量ノートPCのセール告知記事",
       "score": 2,
       "groups": [
         "スマホ・PC本体",
@@ -1629,8 +1524,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T08:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "英国の家庭用太陽光試算、国内無関係",
       "score": 2,
       "groups": []
     },
@@ -1641,8 +1536,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T07:35:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "AirPods MAXクッション洗浄の体験談",
       "score": 2,
       "groups": []
     },
@@ -1653,8 +1548,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "長期保存食の紹介、ガジェットと無関係",
       "score": 2,
       "groups": []
     },
@@ -1665,8 +1560,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ドラマ配信視聴案内",
       "score": 2,
       "groups": []
     },
@@ -1677,8 +1572,8 @@
       "source": "ITmedia Mobile",
       "region": "国内",
       "publishedAt": "2026-08-30T06:07:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "楽天モバイルMNP還元トラブルの解説記事",
       "score": 2,
       "groups": []
     },
@@ -1689,8 +1584,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T06:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "電動ワゴンの提案コラム、ガジェットと無関係",
       "score": 2,
       "groups": []
     },
@@ -1701,8 +1596,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T05:35:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "フードカバーのキッチングッズ紹介",
       "score": 2,
       "groups": []
     },
@@ -1713,8 +1608,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T05:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ドラマ配信視聴案内（重複系）",
       "score": 2,
       "groups": []
     },
@@ -1725,8 +1620,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T04:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ランニングベルトのレビュー記事",
       "score": 2,
       "groups": []
     },
@@ -1737,32 +1632,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T03:30:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "13300cf14bbffb00",
-      "title": "使い続けて3年目。おうち焼肉の煙が気にならない「やきまる」",
-      "url": "https://www.gizmodo.jp/article/iwatani-yakimaru2-review-jek/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-08-30T02:35:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "4e12754d0a27dca8",
-      "title": "ハンディファンはミスト付きが正解か。残りの夏はこれで乗り切る",
-      "url": "https://www.gizmodo.jp/article/daiso-mist-fan/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-08-30T01:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "コーヒーショップ紹介コラム",
       "score": 2,
       "groups": []
     },
@@ -1773,8 +1644,8 @@
       "source": "ITmedia Mobile",
       "region": "国内",
       "publishedAt": "2026-08-30T01:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ニトリのクリップファン紹介、ガジェットと言い難い",
       "score": 2,
       "groups": []
     },
@@ -1785,8 +1656,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T00:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ナトリウムイオン電池の技術進展、国内展開なし",
       "score": 2,
       "groups": []
     },
@@ -1797,8 +1668,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-29T23:18:38.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "米国限定Apple Cardの新機能紹介",
       "score": 2,
       "groups": []
     },
@@ -1809,44 +1680,8 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-29T23:09:02.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "2632fc9b9edf23a1",
-      "title": "How to save money on your phone bill with an MVNO",
-      "url": "https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-08-29T23:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "989b5f594c913fb1",
-      "title": "The wildest video game budgets can't hold a candle to GTA 6",
-      "url": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-08-29T22:30:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "fd324b211f961514",
-      "title": "Why does your Kindle even have Bluetooth?",
-      "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-08-29T22:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Razr FoldのVerizon展開、国内無関係",
       "score": 2,
       "groups": []
     },
@@ -1857,8 +1692,8 @@
       "source": "ITmedia Mobile",
       "region": "国内",
       "publishedAt": "2026-08-29T21:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "中国製大容量バッテリースマホの紹介、国内未発売",
       "score": 2,
       "groups": []
     },
@@ -1869,8 +1704,8 @@
       "source": "Engadget",
       "region": "海外",
       "publishedAt": "2026-08-30T19:16:13.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Steam旧データ流出（重複記事）",
       "score": 1,
       "groups": [
         "減点対象（噂・リーク）"
@@ -1883,8 +1718,8 @@
       "source": "The Verge",
       "region": "海外",
       "publishedAt": "2026-08-30T19:14:08.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Steam旧データ流出（重複記事）",
       "score": 1,
       "groups": [
         "減点対象（噂・リーク）"
@@ -1897,8 +1732,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-30T18:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "タイニーハウス紹介、ガジェットと無関係",
       "score": 1,
       "groups": []
     },
@@ -1909,8 +1744,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T17:42:15.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ドコモ5Gエリアマップ定例更新の告知",
       "score": 1,
       "groups": []
     },
@@ -1921,8 +1756,8 @@
       "source": "WIRED",
       "region": "海外",
       "publishedAt": "2026-08-30T16:16:24.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Googleマップの湖名変更（重複記事）",
       "score": 1,
       "groups": []
     },
@@ -1933,8 +1768,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-30T15:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Subaru Outbackのレビュー記事",
       "score": 1,
       "groups": []
     },
@@ -1945,8 +1780,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-30T13:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "軍用ナイフの歴史コラム、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -1957,8 +1792,8 @@
       "source": "9to5Mac",
       "region": "海外",
       "publishedAt": "2026-08-30T12:15:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Apple製品の週末セールまとめ記事",
       "score": 1,
       "groups": [
         "スマホ・PC本体",
@@ -1972,8 +1807,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T12:15:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "高級腕時計の新モデル紹介、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -1984,8 +1819,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T11:54:38.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ヤマハeBikeの開発秘話コラム",
       "score": 1,
       "groups": []
     },
@@ -1996,8 +1831,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T11:15:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "スポーツウオッチ新製品紹介、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -2008,8 +1843,8 @@
       "source": "WIRED",
       "region": "海外",
       "publishedAt": "2026-08-30T11:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "海外メッシュWi-Fi比較、国内価格情報なし",
       "score": 1,
       "groups": []
     },
@@ -2020,8 +1855,8 @@
       "source": "WIRED",
       "region": "海外",
       "publishedAt": "2026-08-30T10:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ミニマルウェアラブルのトレンド解説",
       "score": 1,
       "groups": []
     },
@@ -2032,8 +1867,8 @@
       "source": "WIRED",
       "region": "海外",
       "publishedAt": "2026-08-30T10:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ラベルライター製品比較記事",
       "score": 1,
       "groups": []
     },
@@ -2044,8 +1879,8 @@
       "source": "WIRED",
       "region": "海外",
       "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "グループチャット疲れの対処法コラム",
       "score": 1,
       "groups": []
     },
@@ -2056,8 +1891,8 @@
       "source": "すまほん!!",
       "region": "国内",
       "publishedAt": "2026-08-30T09:48:46.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "irumo 0.5GBプランの5G対応、料金据え置きの小改定",
       "score": 1,
       "groups": []
     },
@@ -2068,8 +1903,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T09:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "8万円シェーバーのレビュー記事",
       "score": 1,
       "groups": []
     },
@@ -2080,8 +1915,8 @@
       "source": "WIRED",
       "region": "海外",
       "publishedAt": "2026-08-30T09:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "宇宙物理学の研究成果紹介、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -2092,8 +1927,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T08:54:19.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "新型AirPodsは未発表の噂記事",
       "score": 1,
       "groups": []
     },
@@ -2104,8 +1939,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T08:34:12.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "G-SHOCKポイント交換特典の告知記事",
       "score": 1,
       "groups": []
     },
@@ -2116,8 +1951,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T08:15:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "フォーミュラE写真展の紹介記事",
       "score": 1,
       "groups": []
     },
@@ -2128,8 +1963,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T08:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "軽自動車の試乗レビュー記事",
       "score": 1,
       "groups": []
     },
@@ -2140,8 +1975,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "料理系YouTube登録者数の話題、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -2152,8 +1987,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "料理系Xフォロワー数の話題、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -2164,8 +1999,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T07:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "カレーメニュー復活の告知、ガジェットと無関係",
       "score": 1,
       "groups": []
     },
@@ -2176,8 +2011,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T06:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "料理系Instagramフォロワー数の話題",
       "score": 1,
       "groups": []
     },
@@ -2188,8 +2023,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T04:29:59.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "写真展の紹介記事、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -2200,8 +2035,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T03:53:47.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "スーパーのグルメ紹介、業務と無関係",
       "score": 1,
       "groups": []
     },
@@ -2212,8 +2047,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T03:34:39.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Fitbit限定モデルのポイント交換特典告知",
       "score": 1,
       "groups": []
     },
@@ -2224,8 +2059,8 @@
       "source": "OREFOLDER",
       "region": "国内",
       "publishedAt": "2026-08-30T03:00:07.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "週間スマホ業界まとめコラム、個別の新情報は薄い",
       "score": 1,
       "groups": []
     },
@@ -2236,8 +2071,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T02:15:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "カメラ用バックパックの製品紹介",
       "score": 1,
       "groups": []
     },
@@ -2248,8 +2083,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-30T01:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "GenesisのEVフラッグシップ紹介、国内無関係",
       "score": 1,
       "groups": []
     },
@@ -2260,8 +2095,8 @@
       "source": "GetNavi web",
       "region": "国内",
       "publishedAt": "2026-08-30T00:53:22.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "M6搭載iMacは年内登場との噂記事",
       "score": 1,
       "groups": []
     },
@@ -2272,8 +2107,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-29T22:55:58.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Fitbit限定モデルの抽選販売告知記事",
       "score": 1,
       "groups": []
     },
@@ -2284,8 +2119,8 @@
       "source": "New Atlas",
       "region": "海外",
       "publishedAt": "2026-08-29T21:03:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "格安アクションカムのレビュー記事",
       "score": 1,
       "groups": []
     },
@@ -2296,8 +2131,8 @@
       "source": "GSMArena",
       "region": "海外",
       "publishedAt": "2026-08-29T20:09:02.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Galaxy S26FE等のセール告知記事",
       "score": 1,
       "groups": [
         "スマホ・PC本体",
@@ -2311,8 +2146,8 @@
       "source": "すまほん!!",
       "region": "国内",
       "publishedAt": "2026-08-30T06:16:22.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Amazonスマイルセール開幕の告知記事",
       "score": 0,
       "groups": [
         "スマホ・PC本体",
@@ -2326,8 +2161,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T03:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "Pixel Watch用充電器のセール告知記事",
       "score": 0,
       "groups": [
         "スマホ・PC本体",
@@ -2341,8 +2176,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T00:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "SwitchBot掃除機のセール告知記事",
       "score": 0,
       "groups": [
         "新製品・発表",
@@ -2356,8 +2191,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-29T23:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "モバイルバッテリーのセール告知記事",
       "score": 0,
       "groups": [
         "実務で使える周辺機器",
@@ -2371,8 +2206,8 @@
       "source": "TechRadar",
       "region": "海外",
       "publishedAt": "2026-08-30T19:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "海外スピーカーシステムのレビュー記事",
       "score": -1,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2385,8 +2220,8 @@
       "source": "GIZMODO JAPAN",
       "region": "国内",
       "publishedAt": "2026-08-30T13:30:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "ポータブル電源セットのセール告知記事",
       "score": -1,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2399,8 +2234,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "BTOパソコンのセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2413,8 +2248,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T15:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "razr foldクーポンのセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2427,8 +2262,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T12:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "BenQディスプレーのセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2441,8 +2276,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T11:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "BenQゲーミングディスプレーのセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2455,8 +2290,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T10:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "IODATAディスプレーのセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2469,22 +2304,8 @@
       "source": "ASCII.jp",
       "region": "国内",
       "publishedAt": "2026-08-30T09:00:00.000Z",
-      "stars": null,
-      "reason": null,
-      "score": -2,
-      "groups": [
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "6defc1f812153cab",
-      "title": "GORE-TEXのメレルがほぼ半額！ Amazonでセール中で一部カラー・サイズが46％オフ",
-      "url": "https://ascii.jp/elem/000/004/430/4430536/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-08-30T06:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "FMVノートPCのセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2497,8 +2318,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T00:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "SwitchBotハブ2のセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
@@ -2511,8 +2332,8 @@
       "source": "Jetstream BLOG",
       "region": "国内",
       "publishedAt": "2026-08-30T00:00:00.000Z",
-      "stars": null,
-      "reason": null,
+      "stars": 1,
+      "reason": "SwitchBotハブ3のセール告知記事",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
