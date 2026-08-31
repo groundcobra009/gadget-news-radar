@@ -68,8 +68,6 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          # judgments.json が書かれずに is_error:false で終わる事象を追うため一時的に有効化
-          show_full_output: true
           claude_args: |
             --model claude-sonnet-5
             --allowedTools "Read,Write,TodoWrite"
@@ -97,6 +95,17 @@ jobs:
               ]
             }
             ```
+
+            ## 使えるツール（重要）
+
+            使えるのは **Read / Write / TodoWrite の3つだけ**です。
+            **Bash は使えません。** `python3` `jq` `node` などでJSONを加工することはできないので、
+            試さないでください（2026-08-30の実行では python3 を3〜6回試して手数を使い切り、
+            judgments.json を書かずに終了しました）。
+
+            判定は自分で読んで自分で書きます。out/judge-input.json を Read で読み、
+            結果を **1回の Write** で out/judgments.json に書き出してください。
+            件数が多くても（150〜250件）、分割せず1回で書けます。
 
             ## 厳守事項
             - `stars` は整数の 1 / 2 / 3 のいずれか。文字列にしない。0 や 4 は使わない。
