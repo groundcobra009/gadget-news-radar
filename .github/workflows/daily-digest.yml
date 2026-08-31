@@ -68,9 +68,11 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # judgments.json が書かれずに is_error:false で終わる事象を追うため一時的に有効化
+          show_full_output: true
           claude_args: |
             --model claude-sonnet-5
-            --allowedTools "Read,Write"
+            --allowedTools "Read,Write,TodoWrite"
           prompt: |
             ガジェットニュースの推奨度を判定し、out/judgments.json を書き出してください。
 
@@ -149,7 +151,10 @@ jobs:
             echo "コミットする変更はありません"
           else
             git commit -m "更新: 本日のダイジェスト（$(date -u +%Y-%m-%d)）"
-            git push "https://x-access-token:${PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
+            REMOTE="https://x-access-token:${PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            # 実行中に別のpushが入ると rejected になるので、取り込んでから押す（2026-08-29に発生）
+            git pull --rebase "$REMOTE" "${GITHUB_REF_NAME}" || true
+            git push "$REMOTE" "HEAD:${GITHUB_REF_NAME}"
           fi
 
       # 隣の案件では毎朝の配信が1ヶ月間、無言で失敗し続けていた。
