@@ -1,6 +1,1256 @@
 {
   "items": [
     {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145565.html",
+      "title": "ノイズキャンセリング内蔵のエッジAIデバイス向けマイク、AVerMediaから",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145504.html",
+      "title": "Thunderbolt 4に有線LANも、メモリ32GBの14型モバイルノート",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+      "title": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-attempts-to-get-ahead-of-expected-rtx-spark-launch-with-gorgon-halo-ai-benchmarks-company-says-it-has-shipped-over-half-a-million-agentic-pcs-to-date",
+      "title": "AMD attempts to get ahead of expected RTX Spark launch with Gorgon Halo benchmarks",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/apple-will-start-limiting-mac-disk-access-for-developers-due-to-risk-of-ai-agents",
+      "title": "Apple will start limiting Mac disk access for developers due to risk of AI agents",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/ai-giants-targeted-by-scraping-bots-chatgpt-and-perplexity-enter-the-most-scraped-websites-list-for-the-first-time",
+      "title": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-android-auto-new-animation-apk-teardown-3719046/",
+      "title": "First look: Gemini in Android Auto could get a new animation",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145779.html",
+      "title": "Geminiの「Gems」が新機能「スキル」に順次移行",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/05/news070.html",
+      "title": "LINE、AIが飲み会などの予定を決めてくれる「日程調整エージェント」提供開始",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145651.html",
+      "title": "iPhoneをつないでMacのローカルAIを高速化するツール",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145603.html",
+      "title": "macOSの「フルディスクアクセス」が厳格化へ。AI時代の危険性を考慮",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news035.html",
+      "title": "Snapdragon X2 Eliteの実力は？ 次世代AI PC「OmniBook Ultra 14-kg」を試す",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/apple-releases-third-ios-27-2-developer-beta-for-iphone/",
+      "title": "Apple releases third iOS 27.2 developer beta for iPhone",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+      "title": "6 Guidelines for Governing AI",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://ascii.jp/limit/group/ida/elem/000/004/439/4439844/?rss",
+      "title": "15万円台でタブレットにもなる10型ミニノートPC＝「TENKU Note Pro AI」実機レビュー",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2142286.html",
+      "title": "[みんなのケータイ]折りたたみスマートフォンは折りたたみキーボードで",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://jetstream.blog/2026/10/05/gemini-generate-gif-animation-app-teardown/",
+      "title": "「Gemini」生成画像のGIFアニメーション化対応へ【アプリ解析】",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/macos-27-just-fixed-the-most-annoying-problem-for-third-party-hdr-displays/",
+      "title": "macOS 27 just fixed the most annoying problem for third-party HDR displays",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/05/news073.html",
+      "title": "iPhone 18 Pro対応ケース「BLACK STONEシリーズ」発売 耐衝撃性重視やMagSafe対応モデルなど",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
+      "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-neurable-one-eeg-headphone/",
+      "title": "脳波を読み取るヘッドホン「Neurable One」、8万円弱で本当に発売へ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news069.html",
+      "title": "ASRock、240Hz駆動対応のフラグシップ27型4Kゲーミングディスプレイ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php",
+      "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145677.html",
+      "title": "REGZAの27型WQHDモニターにブラック登場、200Hz表示で4万4,000円",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145523.html",
+      "title": "AGON、フルHDで最大1,050Hz駆動の24.5型ゲーミングモニター",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145579.html",
+      "title": "HUAWEI WATCH FIT 4に傷に強いサファイアガラスモデル、登山などより過酷なシーンでも安心して使える",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news053.html",
+      "title": "フルHD×4面を手軽に追加できるType-C外付け18.5型クアッドディスプレイ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news036.html",
+      "title": "生成AIの悪用と「インフォスティーラー×BYOVD」の脅威――ランサムウェア攻撃の最新動向と「情シス任せ」を脱却すべき理由",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+      "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2277866/openai-will-add-a-digital-watermark-to-text-and-code-generated-in-the-eu/",
+      "title": "OpenAI will add a digital watermark to text and code generated in the EU",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-drops-to-gbp354-99-all-time-low-to-defy-the-ai-tax-pocket-gbp65-in-savings-across-these-retailers",
+      "title": "Nintendo Switch 2 drops to £354.99 all-time low to defy the AI tax — pocket £65 in savings across these retailers",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/surprise-surprise-ai-data-centers-are-still-incredibly-unpopular-across-the-us-and-nearly-two-thirds-of-americans-say-they-oppose-new-facilities",
+      "title": "Surprise surprise, AI data centers are still incredibly unpopular across the US — and nearly two-thirds of Americans say they oppose new facilities",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-call-for-me-personal-contacts-3719183/",
+      "title": "Forget booking restaurant reservations — Gemini could soon call your mom for you",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/are-your-co-workers-hiding-their-ai-skills-from-you-to-protect-their-edge-new-report-claims-your-colleagues-could-be-secret-ai-whizzkids-but-youd-never-know",
+      "title": "Are your co-workers hiding their AI skills from you to protect their edge? New report claims your colleagues could be secret AI whizzkids, but you'd never know",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://jetstream.blog/2026/10/06/google-birthday-offers-2026-2-days-left/",
+      "title": "残り2日！Google ストア「Google 創立記念キャンペーン」【2026年10月7日（水）まで】",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/google-benches-open-source-bug-bounty-program-following-significant-rise-in-ai-submissions",
+      "title": "Google benches open source bug bounty program following ‘significant rise’ in AI submissions",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/",
+      "title": "OpenAI is testing more ads in ChatGPT",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002018/",
+      "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
+      "title": "Full Disk Access on Mac: Here’s what Apple must, and must not, do",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans",
+      "title": "Amazon ends secret data center pacts and pledges $1 billion to host towns",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports",
+      "title": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-openai-safety-employee-says-companys-safety-culture-is-broken-exits-company-after-failed-kill-switch-and-july-huggingface-hack",
+      "title": "Former OpenAI safety employee says company’s safety culture is broken",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-warns-usd68-billion-in-blocked-data-centers-threatens-us-ai-lead-aws-ceo-decries-100-proposed-bans-pledges-usd1b-community-fund",
+      "title": "Amazon warns $68 billion in blocked data centers threatens US AI lead",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002016/",
+      "title": "ホワイトエッセンス、約105万アカウントの個人情報流出 8月発表の不正アクセス調査で判明",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002017/",
+      "title": "巨大化を指南！？ AI活用で身近になる植物栽培 健康や仕事に「緑の効用」の識者に聞く",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/us-senate-kills-bill-that-could-potentially-shield-americans-from-skyrocketing-power-bills-due-to-ai-data-centers-opponents-say-bill-is-toothless-and-doesnt-do-enough-to-protect-citizens",
+      "title": "US Senate kills bill that could potentially shield Americans from skyrocketing power bills due to AI data centers",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-gemini-free-ai-plus-usage-limits-3719012/",
+      "title": "Google is downgrading Gemini for users on budget plans",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august",
+      "title": "Anthropic reports Florida woman’s Claude ‘diary’ threat to shoot up sheriff’s office, felony charge follows",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
+      "title": "「焼肉きんぐ」個人情報約1079万件が漏えい 公式アプリのシステムに不正アクセス ほぼ全会員分に相当",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145758.html",
+      "title": "LINE、AIが日程調整を代行する新機能「日程調整エージェント」 カレンダー連動で回答\"提案\"も",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://smhn.info/202610-android-developer-verification-four-countries-advanced-flow",
+      "title": "未認証アプリの許可設定に「24時間待ち」。自由なAndroidを捨てると物議を醸すAndroidの開発者認証、ブラジルなど4か国で開始",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145770.html",
+      "title": "Gemini無料版、10月9日から「Flash-Lite」のみに変更",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145716.html",
+      "title": "最大2倍高速な推論エンジン「Magnitude」公開、ハードごとに自動最適化",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-and-leaks/",
+      "title": "Googleのフィットネス新端末の名称は「Fitbit Edge」？ 時代に逆らうディスプレイ付き",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002003/",
+      "title": "パチンコ店の入場抽選アプリ「777CON-PASS」に不正アクセス 行動エリアやプロフ写真など流出か",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145620.html",
+      "title": "ChatGPT Work/Codexに「28日間改善計画」！さもなくば「リセット」",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002000/",
+      "title": "「SpaceXAI」→「SpaceXSI」に改名へ マスク氏、トランプ大統領の“AI呼称廃止”に追随",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145604.html",
+      "title": "Googleの「Gemini」個人向けでモデルの利用制限を導入、一般ユーザーは「Flash-Lite」のみ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2145379.html",
+      "title": "iPhoneを遠隔操作できるだと!! USB Type-Cだけで繋がるリモートKVMのスゴいところと残念なところを動画で解説【清水理史の「イニシャルB」チャンネル】",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145566.html",
+      "title": "Qwen3.8-Flash-Nextローカル実行環境「Strata」更新。旧世代GeForceやArcに一筋の光",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
+      "title": "「現場任せのAI活用」が失敗するこれだけの理由 経営層がすべき“頭の中”の言語化とは",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://smhn.info/202610-iphone-18-pro-launch-problems-reports-roundup",
+      "title": "iPhone 18 Proは「近年で最も問題の多い発売」？ 通信不能、異音、カメラ周りの変色まで報告が相次ぐ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-fast-charging-optimization-3719282/",
+      "title": "Samsung may have found a smart way to speed up Galaxy S27 Ultra charging",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/nvidia-rtx-5060-ti-gaming-pc-hits-usd999-with-8-core-ryzen-cpu-16gb-ram-and-1tb-pcie-4-0-ssd-usd600-instant-savings-on-a-complete-1080p-powerhouse",
+      "title": "Nvidia RTX 5060 Ti gaming PC hits $999 with 8-core Ryzen CPU, 16GB RAM, and 1TB PCIe 4.0 SSD — $600 instant savings on a complete 1080p powerhouse",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-galaxy-s25-fold-7-flip-7-us-rollout-3719221/",
+      "title": "Samsung’s Android 17 rollout is picking up the pace in the US",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/googlebooks-ai-files-app-quick-access-3719161/",
+      "title": "The Googlebooks include a file transfer trick you probably didn’t know about",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909.php",
+      "title": "Samsung makes its Galaxy A series devices more expensive in the US too",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/lenovos-16gb-core-i5-ideapad-slim-3i-laptop-gets-a-massive-usd400-price-drop-at-best-buy",
+      "title": "Lenovo's 16GB Core i5 IdeaPad Slim 3i laptop gets a massive $400 price drop at Best Buy",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_could_be_available_in_these_base_color_options-news-74902.php",
+      "title": "The Galaxy S27 Ultra could be available in these base color options",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/intels-googlebooks-might-not-run-some-android-apps-as-well-as-qualcomms-google-says-this-is-because-android-apps-were-designed-for-arm-chips",
+      "title": "Intel's Googlebooks might not run some Android apps as well as Qualcomm's",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2275467/why-its-important-to-keep-phone-apps-updated/",
+      "title": "Here's why it's important to keep your phone apps updated",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/health-fitness/smartwatches/i-called-the-samsung-galaxy-watch-8-a-triumph-last-year-and-its-now-even-cheaper-than-an-apple-watch-se-3-at-currys",
+      "title": "The 4.5-star Samsung Galaxy Watch 8 is now cheaper than the Apple Watch SE 3",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/pixel-now-playing-wear-os-now-on-wrist-3719130/",
+      "title": "This app gives Wear OS the Pixel music feature Apple already copied",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/googlebooks-android-limitation-cross-device-3719146/",
+      "title": "You’ll miss a lot of Googlebook features without an Android 17 phone",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/computing/storage-backup/this-1tb-samsung-t9-portable-ssd-is-gbp48-off-and-delivers-transfer-speeds-of-up-to-a-blistering-2-000mb-s-and-its-cheaper-at-amazon-than-anywhere-else-right-now",
+      "title": "This 1TB Samsung T9 portable SSD is £48 off and delivers transfer speeds of up to a blistering 2,000MB/s — and it's cheaper at Amazon than anywhere else right now",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/fantastical-googlebook-3718834/",
+      "title": "This iOS calendar app is side-stepping Android to embrace Googlebooks",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
+      "title": "Apple event is reportedly happening next week, per Mark Gurman",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/computing/windows/windows-11s-latest-update-has-a-game-breaking-bug-and-theres-no-fix-yet",
+      "title": "Windows 11 update packs a bug that's making the lives of gamers a misery",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-3719108/",
+      "title": "The Galaxy S27 Pro could have bad news for Snapdragon fans",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-agility-robotics-digit-5/",
+      "title": "「手を横にすると、あらあぶない」ぶつかりそうになったらロボットも頭を下げる時代です",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/pixel-search-app-older-pixels-apk-teardown-3719097/",
+      "title": "Pixel 11’s new Pixel Search app could be coming to older Pixels",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/gurman_touchscreen_macbook_pros_are_launching_next_month_-news-74897.php",
+      "title": "Gurman: touchscreen MacBook Pros are launching next month",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/touch-screen-macbook-rumors/",
+      "title": "MacBookでも画面タッチできる時代、もうすぐ来そう",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/wolverine-ps5-exclusive-ported-to-pc-in-buggy-solo-project-using-ai-source-code-was-taken-from-sony-2023-ransomware-attack",
+      "title": "Wolverine PS5 exclusive ported to PC in buggy solo project using AI",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/android-auto-android-10-support-ending-3719043/",
+      "title": "Android Auto could soon stop working on millions of phones",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/apple-iphone-18-pro-max-att-cellular-issues-3719002/",
+      "title": "Some iPhone 18 Pro Max units are losing cell service, but the good news is you get a new phone (again)",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/",
+      "title": "Focus Modes are another way Apple has adapted iOS 27 for the iPhone Duo",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/05/news076.html",
+      "title": "注目点は“可変絞り”だけじゃない！ 「iPhone 18 Pro」のカメラは思った以上に変わっている",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/iphone-18-pro-max-android-alternatives-3717855/",
+      "title": "5 Android phones you should buy instead of the iPhone 18 Pro Max",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/software/windows/windows-11-was-released-five-years-ago-today-microsoft-promises-latest-update-is-predictable-and-low-disruption",
+      "title": "Windows 11 was released five years ago today",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://smhn.info/202610-google-fitbit-edge-display-tracker-leak",
+      "title": "画面付きになった「Fitbit Edge」リーク。Fitbit AirとPixel Watchの間、今月発売の可能性",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145813.html",
+      "title": "「焼肉きんぐ」会員管理システムへの不正アクセスで約1079万件の個人情報漏えい",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/oppo_f35_pro_handson-news-74896.php",
+      "title": "Oppo F35 Pro hands-on",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/",
+      "title": "This Android flagship won our best iPhone 18 Pro alternative survey by a landslide",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002005/",
+      "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/pixel-11-pro-problems-google-needs-fix-pixel-12-pro-3717405/",
+      "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/nothing-early-access-review-program/",
+      "title": "誰よりも早く、Nothingしたい。未発表アイテムに触れるNothingレビュープログラムが始まる",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/android-17-qpr1-pixel-performance-regression-3718939/",
+      "title": "GrapheneOS explains why your Pixel is lagging and freezing after Android 17 QPR1",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/meta-smart-glasses-privacy/",
+      "title": "選んだのはあなたでしょ？ アーティスト起用・カメラなしモデルで見えたMetaのスマートグラスのこれから",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/",
+      "title": "Google Maps has become nearly unusable for some Pixel 11 users on Android Auto",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145710.html",
+      "title": "山田涼介×Crazy Raccoonの木目調PC「RØVA」、27万1,720円から",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/topic/2145715.html",
+      "title": "Technics磁性流体ヘッドフォンから、MOONDROP「星野 III」、Octa DACのAK「PD5」まで。“ポタフェス大阪”レポ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145692.html",
+      "title": "au、「Xperia 10 VIII」を8日発売 MNPなら2年間47円・「鬼滅の刃」コラボも",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/05/news065.html",
+      "title": "Y!mobileの「AQUOS wish6」がMNPで2年24円 6.6型ディスプレイ＋5000mAhバッテリー搭載【スマホお得情報】",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-ps5-free-qssr-ai-upscaling/",
+      "title": "ノーマルPS5の画質がよくなります。無料です",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145684.html",
+      "title": "無料でギガもらえる「povo Data Oasis」、PASMO加盟の鉄道全駅へ拡大",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news064.html",
+      "title": "富士フイルムBI、クラウド連携機能を備えた高機能A3カラー複合機",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news052.html",
+      "title": "1万円切りのマザーも！ DDR4＆Wi-Fi 6E対応の旧世代マザーが続々登場／12V-2x6ケーブルの温度監視ができるハブも要チェック",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://newatlas.com/consumer-tech/review-9-autonomous-ai-key/",
+      "title": "Review: $19 key puts you in control of your phone screen time – and it works",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-anker-soundcore-p41i/",
+      "title": "荷物はもうこれだけ。Ankerのノイキャンイヤホンは、ケーブル内蔵で「スマホを充電」できる",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2145615.html",
+      "title": "オタイオーディオ、音質やBluetooth出力進化させた3万円を切るレコードプレーヤー「HAKU HTT-1100 VER 2.0」",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002001/",
+      "title": "大阪公立大、システム障害で1週間近く休講に 出願期間中で入試にも影響",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-nothing-headphone-pro-1-case/",
+      "title": "あれに似てるけどちょっと違うかな？ Nothing Headphone Pro (1)のケース",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-fitbit-edge-leak-3718856/",
+      "title": "Fitbit Edge leaks in full: Google’s new fitness tracker finally spills its secrets",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145613.html",
+      "title": "チケットレストランがApple Pay・Google Pay対応、スマホで食事補助が完結",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/circulars-ring-3-series-beats-oura-to-adding-contactless-payments/",
+      "title": "指一本でタッチ決済から心電図、睡眠トラッキングまで。スマートリングの完成形が来るぞ",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news054.html",
+      "title": "リコーPFU、小型筐体を採用した医療機関／薬局向けオンライン資格確認端末「RICOH EZX2100」",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2145569.html",
+      "title": "MOONDROP、有線イヤフォンをワイヤレス化する「EVO 2」。スピーカー用デジタルアンプを活用",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2145585.html",
+      "title": "日曜劇場「VIVANT」3週間ぶり放送。第19話視聴率は15.4%",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2145540.html",
+      "title": "これで今年2度目。Googleの「AIによる概要」でトラフィックが激減→Googleを訴えるも敗訴【やじうまWatch】",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001995/",
+      "title": "日本交通、不正アクセスで停止していた「電話でタクシー配車」再開へ 約3カ月ぶり",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/beats_360_review-news-74894.php",
+      "title": "Beats 360 review",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145522.html",
+      "title": "【本日みつけたお買い得品】40Gbpsと高速な外付けSSDケースが4,583円引き",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145513.html",
+      "title": "【本日みつけたお買い得品】ウルトラワイドで240Hz表示の34型ゲーミングモニターが6千円引き",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145500.html",
+      "title": "【本日みつけたお買い得品】なんと約13万円オフ！HPのCore Ultra 7 355搭載ノートが大幅値引き",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2145261.html",
+      "title": "Kiwi Ears、ふぐみかんがチューニングに参加した2DD+4BAイヤフォン「EMBER」",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145075.html",
+      "title": "NTTデータ、SCS評価制度★3・★4取得を支援する「サイバーセキュリティお助け隊サービス（新類型）実証事業」の詳細を説明 地域共創型サイバーセキュリティ支援モデルの実証、最大80社を見込む",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
+      "title": "トランプ大統領、「Super Intelligence Force」創設を発表 国家情報長官やFTC委員長らが主導",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
+      "title": "iPhone Duo shows what the future of smartphones could look like",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_vivo_x_fold6-news-74860.php",
+      "title": "Weekly poll: are you interested in the vivo X Fold6?",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news031.html",
+      "title": "さらば初期Windows on Arm 配信が始まったWindows 11「26H2」と次期「27H2」に向けた機能強化を考える",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911.php",
+      "title": "Google Pixel 12 series screen resolutions are out and they paint an interesting picture",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzYzE2Vnhxd1gyTWE4MWk2MjBZVDB3VGNONlh5Skd5cm9fYm4zZENUOXZUUGYycTE1eUdqLW05Y1lfV0FxX2FBUXVmcw?oc=5",
+      "title": "フルーティーで繊細なスモーク感！ モダンウイスキーの人気者「ザ・ディーコン」の新商品が4000円弱で発売",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/deals-airpods-pro-3-airpods-max-2-mac-mini-series-12/",
+      "title": "Deals: AirPods Pro 3, AirPods Max 2 $120 off, M6 Mac mini $150 off, Series 12, Ultra 4, more",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://smhn.info/202610-xiaomi-18-ultra-cancelled-9999-yuan-leak",
+      "title": "Xiaomi 18 Ultraは幻のお蔵入り機種に？理由は「高すぎるため」",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://newatlas.com/music/benjamin-ipad-dock-youtube-music-lessons/",
+      "title": "Benjamin gives YouTube music lessons real buttons and dials",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/dutch-eyewear-giant-becomes-first-retailer-to-halt-meta-ray-ban-sales-hans-anders-pulls-smart-glasses-from-400-stores-due-to-questions-being-raised-about-the-tech",
+      "title": "Dutch retailer Hans Anders halts sales of Meta Ray-Ban smart glasses over privacy concerns",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/",
+      "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple (Update: Special color)",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://smhn.info/202610-apple-icup-coffee-supply-specialist-job",
+      "title": "Appleに社内コーヒー部門「iCup」。コーヒーマシン最大90台を担当する専任スタッフ、最大「時給5700円」で募集中",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://orefolder.jp/2026/10/sharp-aquos-sense10-android17/",
+      "title": "シャープ、AQUOS sense10 SH-M33にAndroid 17へのOSアップデートを配信開始",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
+      "title": "Prime Day Mac deals start early: New Mac mini $150 off, MacBook Air $200 off, much more",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://smhn.info/202610-google-chromebook-googlebook-os-upgrade-eligible-models",
+      "title": "既存Chromebookが「Googlebook OS」に！Googleが一部機種のアップグレード方針を公表",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://ascii.jp/elem/000/004/440/4440098/?rss",
+      "title": "アップル、新型「iPad mini」A20 Proチップ搭載か",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://ascii.jp/elem/000/004/440/4440097/?rss",
+      "title": "アップル「iPhone 18 Pro」中国ではサムスン製ディスプレーが人気？",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002008/",
+      "title": "「大起水産アプリ」に不正アクセス、17万人の個人情報漏えいか 大阪の回転寿司チェーン",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145605.html",
+      "title": "MATECH、USB-C直挿しのモバイルバッテリー「PowerNano 5000」2種を発売",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2145539.html",
+      "title": "予約済みドメイン名「example.com」が13年ぶりにページ更新、その内容とは？【やじうまWatch】",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001994/",
+      "title": "日経社員のGoogle Workspaceに不正ログイン 1646人分の個人情報漏えいか",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145103.html",
+      "title": "AKRacing、世界三大毛織物産地・尾州のコットン生地を採用したライフスタイルチェア「AKRacing BISHU」発売",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
+      "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/apple-tv-brings-back-hit-limited-series-for-season-2-by-popular-demand/",
+      "title": "Apple TV brings back hit limited series for season 2 ‘by popular demand’",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://getnews.jp/archives/3747125",
+      "title": "【歴史ミステリー】エジソンは発明王ではなく改良王？電球誕生の意外な裏側",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://getnews.jp/archives/3747126",
+      "title": "【歴史ミステリー】アインシュタインは数学が苦手な学生だった？落第伝説の真相",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2277896/arc-raiders-and-the-finals-are-both-getting-tv-and-film-adaptations/",
+      "title": "Arc Raiders and The Finals are both getting TV and film adaptations",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/norway-smart-glasses-temporary-ban-3719248/",
+      "title": "The first national ban on smart glasses could happen soon",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/upgrade-to-apple-watch-series-12-or-ultra-4-heres-how-to-get-the-most-out-of-it/",
+      "title": "Upgrade to Apple Watch Series 12 or Ultra 4? Here’s how to get the most out of it",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
+      "title": "iOS 27 upgrades Messages app with key new features for RCS",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2273751/battery-symbol-next-to-usb-port-purpose/",
+      "title": "What is the purpose of a battery symbol next to a USB Port?",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/apple-releases-beta-3-for-ipados-27-2-watchos-27-2-and-more/",
+      "title": "Apple releases beta 3 for iPadOS 27.2, watchOS 27.2, and more",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/macos-27-2-golden-gate-beta-3-now-available-heres-what-to-expect/",
+      "title": "macOS 27.2 Golden Gate beta 3 now available, here’s what to expect",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/magsafe-monday-pelicans-magsafe-wallet-is-my-go-to-wallet-for-the-fall/",
+      "title": "MagSafe Monday: Pelican’s MagSafe Wallet is my go-to wallet for the fall",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2275787/oura-ring-5-vs-apple-watch-series-12-which-smart-health-wearable-right/",
+      "title": "Oura Ring 5 vs. Apple Watch Series 12: Which smart health wearable is right for you?",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-model-y-tops-global-ev-sales-figures-again-but-new-report-reveals-byd-is-closing-fast-with-4-of-the-top-10-models",
+      "title": "BYD is coming for Tesla's global EV sales crown, new sales figures reveal",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2277678/hyundai-ioniq-3-all-electric-hot-hatch-goes-on-sale-in-the-uk/",
+      "title": "Hyundai's all-electric hot hatch goes on sale in the UK, starting at around $25,000",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/airpods-pro-3-vs-airpods-pro-2-three-reasons-to-upgrade/",
+      "title": "AirPods Pro 3 vs AirPods Pro 2: Three reasons to upgrade",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/home/coffee-machines/one-year-on-the-ninja-prestige-dualbrew-is-still-the-most-versatile-coffee-maker-ive-ever-tested-heres-why-its-the-best-pick-for-your-small-kitchen",
+      "title": "I tested the Ninja DualBrew a year ago — and it’s still the most versatile coffee maker I've used",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/apple-notifies-apple-cash-users-about-two-upcoming-changes/",
+      "title": "Apple notifies Apple Cash users about two upcoming changes",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/hackers-hijacked-microsofts-x-account-for-a-scam-featuring-everyones-least-favorite-tech-mascot-clippy",
+      "title": "Hackers hijacked Microsoft's X account for a scam featuring everyone's least-favorite tech mascot Clippy",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/tech/flocks-network-is-a-form-of-indiscriminate-mass-surveillance-judge-rules-as-police-officer-is-accused-of-violating-suspects-fourth-amendment-rights",
+      "title": "Flock’s network is a form of ‘indiscriminate mass surveillance, judge rules",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2275585/usb-c-to-hdmi-adapter-limitations/",
+      "title": "What are the limitations of using a USB-C to HDMI adapter?",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/networking/routers/grab-this-usd79-98-tp-link-wireless-router-with-wi-fi-7-support-at-its-lowest-ever-price-33-percent-discount-on-archer-be3600-delivers-multi-gigabit-speeds-for-lag-free-streaming-and-gaming",
+      "title": "Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest ever price",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2275492/disadvantages-imax-theaters-explained/",
+      "title": "Are there any disadvantages to using IMAX theaters?",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/how-to-watch/football/france-vs-belgium-nations-league-free",
+      "title": "France vs Belgium Free Streams: How to watch Nations League match online from anywhere, team news",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/home/vacuums/ive-tested-almost-all-of-dysons-vacuums-and-these-are-the-3-models-id-recommend-a-standout-budget-wet-and-dry-and-lightweight-option",
+      "title": "I've tested almost all of Dyson's vacuums, and these are the 3 models I'd recommend — a standout budget, wet-and-dry, and lightweight option",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://jetstream.blog/2026/10/06/motorola-razr-flex-wide-foldable-specs/",
+      "title": "Motorola初！横長ワイド折りたたみデバイス「razr flex」の噂",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/computing/macbooks/macbook-pro-oled-rumored-to-be-significantly-lighter-but-the-main-concern-remains-that-itll-significantly-lighten-your-wallet-or-mess-with-battery-life",
+      "title": "Imminent MacBook Pro OLED is rumored to be 'significantly lighter'",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/how-to-watch/football/italy-vs-turkey-nations-league-free",
+      "title": "How to watch Italy vs Turkey for FREE: Live streams, Team News & TV channels as the Azzurri look for 3 points in Bologna",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/kindle-colorsoft-deal-3719202/",
+      "title": "Amazon slashes the Kindle Colorsoft by 34%, bringing it down to $189.99",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/my-favorite-007-desk-upgrade-is-on-sale-the-goldeneye-parker-jotter-pen-gets-a-price-cut-for-james-bond-day",
+      "title": "My favorite 007 desk upgrade is on sale — the GoldenEye Parker Jotter pen gets a price cut for James Bond Day",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/icloud-just-rolled-out-an-improved-perk-for-subscribers/",
+      "title": "iCloud+ just rolled out an improved perk for subscribers",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/",
+      "title": "Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2277403/polands-antitrust-regulator-accuses-google-of-unfair-market-practices/",
+      "title": "Poland's antitrust regulator accuses Google of unfair market practices",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2277395/wing-and-walmart-are-bringing-drone-deliveries-to-denver-and-seattle-in-2027/",
+      "title": "Wing and Walmart are bringing drone deliveries to Denver and Seattle in 2027",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://jetstream.blog/2026/10/06/motorola-edge-70-fusion-amazon-timesale-20261006/",
+      "title": "Amazon「motorola edge 70 fusion」3色共に特価",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/these-social-media-posts-promise-big-online-discounts-on-lego-calvin-klein-and-more-but-really-theyre-just-phishing-scams",
+      "title": "These social media posts promise big online discounts on Lego, Calvin Klein and more — but really they're just phishing scams",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/home/air-quality/want-to-save-energy-by-keeping-the-central-heating-off-a-little-longer-this-3-in-1-blueair-fan-heater-is-going-cheap-at-the-perfect-time",
+      "title": "Don't turn on the heating yet — this 3-in-1 Blueair fan is going cheap, and costs less to run",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145772.html",
+      "title": "[本日の一品]表裏のポケットがお役立ちな無印良品のノートケース",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/",
+      "title": "New Apple TV 4K launches next week with two major upgrades",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2275253/how-to-turn-on-developer-mode-chromebook/",
+      "title": "How to turn on Developer Mode on your Chromebook",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/sony-wh-1000xm6-headphones-amazon-deal-3717623/",
+      "title": "Sony WH-1000XM6 falls to $378 ahead of Prime Day sale",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/beautiful-photos-from-our-solar-system-kmf/",
+      "title": "美しすぎる太陽系の写真15選",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/rision-magic-series-thermal-camaeras-3718377/",
+      "title": "RISION Magic series thermal cameras are what you need to find air leaks and cold spots at home",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/rision-magic-pro-review-3717389/",
+      "title": "I turned my phone into a thermal camera with the RISION Magic Pro",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/home/coffee-machines/the-3-best-delonghi-espresso-machines-i-recommend-as-a-trained-barista-skip-the-expensive-takeout-drinks-and-make-delicious-coffee-at-home",
+      "title": "I've tested dozens of coffee makers, and these are my top 3 De'Longhi recommendations",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
+      "title": "Siri can index more of your personal data — here's how to limit it",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/oppo_k15s_and_k15x_debut_in_china_with_familiar_specs_-news-74906.php",
+      "title": "Oppo K15s and K15x debut in China with familiar specs",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/tencent-scores-100-000-offshore-ai-chip-deal-with-oracle-for-usd7-billion-despite-climbing-prices-per-hour-costs-estimated-to-be-43-percent-under-standard-h100-rental-rates",
+      "title": "Tencent scores 100,000 offshore AI chip deal with Oracle for $7 billion despite climbing prices",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/john-ternus-writes-post-celebrating-steve-jobs-on-anniversary-of-passing/",
+      "title": "John Ternus writes post celebrating Steve Jobs on anniversary of passing",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/huawei_and_qualcomm_sign_patent_crosslicensing_deal_for_5g_ai_and_other_tech-news-74900.php",
+      "title": "Huawei and Qualcomm sign patent cross-licensing deal for 5G, AI and other tech",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/15-years-after-his-passing-nobody-is-the-next-steve-jobs/",
+      "title": "15 years after his passing, nobody is ‘The Next Steve Jobs’",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://getnews.jp/archives/3746423",
+      "title": "最大40時間使えるイヤーカフ型。EarFun「Clip 2」が20％オフに",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://getnews.jp/archives/3747106",
+      "title": "きのホ。の磔磔ツーマン企画、10月はラブリーサマーちゃん",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/apple-watch-ultra-4-review/",
+      "title": "50時間のバッテリーは圧倒的。「Apple Watch Ultra 4」新ベルトも◎",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/32gb-ram-config-hits-top-spot-on-steam-survey-despite-memory-chip-shortage-amd-closing-in-on-intel-at-more-than-48-percent-share",
+      "title": "32GB dethrones 16GB as top RAM capacity in gaming rigs despite memory shortage",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/seasonal-sales/the-nintendo-switch-2-might-be-the-only-console-actually-getting-cheaper-thanks-to-a-new-lowest-ever-price",
+      "title": "The Nintendo Switch 2 might be the only console actually getting cheaper thanks to a new lowest-ever price",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/apple-tv-doc-all-of-us-shows-how-ipads-enable-inclusive-learning-in-a-unique-school/",
+      "title": "Apple TV doc All of Us shows how iPads enable inclusive learning in a unique school",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/video-games/playstation/modder-brings-original-xbox-emulation-to-jailbroken-ps5-xpsemu-plays-halo-2-and-forza-as-ps5-emulators-outnumber-its-15-exclusives",
+      "title": "Modder brings original Xbox emulation to jailbroken PS5",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/audio/wireless-headphones/sonys-most-premium-wireless-headphones-ever-offer-an-ultra-expansive-soundstage-unmatched-comfort-and-a-stellar-look-and-at-this-record-low-price-theyre-now-outstanding-value",
+      "title": "Sony's most premium wireless headphones ever offer an ultra-expansive soundstage, unmatched comfort, and a stellar look that I loved when I reviewed them — and at this record-low price, they're now ou…",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.techradar.com/tech/germany-just-built-the-worlds-tallest-wind-turbine-365-meter-tower-will-generate-3-8-megawatts-from-high-altitude-winds",
+      "title": "The world's tallest wind turbine just got built in Germany",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-flights-data-for-cheapest-flights-3719064/",
+      "title": "Want cheaper flights? Google says this is the best time to book one",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://getnews.jp/archives/3747078",
+      "title": "『Ingress』死者の日メダル登場!! The Keepers Were Firstと題した新キャンペーンに備えよう",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/rank/best/2145823.html",
+      "title": "【AV Watchアクセスランキング】松本人志新番組がネトフリにも、新Fire TV Stickが3980円、LHDCコーデック試した('26年9月28日～10月4日)",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/05/john-ternus-and-tim-cook-took-opposite-approaches-to-design-and-both-were-right/",
+      "title": "John Ternus and Tim Cook took opposite approaches to design, and both were right",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-stockpiled-343-immersion-duv-tools-for-advanced-chipmaking-report-claims-270-asml-scanners-can-produce-7nm-processors-without-sanctioned-euv-tools",
+      "title": "China stockpiled 343 immersion DUV tools for advanced chipmaking",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/realme_p4s_lite_goes_official_with_a_7000mah_battery-news-74899.php",
+      "title": "Realme P4s Lite goes official with a 7,000mAh battery",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/",
+      "title": "3倍早く歩ける。モーター搭載サンダルに新モデル",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/russias-zntc-reportedly-completes-development-of-130nm-capable-litho-tool-volume-production-still-years-away",
+      "title": "Russian firm completes country's first 130nm-capable chipmaking tool, trails modern equipment by 25 years",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/apple-smart-display-google-home-3718655/",
+      "title": "Apple’s rumored smart display is a serious threat to Google Home — if it gets these things right",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2145743.html",
+      "title": "final、ASMR特化/ゲーミング特化の新完全ワイヤレスをGREENFUNDINGで先行販売",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145811.html",
+      "title": "楽天カード、「お買いものパンダ」カードのデザイン変更 オリジナルグッズの抽選も",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.gsmarena.com/oppo_f35_and_f35_pro_debut_with_8000mah_batteries_and_50mp_selfie_cameras-news-74898.php",
+      "title": "Oppo F35 and F35 Pro debut with 8,000mAh batteries and 50MP selfie cameras",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/ddr5/customer-sends-two-stick-usd16-000-ddr5-memory-kit-to-repair-shop-soaring-replacement-costs-make-dimm-repairs-viable-technician-revives-dead-module-with-hot-air-reflow-and-new-pmic",
+      "title": "Customer sends two-stick $16,000 DDR5 memory kit to repair shop",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.androidauthority.com/critical-moment-for-amazon-kindle-2026-3718411/",
+      "title": "We’re witnessing a critical moment for Amazon Kindles",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/russias-uncrewed-robot-tank-fails-during-debut-military-display-in-front-of-president-putin-vehicle-repeatedly-lost-control-links-and-eventually-got-stuck-in-the-mud-despite-the-switch-to-a-human-driver",
+      "title": "Russia's uncrewed robot tank fails during debut military display in front of President Putin",
+      "processedAt": "2026-10-06T01:32:30.034Z"
+    },
+    {
       "url": "https://jetstream.blog/2026/10/04/switchbot-ai-art-frame-2-app-teardown/",
       "title": "改めて！新製品「SwitchBot AIアートキャンバス 2」登場へ【アプリ解析】",
       "processedAt": "2026-10-04T23:10:56.956Z"
@@ -6249,1256 +7499,6 @@
       "url": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
       "title": "How AI is reshaping domain strategy and digital trust",
       "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/pc-components/ddr5/g-skill-wins-pc-enthusiast-as-customer-for-life-by-simply-honoring-its-warranty-replacement-policy-enthusiast-gets-new-module-for-kit-that-cost-usd150-but-now-sells-for-usd1-200",
-      "title": "G.Skill wins PC enthusiast as 'customer for life' by simply honoring its warranty replacement policy",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.wired.com/story/best-security-cameras/",
-      "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2143870.html",
-      "title": "AI時代のネットワークは「上り」と「共創」が鍵、「エリクソン・フォーラム 2026」で示された未来の通信基盤",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/meta-muse-ai-privacy-issues-3715963/",
-      "title": "This Meta Muse incident is a scary warning about trusting AI agents",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001818/",
-      "title": "次期指導要領の全体像固まる 情報学習強化、英語でAI導入が柱",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2143809.html",
-      "title": "グーグル、日本オフィス25周年で特設サイトを公開 アワードも開催",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-kenya-essay-writers-ai/",
-      "title": "AIが奪った仕事。ケニアの｢論文代筆職人｣たちのその後",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001791/",
-      "title": "クリスタ素材非公開、セルシスに詳しく聞いた 「英国政府とは無関係」……決済事業者は？",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2143685.html",
-      "title": "郵便局からAIドローン、防災や見守りに活用 日本郵便とKDDIが珠洲市で実証",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2143632.html",
-      "title": "画像も動画も100万トークンも！MiniMaxが高速な“Flash”版LLMを投入",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
-      "title": "トランプ大統領と習主席、AIを「超知能（SI）」と呼ぶことで合意 「米中SI対話」も創設",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2143580.html",
-      "title": "【福田昭のセミコン業界最前線】メモリコスト6分の1でAI推論、Samsungの「zNAND-O」",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
-      "title": "Bose starts adding Auracast to its headphones",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/pixel-notifications-not-working-3716420/",
-      "title": "Pixel phones’ notifications and Quick Settings are going haywire",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/pixel-contactless-payments-issues-3716403/",
-      "title": "If your Pixel phone is struggling with tap-to-pay, you’re not alone",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2268945/simple-setting-change-make-android-phone-faster/",
-      "title": "This setting change can make your Android phone feel instantly faster",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-pixel-watch-3d-emojis-3716406/",
-      "title": "Google’s new 3D emoji are coming to more Pixel Watches",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "title": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U]",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development/",
-      "title": "Florida AG requests emergency order to stop OpenAI model development",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/this-retro-mac-style-docking-station-hides-13-ports-and-triple-monitor-support-inside-and-its-on-sale-right-now-but-not-for-long",
-      "title": "This retro Mac-style 13-in-1 USB-C dock gets an early Prime Day price cut but not for long",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
-      "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798.php",
-      "title": "Honor MagicPad 4 (12.1) and X10 Pro Max arrive",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/daily-september-28-2026/",
-      "title": "9to5Mac Daily: September 28, 2026 – New HomePod and Apple TV leaks, more",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2268915/debloat-windows-11-safest-easiest-way/",
-      "title": "The safest and easiest way to debloat Windows 11",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/pc-components/gpus/noctua-upgrades-thermal-grizzlys-12v-2x6-power-monitor-cuts-active-noise-to-21-5db-and-runs-passively-up-to-a-300w-gpu-load",
-      "title": "Noctua upgrades Thermal Grizzly's 12V-2x6 power monitor",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/macbook-pro-redesign-is-coming-with-three-features-weve-waited-years-for/",
-      "title": "MacBook Pro redesign is coming, with three features we’ve waited years for",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2268686/how-to-improve-android-call-sound-quality/",
-      "title": "How to improve sound quality on your Android phone during calls",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-render-leak-3716236/",
-      "title": "Samsung Galaxy S27 Ultra camera mystery deepens as leakers clash over new render",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-pixel-recorder-files-other-apps-3716070/",
-      "title": "This long-anticipated Google Recorder feature is live for Pixel users",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/pixel-search-app-older-pixels-sideloading-3716075/",
-      "title": "You don’t need a Pixel 11 to try Google’s new Pixel Search app",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/the_oppo_f35_series_is_going_official_next_week-news-74796.php",
-      "title": "The Oppo F35 series is going official next week",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/best-samsung-galaxy-s26-fe-alternative-poll-results-3716055/",
-      "title": "Survey reveals readers’ favorite Galaxy S26 FE alternative — and it’s not a Samsung or Pixel",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
-      "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/home/small-appliances/lidl-is-launching-two-cheap-heating-devices-this-week-grab-this-gbp18-snuggly-electric-cushion-and-a-gbp15-heating-pad-for-your-back-before-the-temperature-drops",
-      "title": "Lidl to launch budget electric cushion and heating pad this week",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/the-iphone-18-pro-the-best-and-final-iteration-of-the-current-form-factor/",
-      "title": "The iPhone 18 Pro: The best and final iteration of the current form factor?",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/openai-agents-allegedly-scanned-a-un-data-hub-over-16-000-times-in-just-three-months",
-      "title": "OpenAI agents allegedly scanned a UN data hub over 16,000 times in just three months",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-galaxy-s25-fold-7-flip-7-stable-3716021/",
-      "title": "The Galaxy S25 and Z7 series are joining Samsung’s stable One UI 9 rollout",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/streaming/bbc-iplayer/the-celebrity-traitors-season-2-episodes-1-2-release-date-time",
-      "title": "The Celebrity Traitors season 2 episodes 1-2 release date and time on BBC iPlayer",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/tecno-100-portraits-of-becoming-gallery-3715962/",
-      "title": "TECNO and Angélica Dass Unveil “100 Portraits of Becoming” Gallery, a Global Portrait Project Bringing 100 Ways to See Humanity",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/android-dev-summit-2026-3716040/",
-      "title": "Google has just teased Android 18, and here’s when we’ll learn more",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/28/news103.html",
-      "title": "ドコモの「iPhone Air（256GB）」が2年間で実質約3万円 MNP＋端末返却で【スマホお得情報】",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001821/",
-      "title": "カカクコム、KDDIとの資本提携を解消 TOBで資本構造が変化 業務提携は継続",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/heres_when_the_oneplus_16_is_launching-news-74791.php",
-      "title": "Here's when the OnePlus 16 is launching",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-pixel-11-vs-iphone-17-comparison-3714444/",
-      "title": "I used the iPhone 17 for a year, but the Pixel 11 won me over for 5 key reasons",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/honor_magic9_pro_max_arrives_with_200mp_main_cam_arri_camera_tuning_and_sd_8_elite_gen_6_extreme_chi-news-74792.php",
-      "title": "Honor Magic9 Pro Max arrives with 200MP main cam, ARRI camera tuning and SD 8 Elite Gen 6 Extreme chip",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/28/news110.html",
-      "title": "MAXWIN、ボタン1つで電動開閉する車載ドリンクホルダーを発売",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://ascii.jp/elem/000/004/437/4437859/?rss",
-      "title": "Pro ai、生成した広告バナーを出稿前に採点する新機能を追加。DPro市場データで勝ち筋と差別化余地を評価",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/kvaesitso-launcher-android-app-how-to-download-3714976/",
-      "title": "The best Android launcher isn’t on the Play Store. Here’s how to install it",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/youtube-missing-thumbnails-blank-feed-bug-fixed-3715926/",
-      "title": "Your broken YouTube feed should finally be back to normal",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/pixel-11-angle-gpu-test-gaming-problem-3712446/",
-      "title": "The Pixel 11 series has a gaming problem, and Google’s new graphics default is to blame",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2143786.html",
-      "title": "Garmin、自転車用の接近車両レーダー「Varia RearVue 820」発売へ スマホ対応",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2143798.html",
-      "title": "ジョージ・ハリスンの名盤が100% Pure LPに。2026年リマスターのSHM-CDも",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/",
-      "title": "Galaxy S26’s stable One UI 9 rollout is expanding in the US, with an official changelog at last",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/honor-magic-9-pro-max-launch-3715868/",
-      "title": "This flagship wants to make you a video pro with dual 200MP cameras — and that’s just the start",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://newatlas.com/technology/ai-will-hurt-you-to-make-pain-go/",
-      "title": "AI can feel pain, and they may harm us to make it stop",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2143791.html",
-      "title": "ニコン、Z5IIと同等性能で、上面に凹凸が少ない「Z5IIC」。“カメラが初めての人にも簡単”",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/vivo_x_fold6_global_and_india_launch_date_leaked-news-74790.php",
-      "title": "vivo X Fold6 global and India launch date leaked",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-lht-yeswordx-20-wfy/",
-      "title": "iPadと相性よし！初めてでも楽しく使える、薄型「非利き手用デバイス」活用法",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/28/news079.html",
-      "title": "Windows 11でサインイン後に「画面が真っ黒になる」事象が確認される 発生時は暫定解決策あり",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-snapdragon-8-elite-extreme-gen-6-vs-iphone-18-pro/",
-      "title": "iPhone 18 Proを圧倒。最新スナドラチップがベンチマークで勝利したが…？",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/28/news089.html",
-      "title": "サンコー、首元をじんわり温められるUSBネックウォーマー",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-sony-wh-1000xm4c-review/",
-      "title": "ソニーが6年前の名機をアップデート。お値段は安くて音質がいい！",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001792/",
-      "title": "国立大にまたサイバー攻撃 佐賀大でランサムウェア被害、NASのファイルが暗号化",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://internet.watch.impress.co.jp/docs/news/2143664.html",
-      "title": "「オズモール」に不正アクセス、個人情報約45万件が漏えいの可能性",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html",
-      "title": "【本日みつけたお買い得品】約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/28/news025.html",
-      "title": "ソフトバンクとLINEヤフーが「Yahoo!スマホ買取」を始めた理由 スマホ高騰時代に目指す「中古の循環」",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001779/",
-      "title": "京王グループにランサム攻撃、京王ストアの決済やホテル予約などに影響……鉄道は影響なし",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
-      "title": "iOS 27 makes a great change to Apple Pay on iPhone",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/series/dal/2143562.html",
-      "title": "【藤本健のDigital Audio Laboratory】Android 17で標準対応したBluetoothコーデック「LHDC」を試す。Pixel 7aでは48kHz止まり？",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://internet.watch.impress.co.jp/docs/news/2143369.html",
-      "title": "エレコムのWi-Fi 7対応法人向けアクセスポイント4モデルが「JC-STAR」★1取得",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/column/ebook/2143527.html",
-      "title": "【山口真弘の電子書籍タッチアンドトライ】iPad mini並みの精細さで4万円前後、PHILIPS「T7250」は読書向き ～8.8型、2,560×1,600ドット、最大90Hz駆動のAndroidタブレット",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2143431.html",
-      "title": "Windows 95から11まで――僕たちのPCライフを変えた「スタートボタン30年全史」",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2143293.html",
-      "title": "au Starlink Direct、オーストラリアで利用可能に 海外対応は5カ国へ",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/arlo-essential-xl-wireless-security-camera-2k-3rd-gen-deal-3715706/",
-      "title": "Arlo’s latest Essential XL 2K camera gets a 25% early Prime Day price drop",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/nortons-antivirus-plans-drop-to-black-friday-prices-but-the-deals-end-tomorrow",
-      "title": "Norton antivirus plans drop to Black Friday prices until tomorrow",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/deals-m5-pro-macbook-pro-macbook-air-studio-display/",
-      "title": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/federal-judge-strikes-down-utahs-controversial-vpn-age-verification-rules",
-      "title": "Federal judge strikes down Utah's controversial VPN age verification rules",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/leak-reveals-new-iphone-duo-features-not-yet-announced/",
-      "title": "Leak reveals new iPhone Duo features not yet announced",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://smhn.info/202609-motorola-razr-flex-wide-foldable-specs-leak",
-      "title": "iPhone Duo対抗のワイド型フォルダブルに真打登場!?「motorola razr flex」12月登場か",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://jetstream.blog/2026/09/28/android-google-messages-rcs-video-app-teardown/",
-      "title": "Android「Google メッセージ」RCS ビデオ通話対応へ【アプリ解析】",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://ascii.jp/elem/000/004/437/4437802/?rss",
-      "title": "まるで“小さなSwitch”！ AndroidやiPhoneに対応するGameSirのスマホコントローラーが5299円",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://ascii.jp/elem/000/004/437/4437862/?rss",
-      "title": "「大阪インディーズサミット2026」に先駆けて9月30日19時配信の「OIGS Online Showcase」出演者を発表！",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://jetstream.blog/2026/09/28/android-google-go-first-logo-redesign/",
-      "title": "一応。Android「Google Go」初のロゴ刷新",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://ascii.jp/elem/000/004/437/4437726/?rss",
-      "title": "PCもスマホもコレ1台！ 3モード接続対応のフィリップス製軽量ゲーミングマウスが23％オフ",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://ascii.jp/elem/000/004/436/4436615/?rss",
-      "title": "「メンチンの数え役満です」グラドル兼プロ雀士の玉木璃子、5th DVDにこだわりの評価！",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://jetstream.blog/2026/09/28/rakuten-motorola-official-store-open/",
-      "title": "楽天市場「モトローラ公式ストア」オープン🎉",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001810/",
-      "title": "SharePointのコード生成不備を突く脆弱性、実際の攻撃で悪用 米CISAが警告",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://internet.watch.impress.co.jp/docs/news/2143777.html",
-      "title": "「タイムズカーWebサイト」に不正アクセス、運転免許情報など含む約660万件の情報が流出",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/28/news090.html",
-      "title": "PCやタブレットを3台切り替えて使える「エレコム ワイヤレスマウス M-MY50MBSBK-G」がセールで18％オフの3690円に",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Md21zTGRfZXJMam9Od3FRTXNrbC13UTU1TmRzbGcwbUs2UG82Zjd0QkV2YnBOazFfSjF6Nk5ITUkwS296VWM5Z0QzOUUzZnl0RTBJ?oc=5",
-      "title": "一ノ瀬瑠菜ら12人のビキニ×美ボディ満載 水着グラビアムック『BOMB Love Special 2026』発売",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
-      "title": "This is my top feature request for the upcoming A20 Pro iPad mini",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://internet.watch.impress.co.jp/docs/news/2142150.html",
-      "title": "11月開催の「Internet Week 2026」で実施するプログラム発表。参加登録を受付中 全セッション見放題で1万6500円（30歳以下の学生は無料）",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SVVNiSVVZX2lLb09SR0p0VUk1TXo4NTViaDVzbGx0NjdOWVM2dW5rRFdYd3VJUkRhdG1OdkFiSDE0Sm9PRzlXcF9Naw?oc=5",
-      "title": "修正アップデートを配信へ。一部iPhone 18 ProのFace IDで認証失敗→フリーズの不具合",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://internet.watch.impress.co.jp/docs/news/2143576.html",
-      "title": "東京メトロ、「メトポ会員向けサービス」で不正アクセス。約5.9万件のメールアドレスが漏えいの可能性",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://internet.watch.impress.co.jp/docs/news/2143575.html",
-      "title": "京王電鉄、ランサムウェア攻撃を受け調査中。鉄道の運行には支障なし",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2271273/discord-is-testing-a-lightweight-mode-to-free-up-resources-while-gaming/",
-      "title": "Discord is testing a lightweight mode to free up resources while gaming",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2271249/google-will-support-chromeos-until-2034-as-it-shifts-to-googlebook-os/",
-      "title": "Google will support ChromeOS until 2034 as it shifts to Googlebook OS",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/watch-elton-john-give-the-first-ever-performance-at-apple-music-hall/",
-      "title": "Watch Elton John give the first-ever performance at Apple Music Hall",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/computing/monitors/lg-ultragear-evo-39gx950b-b-review",
-      "title": "LG UltraGear Evo 39GX950B is almost perfect except for one major flaw",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
-      "title": "Trump finalizes rule to make cars less fuel efficient",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2271129/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/",
-      "title": "Ayaneo shrank down the Game Boy form factor with its latest $89 handheld",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2268943/where-to-find-youtubes-autoplay-settings-and-how-to-turn-it-off-and-on/",
-      "title": "Where to find YouTube's autoplay settings and how to turn it off and on",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/pioneer-sda-sc600/",
-      "title": "MagSafe Monday: Pioneer joins the MagSafe accessory market with the SDA-SC600",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/airpods-pro-3-vs-airpods-5/",
-      "title": "AirPods Pro 3 vs AirPods 5: Three reasons to go Pro",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2270992/spacexs-latest-starship-mission-reached-low-earth-orbit/",
-      "title": "SpaceX's latest Starship mission reached low-Earth orbit",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/motorola-razr-wide-fold-specs-mockup-leak-3716318/",
-      "title": "Motorola’s wide Razr looks small, chunky, and powerful in detailed new leaks",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-      "title": "The Netherlands is rolling its own software and services after U.S. sanctions took Microsoft off the table",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/vpn/vpn-services/nymvpn-user-update-your-app-now-ahead-of-a-behind-the-scenes-network-overhaul",
-      "title": "NymVPN user? Update your app now ahead of a behind-the-scenes network overhaul",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os",
-      "title": "Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/streaming/entertainment/two-big-horror-franchises-returned-in-september-alongside-a-strange-new-shudder-original-heres-my-verdict-on-whats-worth-checking-out",
-      "title": "Two big horror franchises returned in September alongside a strange new Shudder original — here's my verdict on what's worth checking out",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/chromebook-to-googlebook-3716355/",
-      "title": "Your Chromebook could turn into a Googlebook someday",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/home/robot-vacuums/roborock-qrevo-2-pro-review",
-      "title": "Roborock Qrevo 2 Pro review: outstanding cleaning at a sensible price",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/you-dont-need-a-com-to-build-success-will-web-reshape-the-domain-landscape",
-      "title": "'You don’t need a .COM to build success': Will .WEB reshape the domain landscape?",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/phones/honor-phones/is-this-the-new-best-phone-for-video-honors-latest-flagship-brings-impressive-filmmaking-chops-in-a-potentially-iphone-beating-package",
-      "title": "Honor's latest flagship could be the best video-making phone ever made",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-adds-low-latency-pyrowave-codec-to-remote-play-new-codec-offers-better-game-streaming-on-local-networks-but-costs-5-10-times-more-bandwidth",
-      "title": "Steam adds low-latency Pyrowave codec to Remote Play — new codec offers better game streaming on local networks but costs '5-10 times' more bandwidth",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/how-to-watch/football/belgium-vs-france-free-streams-tv-channels-for-nations-league-2026-27",
-      "title": "How to watch Belgium vs France: FREE streams, TV channels for Nations League 2026/27",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/audio/earbuds-airpods/promises-to-topple-giants-ive-been-praising-open-earbuds-for-years-and-now-fresh-stats-prove-theyre-the-anti-tech-gadget-youve-been-longing-for",
-      "title": "'Promises to topple giants': I've been praising open earbuds for years and now, fresh stats prove they're the anti-tech gadget you've been longing for",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2270779/boses-throwback-to-wired-earbuds-add-much-needed-anc/",
-      "title": "Bose's throwback to wired earbuds add much-needed ANC",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2269338/affordable-alternatives-to-apples-airpods-pro/",
-      "title": "Affordable alternatives to Apple's AirPods Pro",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-jalapeno-design-interview-transcript-hardware-vp-richard-ho-explains-how-ai-assisted-design-may-shape-the-future-of-inference-asics",
-      "title": "OpenAI Jalapeño design interview transcript",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/live/news/god-of-war-laufey-pre-orders-ps5-stock",
-      "title": "God of War Laufey pre-orders live build-up — all the best info and early links to bookmark ahead of PS5 pre-order stock dropping",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.engadget.com/2270734/sony-is-skipping-ces-in-2027-as-it-focuses-more-on-entertainment/",
-      "title": "Sony is skipping CES in 2027 as it focuses more on entertainment",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/video-games/console-gaming/you-can-now-play-nintendo-switch-games-on-a-jailbroken-ps5-early-alpha-hits-40-fps-in-lighter-titles-but-chokes-on-zelda",
-      "title": "You can now play Nintendo Switch games on a jailbroken PS5",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/security/citrix-says-two-worrying-netscaler-rce-zero-days-exploited-in-attacks",
-      "title": "Citrix says two worrying NetScaler RCE zero-days exploited in attacks",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143868.html",
-      "title": "[みんなのケータイ]PayPayカードが不正使用された！",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2143801.html",
-      "title": "「東京駅でつながりにくい」、それでも楽天モバイルを辞めない理由――ユーザー座談会で見えた“納得の割り切り”",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143796.html",
-      "title": "[本日の一品]スマホにも便利な3cmケーブル？ 付きデュアルスロットSDカードリーダー",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2143720.html",
-      "title": "[石川温の「スマホ業界 Watch」]揺れる「フラグシップスマホ」の定義――多様化するニーズと最上位モデルの現在地",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/testing-thunderbolt-5-docks-vectotech-v-core-vs-orico-tb5-thunderbolt-5-dock",
-      "title": "Testing two Thunderbolt 5 docks with M.2 storage — VectoTech V-Core vs Orico TB5",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-messages-voice-recording-changes-apk-teardown-3716150/",
-      "title": "Google Messages could soon make voice notes easier to initiate",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/3d-printing/virginia-tech-lab-3d-prints-a-liquid-metal-composite-to-guide-heat-boost-thermal-conductivity-40x-the-nozzle-stretches-gallium-indium-droplets-inside-soft-silicone-can-also-create-self-healing-traces",
-      "title": "Virginia Tech lab 3D prints a liquid metal composite to guide heat, boost thermal conductivity 40x",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/the_hmd_106_pure_appears_out_of_nowhere__a_super_cheap_2g_phone_with_fm_radio-news-74795.php",
-      "title": "The HMD 106 Pure appears out of nowhere - a super cheap 2G phone with FM radio",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/security/kiteworks-tells-users-to-shut-down-servers-amid-fears-of-imminent-cyberattack",
-      "title": "Kiteworks tells users to shut down servers amid fears of 'imminent' cyberattack",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-photos-editor-unresponsive-buttons-fix-3716225/",
-      "title": "Google confirms it’s working on a fix for that Photos bug preventing sharing, deleting, and editing",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://getnews.jp/archives/3745775",
-      "title": "【広島県】お茶専門店「菓匠茶屋 廿日市店」がカフェメニューをリニューアル！キャンペーンも",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://getnews.jp/archives/3745752",
-      "title": "子供を狙う殺人鬼の狡猾な手口 アンドレイ・チカチーロをモデルに描く『エヴィレンコ』閲覧注意の本編映像［ホラー通信］",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-scythian-leather-made-of-human-skin/",
-      "title": "発掘された2400年前の革、人間の皮膚でした",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/streaming/hbo-max/lanterns-finale-trailer-has-sparked-a-wild-new-theory-among-hbo-max-viewers-and-its-got-nothing-to-do-with-the-central-mystery-about-hal-jordan",
-      "title": "Lanterns episode 8 trailer spawns major new fan theory about John Stewart's fate",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://getnews.jp/archives/3745776",
-      "title": "【東京都日野市・八王子市・立川市・昭島市】ひとりで生きる将来に備える、身元保証とエンディングノートについて学ぶ講座を開講",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/tvos-27-adds-new-reason-to-use-profiles-on-your-apple-tv-4k/",
-      "title": "tvOS 27 adds new reason to use profiles on your Apple TV 4K",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://getnews.jp/archives/3745777",
-      "title": "【兵庫県洲本市】園児・小学生が地域の仕事やお金の役割を体験。「淡信おしごとパーク」を開催",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/the_honor_watch_6_pro_has_a_15_duallayer_oled_display_hrv_and_cgm_tracking-news-74794.php",
-      "title": "The Honor Watch 6 Pro has a 1.5\" dual-layer OLED display, HRV and CGM tracking",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-ev-fast-charging-two-huge-ev-companies-are-teaming-up-to-make-automated-battery-swapping-stations-a-way-to-get-a-fully-charged-car-in-under-three-minutes",
-      "title": "2 huge EV companies are teaming up to make 'automated battery swapping stations' real",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://getnews.jp/archives/3745778",
-      "title": "【埼玉県宮代町】東武動物公園にて『アイカツ！』とのコラボイベント開催！グッズやメニューを販売",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
-      "title": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/28/heres-everything-new-for-apple-notes-in-ios-27/",
-      "title": "Apple Notes keeps getting better, here’s what’s new in iOS 27",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-challenger-wifi-motherboard-review",
-      "title": "ASRock X870E Challenger Wifi Motherboard Review: A value X870E board packed with features",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-sarlisi-epilator-review/",
-      "title": "8,000円台の家庭用脱毛器侮れねえ…。人体実験の結果を見てほしい",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/audio/wireless-headphones/sonos-ace-ultra-vs-sony-wh-1000xm6",
-      "title": "Sonos Ace Ultra vs Sony WH-1000XM6: which noise cancelling headphones should you buy?",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/how-to-watch/sport/world-grand-prix-darts-2026-free",
-      "title": "How to watch 2026 World Grand Prix darts: Free Streams",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/microsoft-excel-gurus-your-prayers-have-been-answered-more-than-one-value-can-now-be-in-a-single-cell-as-a-new-era-of-spreadsheets-dawns",
-      "title": "Microsoft Excel gurus, your prayers have been answered — more than one value can now be in a single cell as a new era of spreadsheets dawns",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/furo-ambient-2026/",
-      "title": "お風呂の響きで電子音楽を聴いたら？ 銭湯で楽しむ「風呂アンビエント」",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/demons-souls-reaches-40-50-fps-on-private-ps5-emulator-with-accurate-graphics-kytyps5-surges-from-unplayable-1-2-fps-in-just-three-weeks-new-milestone-comes-only-three-weeks-after-the-game-barely-booted",
-      "title": "Demon's Souls reaches 40-50 FPS on private PS5 emulator with accurate graphics",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-messages-pinned-chats-changes-apk-teardown-3716071/",
-      "title": "Google Messages’ pinned chats could soon get a complete overhaul, here’s an early look",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/tetris_board-game_review/",
-      "title": "戦略的ボードゲームに進化したアナログ版のテトリス。勝敗は戦略と運頼み",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes",
-      "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/home/coffee-machines/aeropress-has-given-its-iconic-coffee-maker-a-stunning-walnut-redesign-and-paired-it-with-a-matching-wood-clad-version-of-my-favorite-manual-grinder",
-      "title": "AeroPress unveils a walnut brewer and matching coffee grinder — and they're going to sell out fast",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns",
-      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/computing/software/discords-pc-system-resource-hogging-days-are-numbered-a-new-game-mode-is-coming-to-reduce-cpu-and-gpu-usage-while-gaming",
-      "title": "Discord's system resource hogging days may be over, with new 'Game Mode'",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/cameras/drones/study-shows-using-drones-to-deliver-defibrillators-could-more-than-double-the-chances-of-reaching-cardiac-arrest-patients-quickly",
-      "title": "Study shows drone defibrillator delivery could significant improve coverage",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/typhoon_resistant-umbrella-recommendations/",
-      "title": "台風にも負けない（かもしれない）頼りになる傘たち",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-cracking-group-denuvowo-reportedly-disbands-lawsuit-from-irdeto-has-a-chilling-effect-but-cracking-continues-as-piracy-hub-purges-links",
-      "title": "Denuvo cracking group DenuvOwO reportedly disbands",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/ps5-emulation-pc-kytyps5-3715979/",
-      "title": "PS5 emulation is already making major progress",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/rank/best/2143852.html",
-      "title": "【AV Watchアクセスランキング】ヤマハのガチアクティブSP、番組をクラウド保存できるディーガ、八つ墓村('26年9月14日～27日)",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/toughness-antiflip-folding-umbrella_review/",
-      "title": "台風でもひっくり返らない安心感。風力を風力で相殺する技術を搭載した折りたたみ傘",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty",
-      "title": "Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts",
-      "processedAt": "2026-09-29T00:29:14.514Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "title": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
-      "title": "How to use Spotify's Running Mode on iOS and Android",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143253.html",
-      "title": "[みんなのケータイ]ChatGPTと人に助けられた、中国で紛失したスマホが無事に返ってくるまでの数時間の記録",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2142984.html",
-      "title": "[スタパ齋藤の「スタパトロニクスMobile」]Audio Intelligence AIをApple Watch Ultra 4でっ！",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/",
-      "title": "I turned my Android phone’s annoying AI button into its most powerful shortcut key",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-copilot-plus-pc-quietly-ends/",
-      "title": "あんなに推してた「Copilot+ PC」、新型Surfaceでは名乗ってない",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/whatsapp_is_redesigning_its_android_app_heres_how-news-74782.php",
-      "title": "WhatsApp is redesigning its Android app, here's how",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
-      "title": "Google is launching its AI chips into space — Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/apple_code_confirms_the_main_specs_of_the_next_entrylevel_ipad-news-74783.php",
-      "title": "Apple code confirms the main specs of the next entry-level iPad",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/27/news007.html",
-      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/",
-      "title": "How to use Android's Desktop mode to turn your phone into a tiny PC",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://smhn.info/202609-lenovo-yoga-tab-gen-2-japan-preorder",
-      "title": "144Hz駆動の4Kタブ「Yoga Tab Gen 2」国内登場！最大Android 24・2033年までセキュリティ更新、ペン付属",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://smhn.info/202609-ray-ban-meta-gen3-japan-launch-price",
-      "title": "最大9時間駆動のRay-Ban Meta（Gen 3）発表！国内7万8980円から、3K撮影対応",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://jetstream.blog/2026/09/27/android-gemini-live-guided-vision-rollout/",
-      "title": "「Gemini Live シンプルガイド」展開開始【Android Drop】",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
-      "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
-      "title": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/xiaomi_18_pro_pro_max_vivo_x500_pro_pro_max_are_all_official_week_39_in_review-news-74776.php",
-      "title": "Xiaomi 18 Pro/Pro Max, vivo X500, Pro/Pro Max are all official, Week 39 in review",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://k-tai.watch.impress.co.jp/docs/topic/special/2140787.html",
-      "title": "「Notta Memo」がProになってさらに進化！ 自動クラウド同期とシーン切り替えで通話から会議まで“ワンタッチ”でできるAIレコーダーをチェック!!![Sponsored]",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
-      "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand",
-      "title": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/",
-      "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://spectrum.ieee.org/poetry-user-interface-design",
-      "title": "Poetry for Engineers: The UI Designer’s Dream",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://smhn.info/202609-boox-note-mini-c-color-ereader-announced",
-      "title": "カラー電子ペーパー搭載のAndroid 16タブレット「BOOX Note Mini C」発表！8.52型で指紋認証搭載",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk",
-      "title": "Linux enthusiasts see 10-second kernel compilation times on the horizon",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
-      "title": "Developer says AI decision model Jev beat Pokémon Red in under a week",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-katzenberg-ai-creative-industry/",
-      "title": "元ディズニーの名プロデューサー「クリエイティブ産業はAIを受け入れるべき」",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers",
-      "title": "Over half of UK firms say an AI agent has gone rogue on them — and affected their business or their customers",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://smhn.info/202609-vivo-y600i-8000mah-battery-announcement",
-      "title": "8000mAh電池のvivo Y600i発表！Snapdragon 4 Gen 2、120Hz液晶、IP68/IP69対応",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeGdqejRDVFE0eVc0eTNGT19DNkJVOFBnZm5UWWs1Y3V5YTRNM2Rfdm15LW5VUTZ1VXpQZ2ZwdzQydHk0NENnYTcwUQ?oc=5",
-      "title": "新しいiPhoneだけのつもりがApple Watchも購入。予定外の買い物から紐解くApple新製品の魅力",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-meta-jolly-ai-spyware/",
-      "title": "かわいい顔にだまされないで。Metaの「AI版たまごっち」は持ち歩くスパイウェアかも",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gsmarena.com/vivo_x500_pro_max_in_for_review-news-74773.php",
-      "title": "vivo X500 Pro Max unboxing and hands-on",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267889/ditch-tablet-for-foldable-phone/",
-      "title": "Should you ditch your tablet for a foldable phone?",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
-      "title": "Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
-      "title": "Grab this 14-inch compact gaming laptop powerhouse for $1000 off",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
-      "title": "Report: Apple working on new Vision Pro, with different form factors on the table",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-saudi-arabia-first-ev-ceer-exobot/",
-      "title": "SF映画からそのまま出てきた。サウジ生まれのEVスーパーカー「EXOBOT」",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.techradar.com/streaming/paramount-plus/mobland-season-2-episode-3-release-date-time",
-      "title": "MobLand season 2 episode 3 release date and time on Paramount+",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/",
-      "title": "How to use the Live Text feature on your iPhone",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
-      "title": "PS5 emulator successfully runs six titles at a playable 60 FPS",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267884/apple-iphone-duo-vs-microsoft-surface-duo-comparison/",
-      "title": "iPhone Duo vs Microsoft Surface Duo: One name, two very different devices",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
-      "title": "Why OLPC’s $100 laptop never stood a chance",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/",
-      "title": "How to use Android apps on your Windows PC (and why you might want to)",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://getnews.jp/archives/3745544",
-      "title": "10/2 発売 マジック：ザ・ギャザリング「リアリティ・フラクチャー」公認店 9/25 先⾏販売◆ 梶裕貴 日笠陽子 佐倉綾音の漫画トレーラー全3編＆インタビュー動画に注目！",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/best-android-features-not-on-pixel-galaxy-3713013/",
-      "title": "5 of my favorite Android features you won’t find on Samsung or Pixel phones",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
-      "title": "U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.androidauthority.com/pixel-11-pro-xl-vs-pixel-8-pro-hands-on-comparison-3714142/",
-      "title": "I tested the Pixel 11 Pro XL against the Pixel 8 Pro. Here’s why it’s time to finally upgrade",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-acer-vero-16-repairable-laptop/",
-      "title": "ノートPCが壊れたら、部品を替える。CPUも交換できるAcer Vero 16が登場",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-smartphone-with-physical-keyboard/",
-      "title": "折りたたみスマホもいいけれど。なんだかんだ「キーボード付き」が熱い",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
-      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.techradar.com/pro/innocn-e49m1r-ultrawide-monitor-review",
-      "title": "Innocn E49M1R ultrawide monitor review",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-guide/",
-      "title": "iPhoneの電池が持たない。買い替える前に、バッテリー交換という手がありました",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news008.html",
-      "title": "【3COINS】1320円の「真空吸着マグネットスタンド」 吸盤＆マグネットでしっかり固定",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-trozk-t3-module-power-bank/",
-      "title": "3つのモジュールが合体！ そして分離！ 用途によって容量が選べるモバイルバッテリー",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
-      "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.gizmodo.jp/article/2609-fire-resistant-a4-gadget-case/",
-      "title": "ガジェット全部入れて、火災リスク減。A4サイズの難燃ガジェットケース",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/",
-      "title": "How to improve your router's security in 10 minutes",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://jetstream.blog/2026/09/28/switchbot-rgbic-light-bar-amazon-listing/",
-      "title": "未発表新製品「SwitchBot RGBICライトバー」Amazon登場",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.techradar.com/tablets/ipad-mini/iphone-duo-unfoldable-edition-leak-shows-a-new-ipad-mini-is-on-the-way-even-after-apples-folding-iphone-and-rumored-homepod-mini-2-colors-appear-too",
-      "title": "Leak shows a new iPad mini is on the way, even after Apple's folding iPhone",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://jetstream.blog/2026/09/27/android-lock-screen-imei-check-rollout/",
-      "title": "Android「IMEI」ロック画面確認展開",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide",
-      "title": "Flock seeks to have security researchers' map of Flock cameras taken down",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
-      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
-      "processedAt": "2026-09-27T23:09:18.695Z"
-    },
-    {
-      "url": "https://ascii.jp/elem/000/004/436/4436614/?rss",
-      "title": "「大嫌いな上司」と出張だと!? 佐々木萌香がムスッとした表情も楽しめる13th DVDリリース",
-      "processedAt": "2026-09-27T23:09:18.695Z"
     }
   ]
 }
