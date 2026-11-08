@@ -1,3305 +1,2148 @@
 {
   "producer": "gadget-news-radar",
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T23:48:36.564Z",
+  "generatedAt": "2026-11-08T23:48:43.015Z",
   "window": {
-    "startIso": "2026-11-06T20:00:00.000Z",
-    "endIso": "2026-11-07T20:00:00.000Z",
-    "label": "2026-11-07 05:00 〜 2026-11-08 05:00 JST",
-    "dateLabel": "2026-11-08"
+    "startIso": "2026-11-07T20:00:00.000Z",
+    "endIso": "2026-11-08T20:00:00.000Z",
+    "label": "2026-11-08 05:00 〜 2026-11-09 05:00 JST",
+    "dateLabel": "2026-11-09"
   },
   "summary": {
-    "headline": "Gemini・Siri・ChatGPTのAI機能拡張ラッシュ",
-    "lead": "GoogleはGeminiアプリにGoogleスプレッドシート連携を追加し、AppleはアプリAI連携のSiriを全開発者に開放した。OpenAIはChatGPTに会話内でツールを作れる「Intelligent UI」を投入し、別のAI「GPT-6 Cyber」がFirefoxの未知の脆弱性81件を発見した。一方、NTTドコモは不正アクセスで最大約30万件の顧客情報流出を発表している。",
+    "headline": "AppleとGoogleの地固め発表が重なった一日",
+    "lead": "GoogleはPixel 11でGemini Nano 4のデベロッパープレビュー展開を始め、AppleはmacOS 27.3でAIエージェントのフルディスクアクセス許可方法を変更する見込みだ。GoogleとMicrosoftはOpenAI提案のrobots.txtベースのクロール標準に賛同し、AI学習のオプトアウトが明確化される。HUAWEIは三つ折りスマホ「Mate XT 2」を発表し、AppleのiPhone Duoに対抗する動きも目立った。",
     "points": [
-      "Gemini「アプリ連携」にGoogleスプレッドシートが追加、チャットからセル編集や数式更新が可能に",
-      "Siri AIがサードパーティアプリ連携を全開発者に開放、来春以降に日本語Siriでアプリ内操作を代行",
-      "ChatGPTが会話内で対話型ツールを作成できる「Intelligent UI」を追加",
-      "OpenAIの「GPT-6 Cyber」がFirefoxの未知の脆弱性81件を発見、AI脆弱性診断が実用域に",
-      "NTTドコモが不正アクセスで最大約30万件の顧客情報流出、本人確認書類番号なども対象"
+      "Pixel 11に「Gemini Nano 4」デベロッパープレビューが展開、オンデバイスAIを試せる",
+      "macOS 27.3でAIエージェントのフルディスクアクセス許可方法が変更される見込み",
+      "Google・MicrosoftがOpenAI提案のrobots.txt標準に賛同、AI学習オプトアウトを明確化",
+      "HUAWEI「Mate XT 2」発表、G型三つ折り・防水対応でiPhone Duoに対抗",
+      "Apple M6搭載MacBook Pro発表、Windows 11ベータでは検索UIと顔認証を強化"
     ]
   },
   "counts": {
-    "total": 250,
-    "stars3": 7,
-    "stars2": 47,
-    "stars1": 196,
+    "total": 162,
+    "stars3": 6,
+    "stars2": 30,
+    "stars1": 126,
     "unjudged": 0
   },
   "items": [
     {
-      "id": "65b7f8ccab27625b",
-      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
-      "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:28:13.000Z",
-      "stars": 3,
-      "reason": "RaycastのAI新機能、自分の作業ツールに即試せる",
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "503446f283cc7d63",
-      "title": "OpenAIの最新「バグ探しAI」が強力すぎる。Firefoxの未知の弱点81件を発見",
-      "url": "https://www.gizmodo.jp/article/2611-openai-bug-finding-ai-firefox-vulnerabilities/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T12:00:00.000Z",
-      "stars": 3,
-      "reason": "OpenAIのAIがFirefox脆弱性81件発見、好例",
-      "score": 6,
-      "groups": [
-        "AI・生成AI",
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "84dd9e9f957d6a6a",
-      "title": "ChatGPT can now create interactive tools instead of just answering questions",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-build-custom-apps-for-you-in-seconds-without-any-coding-i-tried-making-6-of-my-own-and-the-results-surprised-me",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 3,
-      "reason": "ChatGPTが対話内でツール作成可能に、資料に直結",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "614606f1ee555513",
-      "title": "アプリを動かすSiri、ついに始動。Siri AIがすべての開発者に開放",
-      "url": "https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:00:00.000Z",
-      "stars": 3,
-      "reason": "SiriのアプリAI連携を全開発者に開放、登壇資料に直結",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "44b311477f164d86",
-      "title": "Gemini「アプリ連携」Google スプレッドシート追加",
-      "url": "https://jetstream.blog/2026/11/07/gemini-connected-apps-google-sheets/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T11:32:11.000Z",
-      "stars": 3,
-      "reason": "GeminiでGoogleスプレッドシートを直接操作可能に",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "bbfddd6707881f94",
-      "title": "ドコモ、不正アクセスで最大約30万件の顧客情報が流出 ― 本人確認書類の番号や口座情報なども",
-      "url": "https://orefolder.jp/2026/11/docomo-unauthorized-access-202611/",
-      "source": "OREFOLDER",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:41:38.000Z",
-      "stars": 3,
-      "reason": "ドコモが不正アクセスで30万件流出、顧客説明に直結",
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "f45d6873082da0ad",
-      "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
-      "url": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T19:15:00.000Z",
-      "stars": 3,
-      "reason": "Google WorkspaceにGrok組込む方法、資料に直結",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "0ebb1254475cb4a6",
-      "title": "AIのせいで、人間であることの証明がどんどん面倒に…。きっかけは83万件の幽霊学生",
-      "url": "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:00:00.000Z",
-      "stars": 2,
-      "reason": "AI悪用の学生偽装事件、顧客への説明ネタになる",
-      "score": 8,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表",
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "4d2d2e1aa0a793a0",
-      "title": "Google、スマートウォッチで高血圧の兆候を検知する新AI技術「AI-PPG-ACC-HTN」発表",
-      "url": "https://jetstream.blog/2026/11/07/google-smartwatch-hypertension-detection-ai/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:26:13.000Z",
-      "stars": 2,
-      "reason": "Googleの高血圧検知AI研究、ウェアラブル活用の参考に",
-      "score": 8,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "cd9ee7dc91bb025e",
-      "title": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature",
-      "url": "https://www.gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:47:02.000Z",
-      "stars": 2,
-      "reason": "Pixel版Gboardの音声入力AI新機能、未公式情報",
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "5c065ab090712d1e",
-      "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
-      "url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T14:06:00.000Z",
-      "stars": 2,
-      "reason": "AI生成コードの不具合増加、顧客への注意喚起に使える",
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "3e33b7be2857fb25",
-      "title": "“暴走するAI”をどう抑える？ オラクルが提言するデータ基盤の新たな役割",
-      "url": "https://ascii.jp/elem/000/004/449/4449487/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:30:00.000Z",
-      "stars": 2,
-      "reason": "OracleのAIリスク対策構想、AI統制説明の参考に",
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表",
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "055e03fe8fc4b1cc",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:00:00.000Z",
-      "stars": 2,
-      "reason": "AIとセキュリティ業界の構造変化、顧客説明の背景知識",
-      "score": 6,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表",
-        "スマホ・PC本体",
-        "制度・プライバシー",
-        "減点対象（セール・広告色）",
-        "減点対象（噂・リーク）"
-      ]
-    },
-    {
-      "id": "2ec4545cb4a6d8d2",
-      "title": "Windows 11、アプデで「完全新規OS」になる可能性。「27H2」にて、Windows 12になるかは不透明",
-      "url": "https://smhn.info/202611-windows-11-27h2-full-os-swap-quality-focus",
-      "source": "すまほん!!",
-      "region": "国内",
-      "publishedAt": "2026-11-07T11:47:46.000Z",
-      "stars": 2,
-      "reason": "Windows11次期大型更新の観測報道、PC計画の参考",
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体",
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "facb67726e16b54c",
-      "title": "新iPad miniのナノ・テクスチャー・ディスプレイ、どこでもコンテンツに集中できるって最高だ",
-      "url": "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-06T23:00:00.000Z",
-      "stars": 2,
-      "reason": "新iPad miniの実機検証、登壇機材の参考になる",
-      "score": 6,
-      "groups": [
-        "スマホ・PC本体",
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "e2c8f726bab2018b",
-      "title": "iOS 27.3: New features, release date, more",
-      "url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:58:30.000Z",
-      "stars": 2,
-      "reason": "iOS27.3新機能まとめ、最新情報として押さえる",
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "22fbd02eaea3c94d",
-      "title": "Accenture accused of publishing major research full of AI hallucinations — paper featured as many as 15 fictitious citations and case studies",
-      "url": "https://www.techradar.com/pro/accenture-accused-of-publishing-major-research-full-of-ai-hallucinations-paper-featured-as-many-as-15-fictitious-citations-and-case-studies",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T19:05:00.000Z",
-      "stars": 2,
-      "reason": "Accentureの論文にAI誤情報、顧客へのリスク説明に",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "fb191f77d1be19df",
-      "title": "Anthropic engineer warns against 'cognitive surrender' from too much AI",
-      "url": "https://www.techradar.com/ai-platforms-assistants/skills-you-stop-exercising-are-going-to-go-away-anthropic-engineer-warns-against-cognitive-surrender-from-giving-too-much-control-to-ai",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:30:00.000Z",
-      "stars": 2,
-      "reason": "Anthropic社員のAI活用論、登壇の話題ネタになる",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "8adf1c01bb835068",
-      "title": "Adobe is giving start-ups 12 months of free access to its top AI tools, including Firefly and Acrobat",
-      "url": "https://www.techradar.com/pro/adobe-is-giving-start-ups-12-months-of-free-access-to-its-top-ai-tools-including-firefly-and-acrobat",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:05:00.000Z",
-      "stars": 2,
-      "reason": "AdobeのスタートアップAI無償提供、起業支援ネタに",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "8879475e62b3793a",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:30:00.000Z",
-      "stars": 2,
-      "reason": "AnthropicのAI自己改善報告、進化の説明ネタに",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "a7f022c187c56d6c",
-      "title": "Airbnb is building an AI travel agent that designs its own interface",
-      "url": "https://www.gsmarena.com/airbnb_is_building_an_ai_travel_agent_that_designs_its_own_interface-news-75389.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:09:02.000Z",
-      "stars": 2,
-      "reason": "AirbnbのAI旅行エージェント開発、活用事例ネタ",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "d4b2285604c78582",
-      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
-      "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T19:11:00.000Z",
-      "stars": 2,
-      "reason": "新型モバイルバッテリー実機、収録機材の候補になる",
-      "score": 4,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "43de0d7d734cdcc9",
-      "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
-      "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:30:00.000Z",
-      "stars": 2,
-      "reason": "個人のM365移行エピソード、Workspace比較の参考に",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "91ccbef9bcd21a84",
-      "title": "The AirPods 5 blew me away, but Android users should beware",
-      "url": "https://www.androidauthority.com/airpods-5-android-experience-3731256/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-07T10:30:10.000Z",
-      "stars": 2,
-      "reason": "AirPods5レビュー、収録・通話機材の参考になる",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "675aa8a62c53b581",
-      "title": "Galaxy phones have a better document scanner now, and it just saved me a ton of hassle",
-      "url": "https://www.androidauthority.com/samsung-galaxy-phones-document-scanner-one-ui-8-5-hands-on-3730608/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-07T10:00:17.000Z",
-      "stars": 2,
-      "reason": "Galaxyのドキュメントスキャン改善、資料化に使える",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "e28a4626a591f951",
-      "title": "How Do I Make a Video From Text With AI?",
-      "url": "https://www.digitaltrends.com/computing/how-do-i-make-a-video-from-text-with-ai/",
-      "source": "Digital Trends",
-      "region": "海外",
-      "publishedAt": "2026-11-07T09:25:00.000Z",
-      "stars": 2,
-      "reason": "AI動画生成の実践ガイド、登壇資料作成に使える",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "19efc760f78e4e52",
-      "title": "AIが映像をつくれる時代だからこそ、主導権は自分に。ひとりでもAI映画をつくれるプラットフォーム「MaiStory」Ver 1.0リリース",
-      "url": "https://ascii.jp/elem/000/004/449/4449533/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T04:00:00.000Z",
-      "stars": 2,
-      "reason": "個人でAI映画制作できるプラットフォーム公開",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "575d65b39d7f83fb",
-      "title": "【今すぐ読みたい！人気記事】Apple WatchとPixel Watch、日本で使うと差が出るのはここ！ - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154526.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-06T21:11:00.000Z",
-      "stars": 2,
-      "reason": "スマートウォッチ比較、日本での使い勝手の参考",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "cbc470459f8e4735",
-      "title": "Remove your personal info from the web (and stop it coming back)",
-      "url": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:00:00.000Z",
-      "stars": 2,
-      "reason": "個人情報削除の実践ガイド、プライバシー説明に使える",
-      "score": 3,
-      "groups": [
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "17deeec2dddb7b17",
-      "title": "iPhone Duoは最初から完成度高くて驚いた！ 実際に使うとわかったアップル製品ならではの体験",
-      "url": "https://ascii.jp/elem/000/004/448/4448575/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T13:30:00.000Z",
-      "stars": 2,
-      "reason": "折りたたみiPhoneの実機検証、製品説明に使える",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "3949edd398724036",
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:15:00.000Z",
-      "stars": 2,
-      "reason": "Mac容量確保の無料ツール、自分の仕事道具に使える",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "87e2f6bf5b416502",
-      "title": "ヘッドホンがWi-Fiでつながるってこういうことか！ Sonos Ace Ultraのスマホなしで音楽サブスクが楽しめる体験が快適すぎた！",
-      "url": "https://ascii.jp/elem/000/004/449/4449484/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 2,
-      "reason": "Wi-Fi対応ヘッドホンの体験、収録機材の参考に",
-      "score": 3,
-      "groups": [
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "846b81584c57ed1a",
-      "title": "今のところシンガポールのみ。Google ウォレット「海外 QR 決済」ついに解禁",
-      "url": "https://jetstream.blog/2026/11/07/android-google-wallet-traveler-qr-rollout/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:48:13.000Z",
-      "stars": 2,
-      "reason": "Googleウォレット海外QR決済開始、出張支払いに有用",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "8b4f8beb0bbcb39d",
-      "title": "もう目が疲れない!? TCLの「有機EL×電子ペーパー風」スマホが電子書籍ラバーに刺さる理由",
-      "url": "https://ascii.jp/elem/000/004/449/4449048/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 2,
-      "reason": "有機ELで電子ペーパー風表示、新ガジェット事例に",
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "373c1a9751f174aa",
-      "title": "Magnetic modular display puts three adjustable screens in front of your face",
-      "url": "https://newatlas.com/computers/tobenone-magnetic-modular-display/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-07T00:03:00.000Z",
-      "stars": 2,
-      "reason": "マグネット式3画面ディスプレイ、作業環境の参考に",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "e64d2a93e498d08f",
-      "title": "This could be the cheapest BE5000 Wi-Fi 7 access point, offering 2.5GbE, free lifetime cloud management, and an impressive five-year warranty",
-      "url": "https://www.techradar.com/pro/this-could-be-the-cheapest-be5000-wi-fi-7-access-point-offering-2-5gbe-free-lifetime-cloud-management-and-an-impressive-five-year-warranty",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:25:00.000Z",
-      "stars": 2,
-      "reason": "低価格Wi-Fi7 AP登場、ネット環境更新の判断材料",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "fc9ee87f0886c917",
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 2,
-      "reason": "IoTハッキング多発、セキュリティ説明に使える",
-      "score": 2,
-      "groups": [
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "85e7269574e69a03",
-      "title": "I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool",
-      "url": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 2,
-      "reason": "新型スマートグラス実機検証、職場利用の評価に使える",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "fce98b3be91747c0",
-      "title": "TP-Link Archer 8 Ultra: the future of Wi-Fi has just arrived, with TP-Link’s first Wi-Fi 8 router",
-      "url": "https://www.techradar.com/computing/wi-fi-broadband/tp-link-archer-8-ultra",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 2,
-      "reason": "初のWi-Fi8ルーター登場、ネット環境更新の判断材料",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9f1433ccd5299c51",
-      "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:30:00.000Z",
-      "stars": 2,
-      "reason": "Bluetooth新規格でロスレス対応、イヤホン選定の参考",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "6a0dfa2a0aa7a39e",
-      "title": "These 5 productivity apps you’ve never heard of deserve a spot on your phone",
-      "url": "https://www.androidauthority.com/underrated-productivity-apps-android-3731000/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:00:31.000Z",
-      "stars": 2,
-      "reason": "隠れた生産性アプリ5選、実務ツール発掘のネタに",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "d52a7a4ea7813b47",
-      "title": "I like Google Health’s biggest features of 2026, but I don’t trust them",
-      "url": "https://www.androidauthority.com/do-not-trust-google-health-guardian-features-3731200/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:26.000Z",
-      "stars": 2,
-      "reason": "Googleヘルス新機能への注意点、プライバシー説明に",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "d45a50ad457d0e26",
-      "title": "Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる",
-      "url": "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:30:00.000Z",
-      "stars": 2,
-      "reason": "Googleデータセンターの環境問題、AI基盤ESG説明に",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "00028fffb44a4bba",
-      "title": "移動で困ったことがあったら「人」じゃなく「スマホ」に聞く時代なのかも",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news017.html",
+      "id": "9bea6533719c809a",
+      "title": "折り方がZ型→G型に変わった3つ折りスマホ「HUAWEI Mate XT 2」は“iPhone Duoキラー”になるか 開けば10.2型、初の防水対応も実現",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news005.html",
       "source": "ITmedia Mobile",
       "region": "国内",
-      "publishedAt": "2026-11-07T05:00:00.000Z",
-      "stars": 2,
-      "reason": "Googleマップに対話AI追加、移動サポートの参考に",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "4245bdcbbcc3dc46",
-      "title": "MetaのQuest 2とQuest Pro、2027年春で新機能の開発終了へ。買ったゲームはどうなる？",
-      "url": "https://www.gizmodo.jp/article/2611-meta-quest-2-pro-development-end-2027/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 2,
-      "reason": "Quest旧機種サポート終了、VR機材更新の判断材料",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "0b4e5eab1fbf1179",
-      "title": "【資料を無料公開】PHPの緊急の脆弱性「PHP2shell」、自社のサイトは対象か。版の確かめ方から記録と連絡までを7つのSTEPに分けた「緊急の脆弱性が出た日の対応キット」を公開",
-      "url": "https://ascii.jp/elem/000/004/449/4449526/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 2,
-      "reason": "脆弱性PHP2shell対応資料公開、自社サイト確認の参考",
-      "score": 2,
-      "groups": [
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "6813d62fd92533cd",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-06T23:46:18.000Z",
-      "stars": 2,
-      "reason": "OpenAI評価額1.25兆ドル、AI業界トレンドのネタ",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "08f73ff2588935d2",
-      "title": "Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking",
-      "url": "https://www.androidauthority.com/google-health-5-12-update-3732684/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:50:40.000Z",
-      "stars": 2,
-      "reason": "Google Health大型更新、健康管理の実務活用に",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "c714e41ed1a1390e",
-      "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love",
-      "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:05:28.000Z",
-      "stars": 2,
-      "reason": "Apple Watch新機能Siri Recap、参考になる",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "4d18341dbb030b20",
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "url": "https://www.wired.com/gallery/best-wifi-routers/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:00:00.000Z",
-      "stars": 2,
-      "reason": "WIRED厳選Wi-Fiルーター、ネット環境改善に使える",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "da12f342ffc1ed6d",
-      "title": "総務省、NTTドコモに行政指導 ― 34万人分の電話番号などを同意なくAmazonに提供",
-      "url": "https://orefolder.jp/2026/11/docomo-amazon-information-leak-guidance/",
-      "source": "OREFOLDER",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:46:23.000Z",
-      "stars": 2,
-      "reason": "総務省がドコモに行政指導、個人情報の取扱いが論点に",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "93376cf173942118",
-      "title": "スマートグラス用に「貼るルーペ」と「貼る近視レンズ」を衝動買い",
-      "url": "https://ascii.jp/elem/000/004/449/4449491/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 2,
-      "reason": "スマートグラス用視力矯正Tips、工夫ネタとして参考に",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "0ba0158205ab56bc",
-      "title": "駅のホームでスマホが激遅を解決!? ソフトバンクの優先通信「FastAccess」は本当に速いのか都内で試した",
-      "url": "https://ascii.jp/elem/000/004/448/4448547/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 2,
-      "reason": "ソフトバンク優先通信の実測、通信環境改善の参考に",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "beab1061893b19d0",
-      "title": "How I used Filmora 16 to build a solid video from raw clips without wracking my brain for hours",
-      "url": "https://www.digitaltrends.com/brc/how-i-used-filmora-16-to-build-a-solid-video-from-raw-clips-without-wracking-my-brain-for-hours/",
-      "source": "Digital Trends",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:47:49.000Z",
-      "stars": 2,
-      "reason": "Filmora16のAI編集体験、動画制作の参考になる",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "0edf13fe128cf638",
-      "title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154554.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T00:39:41.000Z",
-      "stars": 1,
-      "reason": "Amazonセール記事、アフィリエイト色が強い",
+      "publishedAt": "2026-11-07T23:22:00.000Z",
+      "stars": 3,
+      "reason": "三つ折りスマホの実機検証で競合動向ネタに使える",
       "score": 9,
       "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体",
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "74a73ca62eb19022",
-      "title": "物理QWERTYキー搭載「Minimal Phone 2」、修正基板が試験合格！12月発送へ前進",
-      "url": "https://smhn.info/202611-minimal-phone-2-pcb-revision-passed-december-shipping",
-      "source": "すまほん!!",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:45:53.000Z",
-      "stars": 1,
-      "reason": "海外クラウドファンディング機の進捗報告のみ",
-      "score": 7,
-      "groups": [
         "新製品・発表",
-        "スマホ・PC本体",
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "3aea3b2efaae95f3",
-      "title": "iPhoneのアクションボタン、来年廃止か。",
-      "url": "https://smhn.info/202611-iphone-action-button-removal-camera-control-rumor",
-      "source": "すまほん!!",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:22:55.000Z",
-      "stars": 1,
-      "reason": "来年モデルの憶測、一次情報なし",
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "新製品・発表",
-        "スマホ・PC本体",
-        "減点対象（噂・リーク）"
-      ]
-    },
-    {
-      "id": "daf8f93ea9400329",
-      "title": "【本日みつけたお買い得品】何と約9万2千円引き！RTX 5070搭載ゲーミングノートが超お買い得に",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154556.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:02:34.000Z",
-      "stars": 1,
-      "reason": "Amazonセール記事",
-      "score": 7,
-      "groups": [
-        "AI・生成AI",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "4749ca92129fcb3f",
-      "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
-      "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:02:09.000Z",
-      "stars": 1,
-      "reason": "ケース比較記事、仕事道具と無関係",
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "3716bfd12b6a29f0",
-      "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
-      "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:45:55.000Z",
-      "stars": 1,
-      "reason": "来年モデルの推測記事、一次情報なし",
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "d18e6141c68d9c97",
-      "title": "Galaxy S26が楽天モバイルのMNPで一括9万9900円。S26+とUltraは初めての申し込み・MNPで最大2万3000ポイント還元",
-      "url": "https://smhn.info/202611-rakuten-mobile-galaxy-s26-mnp-99900yen-sale",
-      "source": "すまほん!!",
-      "region": "国内",
-      "publishedAt": "2026-11-07T14:20:05.000Z",
-      "stars": 1,
-      "reason": "キャリア販促キャンペーン記事",
-      "score": 6,
-      "groups": [
         "スマホ・PC本体",
         "実務で使える周辺機器",
         "制度・プライバシー"
       ]
     },
     {
-      "id": "3e5fc325386012af",
-      "title": "We now have a more definite timeframe for Samsung Galaxy Buds On's Europe launch",
-      "url": "https://www.gsmarena.com/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394.php",
-      "source": "GSMArena",
+      "id": "141b99588b63ea6e",
+      "title": "Pixel 11「Gemini Nano 4（プレビュー）」ついに展開",
+      "url": "https://jetstream.blog/2026/11/08/google-pixel-11-gemini-nano-4-developer-preview-rollout/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T01:17:04.000Z",
+      "stars": 3,
+      "reason": "Google公式のオンデバイスAI展開で登壇ネタに直結",
+      "score": 8,
+      "groups": [
+        "AI・生成AI",
+        "新製品・発表",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "8b989acbfc023f51",
+      "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+      "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "source": "9to5Mac",
       "region": "海外",
-      "publishedAt": "2026-11-07T08:00:02.000Z",
-      "stars": 1,
-      "reason": "海外発売日程の観測記事",
+      "publishedAt": "2026-11-08T19:52:41.000Z",
+      "stars": 3,
+      "reason": "AIエージェントの権限管理が変わり顧客対応に直結",
       "score": 6,
       "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "cb612c3bcf7af7ef",
-      "title": "「iPhone Duo」を売るだけで1台12万円の利益 香港の発売日に起きた“買い取り狂騒曲”、昼には相場が急落",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news002.html",
-      "source": "ITmedia Mobile",
-      "region": "国内",
-      "publishedAt": "2026-11-06T21:00:00.000Z",
-      "stars": 1,
-      "reason": "転売市場レポート、仕事道具に無関係",
-      "score": 6,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "fa06ff8fdc83e259",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:50:00.000Z",
-      "stars": 1,
-      "reason": "料理アプリの体験談、業務に無関係",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "73be1ddc7ff24f89",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:43:45.000Z",
-      "stars": 1,
-      "reason": "対中輸出規制の個別報道、業務直結薄い",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "5203e23027b18df6",
-      "title": "Garmin is embracing AI with ‘a keen sense of authenticity’ according to its COO",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-is-embracing-ai-with-a-keen-sense-of-authenticity-according-to-its-coo-but-acquired-trainingpeaks-for-consumers-who-want-to-engage-with-a-human-coach",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:30:00.000Z",
-      "stars": 1,
-      "reason": "企業方針コメントのみ、一次情報薄い",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "7101bbe1aa20d13b",
-      "title": "終わりなきスマホ高騰に福音？「再生メモリー」増加の可能性浮上、ただし品質面に懸念も",
-      "url": "https://smhn.info/202611-reballed-memory-smartphones-trendforce-2027-forecast",
-      "source": "すまほん!!",
-      "region": "国内",
-      "publishedAt": "2026-11-07T14:48:47.000Z",
-      "stars": 1,
-      "reason": "部品調達トレンドの観測記事",
-      "score": 5,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "c72ef82d7290a02b",
-      "title": "iPhone Duo向けアプリ、発売2週間で10万本超え。毎日数千本ずつ追加とApple",
-      "url": "https://smhn.info/202611-iphone-duo-100000-apps-app-store",
-      "source": "すまほん!!",
-      "region": "国内",
-      "publishedAt": "2026-11-07T12:35:33.000Z",
-      "stars": 1,
-      "reason": "広報発表の数字のみ、業務に直結せず",
-      "score": 5,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "9452a380c16a20eb",
-      "title": "WhatsApp is testing a feature that lets you control who sees your phone number",
-      "url": "https://www.gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:02.000Z",
-      "stars": 1,
-      "reason": "テスト中機能、未確定",
-      "score": 5,
-      "groups": [
-        "スマホ・PC本体",
+        "AI・生成AI",
         "制度・プライバシー"
       ]
     },
     {
-      "id": "17b3bbbcd5b02064",
-      "title": "70% of Brits say please or thank you when speaking to AI — and some even apologize",
-      "url": "https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize",
+      "id": "51d5a7a0b5bdc6c1",
+      "title": "Windows 11 is getting redesigned Search and improved facial recognition in its latest beta",
+      "url": "https://www.digitaltrends.com/computing/windows-11-beta-redesigned-search-improved-facial-recognition/",
+      "source": "Digital Trends",
+      "region": "海外",
+      "publishedAt": "2026-11-07T20:05:52.000Z",
+      "stars": 3,
+      "reason": "Windows公式ベータで仕事道具の設定変更に直結",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "2a082318bb4b8fac",
+      "title": "Google and Microsoft among those signing up to OpenAI's plan for a new website crawling standard — including opting-out of internet scraping",
+      "url": "https://www.techradar.com/pro/google-and-microsoft-among-those-signing-up-to-openais-plan-for-a-new-website-crawling-standard-including-opting-out-of-internet-scraping",
       "source": "TechRadar",
       "region": "海外",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 1,
-      "reason": "雑学調査、業務に無関係",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
+      "publishedAt": "2026-11-08T17:05:00.000Z",
+      "stars": 3,
+      "reason": "AI学習オプトアウト標準で顧客説明に使える一次情報",
+      "score": 2,
+      "groups": []
     },
     {
-      "id": "c9aaa59b3b0147a1",
-      "title": "AI teddy bears spark fresh safety fears after report discovers malfunctioning toys",
-      "url": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 1,
-      "reason": "海外消費者向け玩具問題",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "cbda5682d20317ba",
-      "title": "広告ブロックアプリ『280blocker』Android版が再び新規販売停止 ― Google Playのポリシー違反判定を受けて",
-      "url": "https://orefolder.jp/2026/11/280blocker-android-sales-suspended/",
-      "source": "OREFOLDER",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:04:36.000Z",
-      "stars": 1,
-      "reason": "国内アプリの販売停止、業務に無関係",
-      "score": 5,
-      "groups": [
-        "新製品・発表",
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "d1fd05129d1ec7fd",
-      "title": "iOS 27 users report HDMI output issues and there's no fix in sight",
-      "url": "https://www.gsmarena.com/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-07T05:00:02.000Z",
-      "stars": 1,
-      "reason": "不具合報告、業務直結薄い",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "8dbb2e94eb886e21",
-      "title": "Nvidia reportedly tells data center customers to trim exposure to the Chinese market",
-      "url": "https://www.techradar.com/pro/nvidia-reportedly-tells-data-center-customers-to-trim-exposure-to-the-chinese-market",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T01:25:00.000Z",
-      "stars": 1,
-      "reason": "地政学・規制報道",
-      "score": 5,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "6afb6bfb2dcd534c",
-      "title": "The reason your phone keeps dimming even with auto-brightness off",
-      "url": "https://www.engadget.com/2306646/reason-phone-keeps-dimming-auto-brightness-off/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:15:00.000Z",
-      "stars": 1,
-      "reason": "トラブルシューティング記事、業務に無関係",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "1bffceee7d022c46",
-      "title": "OnePlus releases its ColorOS 17 rollout schedule for November",
-      "url": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:12:02.000Z",
-      "stars": 1,
-      "reason": "海外機種のOSロールアウト予定",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "deec94caf8f9491f",
-      "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
-      "url": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T14:00:00.000Z",
-      "stars": 1,
-      "reason": "ストレージ製品レビュー、業務道具と無関係",
-      "score": 4,
-      "groups": [
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "66f45ac4e630afea",
-      "title": "Zelda is back and better than ever",
-      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:49:01.000Z",
-      "stars": 1,
-      "reason": "エンタメ雑談ニュースレター",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "23dbab2507e7ee01",
-      "title": "QuestyleのDAC「MEX」はドングルだけど高SN比。PEQでイヤフォンの苦手を調整して理想の音に",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154608.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T12:52:29.000Z",
-      "stars": 1,
-      "reason": "オーディオ機器イベントレポート",
-      "score": 4,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "edb9263bd91c66b1",
-      "title": "5 Bluetooth trackers you should buy instead of the Samsung SmartTag 3",
-      "url": "https://www.androidauthority.com/samsung-smarttag-3-alternatives-3729346/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:30:20.000Z",
-      "stars": 1,
-      "reason": "製品比較記事、業務道具と無関係",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "7689272c32cddea8",
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "id": "833803ec79069741",
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
       "source": "WIRED",
       "region": "海外",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "stars": 1,
-      "reason": "介護アプリのAI活用、業務と無関係",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 3,
+      "reason": "M6搭載MacBook Pro正式発表で買い替え判断に直結",
+      "score": 1,
+      "groups": []
     },
     {
-      "id": "ff1102f29fca13e7",
-      "title": "不具合修正。iOS「Google AI Edge Eloquent」v1.4.2配信",
-      "url": "https://jetstream.blog/2026/11/07/ios-google-ai-edge-eloquent-v1-4-2-release/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:40:08.000Z",
-      "stars": 1,
-      "reason": "マイナー不具合修正のみ",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "aa960b3b525f6330",
-      "title": "Copilot+ PCで1kg以下の軽量「ThinkPad X1 Carbon」が45％オフで販売中！",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MWlBIb25KbEVGM0dGZXVWQ0ZjZVJ5b3lHLW9ZMnB3Q3FzblpOemctcjZ5WUtoU09VYWgtd0U4S0lLSk01SEZrZUtacw?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:38:32.000Z",
-      "stars": 1,
-      "reason": "値引きセール記事",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "d15d79d8af5bbdfe",
-      "title": "唯一無二、キャラ立ち最高。職人技が随所に光る、国産腕時計のマイクロブランド",
-      "url": "https://www.gizmodo.jp/article/japanese_micro-brand_watches/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 1,
-      "reason": "ファッション系腕時計記事、業務道具と無関係",
-      "score": 4,
-      "groups": [
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "81c9742742184684",
-      "title": "Oukitel WP63 rugged phone review",
-      "url": "https://www.techradar.com/pro/phone-communications/oukitel-wp63-rugged-phone-review",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T07:05:00.000Z",
-      "stars": 1,
-      "reason": "海外タフフォンレビュー、業務道具と無関係",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "9a1f7ba9d4b9d83d",
-      "title": "ごちゃつくデスクが約4,000円でスッキリ。全部ここ（モニタ裏）にぶち込んじゃえ！",
-      "url": "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:00:00.000Z",
-      "stars": 1,
-      "reason": "デスク収納アイテム、業務直結薄い",
-      "score": 4,
-      "groups": [
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "e25b756e20a27ae3",
-      "title": "「reTONE」にAndroid 2.2/2.3向け軽量版。LDAC再生も実現",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154575.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T05:26:43.000Z",
-      "stars": 1,
-      "reason": "オーディオアプリの対応端末追加",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "7699ceda6d71f516",
-      "title": "新型iMac、さっそく使ってみて気づいた。変わらないのは完成している証拠だ、と",
-      "url": "https://www.gizmodo.jp/article/m6-imac-review/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T04:00:00.000Z",
-      "stars": 1,
-      "reason": "iMacレビュー、本人の作業環境と異なる",
-      "score": 4,
-      "groups": [
-        "実務で使える周辺機器"
-      ]
-    },
-    {
-      "id": "fba5daf6534b33ea",
-      "title": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
-      "url": "https://ascii.jp/elem/000/004/449/4449531/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:39:17.000Z",
-      "stars": 1,
-      "reason": "広報PRリリース、業務に直結せず",
-      "score": 4,
-      "groups": [
-        "AI・生成AI"
-      ]
-    },
-    {
-      "id": "fc8cc7ce2868ada9",
-      "title": "A new iPad mini has arrived! So how does it compare to the rest of the range?",
-      "url": "https://www.techradar.com/tablets/ipad-mini/a-new-ipad-mini-has-arrived-so-how-does-it-compare-to-the-ipad-pro-ipad-air-and-base-ipad",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T02:00:00.000Z",
-      "stars": 1,
-      "reason": "製品ラインナップ比較記事",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "c0459acab9707ec2",
-      "title": "財布代わりになる約120gの軽量スマホショルダー iPhone Pro Maxサイズもすっきり収納",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news009.html",
-      "source": "ITmedia Mobile",
-      "region": "国内",
-      "publishedAt": "2026-11-07T01:00:00.000Z",
-      "stars": 1,
-      "reason": "アクセサリー販売情報",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "eb4a589d979ace50",
-      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
-      "url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T23:47:18.000Z",
-      "stars": 1,
-      "reason": "ポッドキャスト概要のみ",
-      "score": 4,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "b158d8507a9c6858",
-      "title": "Gentle Monster teases Samsung Android XR glasses with some help from Joaquin Phoenix",
-      "url": "https://www.androidauthority.com/joaquin-phoenix-smart-glasses-teaser-3732678/",
+      "id": "c4ca020b81a27049",
+      "title": "I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know",
+      "url": "https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/",
       "source": "Android Authority",
       "region": "海外",
-      "publishedAt": "2026-11-06T21:15:33.000Z",
-      "stars": 1,
-      "reason": "ティーザー動画のみ、一次情報薄い",
-      "score": 4,
+      "publishedAt": "2026-11-08T12:00:39.000Z",
+      "stars": 2,
+      "reason": "AndroidスキンのAI機能レビューで参考程度",
+      "score": 7,
       "groups": [
+        "AI・生成AI",
         "スマホ・PC本体"
       ]
     },
     {
-      "id": "50d3265d71058aa5",
-      "title": "【今すぐ読みたい！人気記事】Nintendo Switch 2で採用された「microSD Express」って何？解説しつつ性能を確認してみた - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154524.html",
-      "source": "PC Watch",
+      "id": "0229087486d1a11c",
+      "title": "I played Android’s first AI frame-gen game: Mobile just had its DLSS moment",
+      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/",
+      "source": "Android Authority",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:30:32.000Z",
+      "stars": 2,
+      "reason": "モバイルAI処理の新潮流で押さえておく話題",
+      "score": 7,
+      "groups": [
+        "AI・生成AI",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "430c612571950cac",
+      "title": "iPhoneでmacOSが動くエミュレーター「Henge」公開！",
+      "url": "https://smhn.info/202611-henge-macos-emulator-iphone-ipad-release",
+      "source": "すまほん!!",
       "region": "国内",
-      "publishedAt": "2026-11-06T21:03:00.000Z",
-      "stars": 1,
-      "reason": "規格解説記事、業務道具と無関係",
-      "score": 4,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "1ec9d048c38d9d89",
-      "title": "Apple says over 100,000 apps are now optimized for the iPhone Duo",
-      "url": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:31:02.000Z",
-      "stars": 1,
-      "reason": "広報発表の重複記事",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "e95a53a6c4138f9e",
-      "title": "The iPhone Duo with an Apple Pencil is as good a drawing platform as an iPad Mini",
-      "url": "https://www.techradar.com/phones/iphone/apples-iphone-duo-and-the-apple-pencil-usb-c-are-the-perfect-doodling-duo-and-now-i-only-wish-i-had-a-place-to-put-the-pencil",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:00:00.000Z",
-      "stars": 1,
-      "reason": "描画アクセサリ体験記、業務道具と無関係",
-      "score": 4,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "f7b46333bb02e0f2",
-      "title": "10%pt還元！Amazon、大人気スマートフォンリング&スタンド「Aulumu G09 Ghost」",
-      "url": "https://jetstream.blog/2026/11/08/aulumu-g09-ghost-infinite-360-magnetic-stand-amazon-points-back-boost-20261108/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T19:50:29.000Z",
-      "stars": 1,
-      "reason": "アクセサリー還元キャンペーン",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "018815f3e923513f",
-      "title": "Samsung’s Galaxy S27 Ultra might stick with Snapdragon after all",
-      "url": "https://www.digitaltrends.com/phones/samsungs-galaxy-s27-ultra-might-stick-with-snapdragon-after-all/",
-      "source": "Digital Trends",
-      "region": "海外",
-      "publishedAt": "2026-11-07T14:41:23.000Z",
-      "stars": 1,
-      "reason": "チップ選定の観測記事",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "317e2e130bafb150",
-      "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:30:00.000Z",
-      "stars": 1,
-      "reason": "地政学スキャンダル報道、業務に無関係",
-      "score": 3,
-      "groups": [
-        "制度・プライバシー"
-      ]
-    },
-    {
-      "id": "1460a7f00906f2b5",
-      "title": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more",
-      "url": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 1,
-      "reason": "ブラックフライデー先取りセール記事",
-      "score": 3,
+      "publishedAt": "2026-11-08T02:24:54.000Z",
+      "stars": 2,
+      "reason": "iPhoneでmacOS動作の話題ネタとして有用",
+      "score": 7,
       "groups": [
         "新製品・発表",
         "スマホ・PC本体",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "e4164c0dcc4ceacb",
-      "title": "UI刷新！iOS「Google」フローティングボトムメニュー導入",
-      "url": "https://jetstream.blog/2026/11/07/ios-google-floating-bottom-menu/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:25:04.000Z",
-      "stars": 1,
-      "reason": "UIデザイン変更のみ、機能性に影響薄い",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "479ce37a78ddb7f0",
-      "title": "その場で買える！ モデル撮影が人気！ 新製品は…？ 台湾のカメラショーは日本と全く別モノだった",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRy1aUWRYd3hMMGdpNmFiNFY0UVE1Q1hTa0kybkdXLTljQUZvaXoxT1RyMWpPNWZFT1lfQnZORnIxSHFRS0JoLUpCMnpoREZz?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:15:00.000Z",
-      "stars": 1,
-      "reason": "カメラショー現地レポート、業務道具と無関係",
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "5e461462199c58a1",
-      "title": "お届け予定短縮。Google ストア「Pixel 11」Frost",
-      "url": "https://jetstream.blog/2026/11/07/google-store-pixel-11-frost-delivery-time-shortened-20261107/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:34:08.000Z",
-      "stars": 1,
-      "reason": "在庫・配送状況の小ネタ",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "7f108c837276652c",
-      "title": "ノジマ/Google ストア。「Fitbit Edge」販売状況【2026年11月7日（土）】",
-      "url": "https://jetstream.blog/2026/11/07/google-fitbit-edge-stock-status-20261107/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:05:24.000Z",
-      "stars": 1,
-      "reason": "在庫情報のみ",
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "0e42159bf76c5152",
-      "title": "マウス、RTX 5080搭載ゲーミングPCを50台限定販売 インテル日本法人50周年記念",
-      "url": "https://ascii.jp/elem/000/004/447/4447900/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T04:30:00.000Z",
-      "stars": 1,
-      "reason": "限定販売PRのみ",
-      "score": 3,
-      "groups": [
         "実務で使える周辺機器"
       ]
     },
     {
-      "id": "7a68b94ae0132b5a",
-      "title": "高崎かなみ、3rd写真集発売決定 “過去最大級の露出”となる大胆なカットにも挑戦",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuUEFRcXRsaS1PdHh0dzZ3czB2UlhMVFg5Q0JJby15WGhyV3BqdTB4TTNic2J3aWZtelFaZTU0M0NOdGJLdUY3ek16UWlMT1otLTdr?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:37:32.000Z",
-      "stars": 1,
-      "reason": "芸能写真集、業務無関係",
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "82effd40e420b718",
-      "title": "猫たちの日常を撮り続けた“現時点での集大成” 沖昌之写真集『ねこは何かといそがしい』500部限定発売",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HX2tZWndjODR5QkpPTTdqdmlzY1lxa01jV1BORkpSaVVONS0tZ01UbjY0R255aEtoRl9zdnVUY0gycUhKVGFleHpXeGc?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:15:00.000Z",
-      "stars": 1,
-      "reason": "写真集、業務無関係",
-      "score": 3,
-      "groups": [
-        "新製品・発表"
-      ]
-    },
-    {
-      "id": "73ac0ae30af71488",
-      "title": "Future iPhones will have one less button, new rumor claims",
-      "url": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-06T23:42:02.000Z",
-      "stars": 1,
-      "reason": "未確定の噂、一次情報なし",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体",
-        "減点対象（噂・リーク）"
-      ]
-    },
-    {
-      "id": "37bb76c7775f56c5",
-      "title": "Apple might be getting rid of the iPhone’s Action button already",
-      "url": "https://www.digitaltrends.com/phones/apple-might-be-getting-rid-of-the-iphones-action-button-already/",
-      "source": "Digital Trends",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:51:01.000Z",
-      "stars": 1,
-      "reason": "同じ噂の別媒体報道",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "6be963a42ea396ee",
-      "title": "Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount",
-      "url": "https://www.androidauthority.com/microsoft-2026-surface-laptop-deal-3732694/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:38:51.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体",
-        "実務で使える周辺機器",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "0388e77786815a00",
-      "title": "Three motorcycles that sound completely ridiculous but are real",
-      "url": "https://newatlas.com/motorcycles/three-unreal-motorcycles-lotus-c01-uwe-oltmann-puch-veloce-perion/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:00:00.000Z",
-      "stars": 1,
-      "reason": "バイクのネタ記事、業務無関係",
-      "score": 3,
-      "groups": [
-        "スマホ・PC本体"
-      ]
-    },
-    {
-      "id": "dceef2ebb64a3206",
-      "title": "You can easily keep your home network running during a power outage — here's how",
-      "url": "https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T19:30:00.000Z",
-      "stars": 1,
-      "reason": "家庭向けTips記事、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "c281d974fc7351fd",
-      "title": "How a bottleneck calculator for your GPU and CPU works",
-      "url": "https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T19:00:00.000Z",
-      "stars": 1,
-      "reason": "PC自作Tips、業務道具と無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "782ffd47a51f10f8",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-07T19:00:00.000Z",
-      "stars": 1,
-      "reason": "子供向け市場動向、業務に無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "c4282a22bbf02e3c",
-      "title": "5 things you didn't know Steam's overlay could do",
-      "url": "https://www.engadget.com/2309539/things-you-didnt-know-steam-overlay-could-do/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:45:00.000Z",
-      "stars": 1,
-      "reason": "ゲーム機能Tips、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "36447cd34d598296",
-      "title": "How to watch videos on Apple CarPlay while parked",
-      "url": "https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:30:00.000Z",
-      "stars": 1,
-      "reason": "車載エンタメTips、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "7c9a90131025839c",
-      "title": "People are modding the Tamagotchi Paradise to run Game Boy games",
-      "url": "https://www.engadget.com/2310126/people-are-modding-the-tamagotchi-paradise-to-run-game-boy-games/",
-      "source": "Engadget",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:21:34.000Z",
-      "stars": 1,
-      "reason": "ガジェットMod、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "6d353123fe2eac59",
-      "title": "Creative XF1 review: although not truly perfect, these active desktop speakers get pretty close for not a lot of money",
-      "url": "https://www.techradar.com/audio/speakers/creative-xf1-review",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:00:00.000Z",
-      "stars": 1,
-      "reason": "デスクスピーカーレビュー",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "60e3050a99f9031e",
-      "title": "How to watch France vs Fiji: FREE live streams, TV channels and kick-off time for Nations Championship 2026 game",
-      "url": "https://www.techradar.com/entertainment/rugby/france-vs-fiji-free-nations-championship-2026",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:30:00.000Z",
-      "stars": 1,
-      "reason": "スポーツ中継案内、無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8189e87315187a31",
-      "title": "6 new 4K Blu-rays from October 2026 to add to your collection",
-      "url": "https://www.techradar.com/televisions/blu-ray/6-new-4k-blu-rays-from-october-2026-to-add-to-your-collection",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:30:00.000Z",
-      "stars": 1,
-      "reason": "映像コンテンツ紹介、無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "f777d8aa2bf4bf34",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:24:07.000Z",
-      "stars": 1,
-      "reason": "暗号資産企業の人事、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "de8f61359cd82e66",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:18:00.000Z",
-      "stars": 1,
-      "reason": "Kindle新型紹介、優先度低い",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9a3500d6fef8303a",
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:00:00.000Z",
-      "stars": 1,
-      "reason": "健康ウェアラブルレビュー、業務道具と無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "b4298b23c5197e1e",
-      "title": "How to watch Royal British Legion Festival of Remembrance 2026 for free, online and from anywhere",
-      "url": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-royal-british-legion-festival-of-remembrance-2026",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:00:00.000Z",
-      "stars": 1,
-      "reason": "イベント中継案内、無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a9807e24e9562433",
-      "title": "I’m sick of Google running my life, but the /e/OS Fairphone wasn't the de-Googled solution I needed",
-      "url": "https://www.techradar.com/phones/android/i-spent-a-month-trying-to-de-google-with-the-fairphone-6-plus-but-it-left-me-wishing-for-my-android-phone-back",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T17:00:00.000Z",
-      "stars": 1,
-      "reason": "脱Googleスマホレビュー、業務道具と無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8eea48456f05ba11",
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T16:00:00.000Z",
-      "stars": 1,
-      "reason": "個人趣味インタビュー、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "f0c3875dbf033638",
-      "title": "This week in Tom's Hardware Premium: November 7, 2026",
-      "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:00:00.000Z",
-      "stars": 1,
-      "reason": "サイト内コンテンツ告知",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "eaeee7815fb4bf43",
-      "title": "How to watch WWE Crown Jewel 2026: live streams, TV channels & preview",
-      "url": "https://www.techradar.com/entertainment/sport/how-to-watch-wwe-crown-jewel-2026-live-streams-tv-channels-and-preview",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T15:00:00.000Z",
-      "stars": 1,
-      "reason": "エンタメ中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "eb20fdeaf759b817",
-      "title": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T14:47:37.000Z",
-      "stars": 1,
-      "reason": "スキャンダル報道、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9aabf39f7414069f",
-      "title": "Good riddance, Cybertruck!",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "region": "海外",
-      "publishedAt": "2026-11-07T14:40:06.000Z",
-      "stars": 1,
-      "reason": "EV業界コラム、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "7a1ea973f294801f",
-      "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
-      "url": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T14:30:00.000Z",
-      "stars": 1,
-      "reason": "3Dプリンターセール記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "25a7795ebd4371fa",
-      "title": "航空会社がウソついてる？ 旅行客がAirTagを使って自分のロストバゲージを追跡",
-      "url": "https://www.gizmodo.jp/article/2611-airtag-lost-baggage-tracking/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T14:00:00.000Z",
-      "stars": 1,
-      "reason": "海外旅行トラブル記事、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "c242caf18b15f89d",
-      "title": "Wales vs Japan Free Streams: How to watch Nations Championship 2026 game, TV Channels, Preview",
-      "url": "https://www.techradar.com/entertainment/rugby/watch-wales-vs-japan-nations-championship-2026-free",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:45:00.000Z",
-      "stars": 1,
-      "reason": "スポーツ中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9c2a22a29a9175e0",
-      "title": "地球温暖化で魚が北上？ 日本沿岸のDNA調査で126種が従来より北で見つかった",
-      "url": "https://www.gizmodo.jp/article/2611-global-warming-fish-distribution-dna/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T13:30:00.000Z",
-      "stars": 1,
-      "reason": "海洋生物研究、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9482cb49d4ca5959",
-      "title": "Xiaomi 18 might actually arrive this year, 3C reveals the charging capabilities",
-      "url": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:14:02.000Z",
-      "stars": 1,
-      "reason": "未発表機種のリーク情報",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "408b91d2b5e4a155",
-      "title": "Megan Moroney、アコースティックな新曲リリース",
-      "url": "https://getnews.jp/archives/3753740",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 1,
-      "reason": "音楽リリース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9d51855a6bff74dc",
-      "title": "Thomas Rhett、爽快な新曲リリース",
-      "url": "https://getnews.jp/archives/3753739",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 1,
-      "reason": "音楽リリース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "bf01b4458d568f91",
-      "title": "Alyssa Grace、パーソナルで繊細な新曲リリース",
-      "url": "https://getnews.jp/archives/3753738",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 1,
-      "reason": "音楽リリース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "79241398b4994950",
-      "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
-      "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "stars": 1,
-      "reason": "半導体業界の観測記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9843f0ff06c326b0",
-      "title": "How to watch Arsenal vs Hull: Live streams and TV channels for Premier League 2026/27, team news",
-      "url": "https://www.techradar.com/entertainment/football/arsenal-vs-hull-premier-league-2026-27",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:30:00.000Z",
-      "stars": 1,
-      "reason": "サッカー中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "e900e7866a0a670d",
-      "title": "How to watch Fulham vs Newcastle: Free streams and TV channels for Premier League 2026/27",
-      "url": "https://www.techradar.com/entertainment/football/watch-fulham-vs-newcastle-premier-league-2026-27",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:20:00.000Z",
-      "stars": 1,
-      "reason": "サッカー中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "556f9c354aa1844c",
-      "title": "トースターなのに「焼き魚」にも本気！ アラジン×タニタの新作は、冷凍魚もそのまま焼けるらしい",
-      "url": "https://getnews.jp/archives/3753735",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-11-07T12:00:03.000Z",
-      "stars": 1,
-      "reason": "家電新製品紹介、業務道具と無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8e62fe64fc6a98b6",
-      "title": "I discovered my YouTube viewing stats with this handy hidden feature",
-      "url": "https://www.techradar.com/computing/websites-apps/i-discovered-my-youtube-viewing-stats-with-this-hidden-feature-and-it-made-me-glad-im-subscribed-to-youtube-premium",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T12:00:00.000Z",
-      "stars": 1,
-      "reason": "Tips記事、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "493ca84ef8673ab4",
-      "title": "車で待機する時間が「本を読む時間」に。Amazonで見つけた読書灯で、ダラダラスマホが減ったよ",
-      "url": "https://getnews.jp/archives/3753736",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-11-07T11:30:16.000Z",
-      "stars": 1,
-      "reason": "個人ガジェットレビュー、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "449ca857f89317e8",
-      "title": "EA producer found 20,000 archival media assets in secret physical vault at its HQ",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:30:00.000Z",
-      "stars": 1,
-      "reason": "ゲーム業界エピソード、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "248c3e2c785f6c8b",
-      "title": "パスタと野菜を鍋ひとつでゆで分け。このハーフざる気が利いてます",
-      "url": "https://getnews.jp/archives/3753737",
-      "source": "ガジェット通信",
-      "region": "国内",
-      "publishedAt": "2026-11-07T11:15:30.000Z",
-      "stars": 1,
-      "reason": "キッチングッズ、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "37716682aca914fc",
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "source": "Ars Technica Gear & Gadgets",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:34.000Z",
-      "stars": 1,
-      "reason": "個人の軍事スキャンダル、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "d150fcee4b06d97f",
-      "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
-      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
-      "source": "Tom's Hardware",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "stars": 1,
-      "reason": "米政府インフラの小ネタ、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "0bfa4e3f0d791112",
-      "title": "How to watch Scotland vs New Zealand: FREE live streams, TV channels and kick-off time for Nations Championship 2026 game, team news",
-      "url": "https://www.techradar.com/entertainment/rugby/watch-scotland-vs-new-zealand-nations-championship-2026-free",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "stars": 1,
-      "reason": "スポーツ中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "407ab8d105127ff5",
-      "title": "回転しながら空中を飛び回る爆速ヘビ。スローで見たら割と理にかなってた",
-      "url": "https://www.gizmodo.jp/article/22041ecf-dda8-4027-b68e-4ae445679de3/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "stars": 1,
-      "reason": "動物生態ネタ、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a4d215c25c96937d",
-      "title": "How to watch Leeds vs Tottenham: Live streams & TV channels for early kick-off in Premier League",
-      "url": "https://www.techradar.com/entertainment/football/watch-leeds-vs-tottenham-premier-league-2026-27",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "stars": 1,
-      "reason": "サッカー中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9eb4c117a3c6bf15",
-      "title": "How to watch Italy vs South Africa: Free live stream for Nations Championship 2026 fixture",
-      "url": "https://www.techradar.com/entertainment/rugby/watch-italy-vs-south-africa-free-nations-championship-2026",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T08:40:00.000Z",
-      "stars": 1,
-      "reason": "スポーツ中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "c77e8e81cab06c47",
-      "title": "オーテク密閉型最上位のウッドヘッドフォン、iBasso「D18 CROTALUS」国内初展示",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154592.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:10:57.000Z",
-      "stars": 1,
-      "reason": "オーディオ展示会レポート",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "16211a62ceb1daa7",
-      "title": "Nobole新完全ワイヤレス「FoKus Astrid」に注目。秋のヘッドフォン祭2026",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154583.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:10:30.000Z",
-      "stars": 1,
-      "reason": "オーディオ展示会レポート",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "d62a9efd6de23b1f",
-      "title": "Brise AudioがUSBアイソレーター試作。HiBy Digitalがゲームに使える据え置きDAC",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154590.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T08:08:57.000Z",
-      "stars": 1,
-      "reason": "オーディオ展示会レポート",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "77601c12e3e8062c",
-      "title": "「povoの新規加入が非常に順調に伸びている」背景は？ 今後は「2枚目→メイン」利用狙う――KDDI松田社長",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news019.html",
-      "source": "ITmedia Mobile",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:47:00.000Z",
-      "stars": 1,
-      "reason": "通信キャリア戦略説明、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8d17c10bae105e61",
-      "title": "コーヒーは食べる時代に。食感と風味が楽しい新感覚のお菓子 #SCAJ",
-      "url": "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:35:00.000Z",
-      "stars": 1,
-      "reason": "食品イベント紹介",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "e873d4dda8a29d21",
-      "title": "The Ninja Crispi DualZone air fryer earns its price tag with clever design, great features, and excellent cooking",
-      "url": "https://www.techradar.com/home/air-fryers/ninja-crispi-dualzone-review",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T07:00:00.000Z",
-      "stars": 1,
-      "reason": "家電レビュー、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "798067575a302bfb",
-      "title": "FIIOからポータブルのデジタルトランスポート「DT11」やBluetoothアンプ最上位「BTR19」",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154581.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:25:24.000Z",
-      "stars": 1,
-      "reason": "オーディオ展示会レポート",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a91706d6bf9f33df",
-      "title": "Watch New Zealand vs Tonga: FREE live streams and TV channels",
-      "url": "https://www.techradar.com/entertainment/rugby/new-zealand-vs-tonga-free-rugby-league-world-cup-2026-semi-final",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T06:00:00.000Z",
-      "stars": 1,
-      "reason": "スポーツ中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "2fe4b20f43259d7f",
-      "title": "finalの個人最適化が有線イヤフォンでも使える「DTAS DAC mini」。秋のヘッドフォン祭2026開幕",
-      "url": "https://av.watch.impress.co.jp/docs/news/2154579.html",
-      "source": "AV Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T05:51:06.000Z",
-      "stars": 1,
-      "reason": "オーディオ展示会レポート",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "398854c683254104",
-      "title": "山崎実業のNY発ブランド「APTO」の木製マグネットで、冷蔵庫の生活感＆貼りっぱなしが減った",
-      "url": "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T05:35:00.000Z",
-      "stars": 1,
-      "reason": "生活雑貨、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a0f4bc0ee5c775c7",
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-07T05:01:54.000Z",
-      "stars": 1,
-      "reason": "VC業界ニュース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "20c0bf227e3efa12",
-      "title": "Warhammer 40,000: Dawn of War 4 creative director says King Art considered adding other factions to the game like Death Guard, but decided on Adeptus Mechanicus because 'lore-wise' it's the most 'inte…",
-      "url": "https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-says-king-art-considered-adding-other-factions-to-the-game-like-death-guard-but-decided-on-adeptus-mechanicus-because-lore-wise-its-the-most-interesting-in-terms-of-gameplay",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T05:00:00.000Z",
-      "stars": 1,
-      "reason": "ゲーム開発コラム、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "b89da2526a667d09",
-      "title": "ドコモが業績予想を上方修正 好調な「ドコモ MAX」と「料金値上げ」の勝算、残るネットワークの課題とは",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news016.html",
-      "source": "ITmedia Mobile",
-      "region": "国内",
-      "publishedAt": "2026-11-07T04:20:00.000Z",
-      "stars": 1,
-      "reason": "通信キャリア決算ニュース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "0819cd72b72eb53b",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-07T04:16:43.000Z",
-      "stars": 1,
-      "reason": "米政治とテック業界の論考、業務直結薄い",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "2519c5ebeba56dfe",
-      "title": "How to watch International Open snooker final for free – Stream Wilson vs Higgins from anywhere",
-      "url": "https://www.techradar.com/entertainment/sport/where-to-watch-international-open-snooker-final-for-free-live-stream-2026-tournament-from-anywhere",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T04:05:00.000Z",
-      "stars": 1,
-      "reason": "スポーツ中継案内",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a33a25a671bb7530",
-      "title": "【本日みつけたお買い得品】ソニーのノイキャン付きワイヤレスイヤフォンが4,418円引き",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154560.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:03:10.000Z",
-      "stars": 1,
-      "reason": "Amazonセール記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "b1185b384c764d20",
-      "title": "【本日みつけたお買い得品】薄型設計のAnker製タップ付きUSB充電器が5千円引き",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154562.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:02:52.000Z",
-      "stars": 1,
-      "reason": "Amazonセール記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "ebfc2a2a9d35ac79",
-      "title": "もう一度使いたい「auのケータイ」はどれ？ KDDI公式X反響 “INFOBAR”にG'zOne”――他にも名機たくさん",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news014.html",
-      "source": "ITmedia Mobile",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:35:00.000Z",
-      "stars": 1,
-      "reason": "ノスタルジー企画、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "92db1a19d86acb2e",
-      "title": "手首も心も軽くなる。スマウォが主流のいま、毎日装着したくなる腕時計",
-      "url": "https://www.gizmodo.jp/article/light-on-the-wrist-light-on-the-mind_cheap-casio-2/",
-      "source": "GIZMODO JAPAN",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:35:00.000Z",
-      "stars": 1,
-      "reason": "個人の腕時計エッセイ、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "57471abdfe884f0f",
-      "title": "Apple Music Classical gets new black-and-white icon in latest update",
-      "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-07T02:11:48.000Z",
-      "stars": 1,
-      "reason": "アイコン変更のみ",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "c2107a5a7cf60537",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-07T01:40:28.000Z",
-      "stars": 1,
-      "reason": "データセンター業界ニュース、業務無関係",
-      "score": 2,
-      "groups": [
-        "AI・生成AI",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "841a001585be0e72",
-      "title": "Data center providers are turning to old jet engines to power their output — Elon Musk's xAI installs eight converted engines for a major boost",
-      "url": "https://www.techradar.com/pro/data-center-providers-are-turning-to-old-jet-engines-to-power-their-output-elon-musks-xai-installs-eight-converted-engines-for-a-major-boost",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T00:30:00.000Z",
-      "stars": 1,
-      "reason": "データセンター電力ネタ、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "3c23f46272a1e7b6",
-      "title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154549.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T00:21:37.000Z",
-      "stars": 1,
-      "reason": "Amazonセール記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "87f03b88990d8dbf",
-      "title": "「ANIMAX MUSIX 2026」、TIGETでチケット販売中 11月20日・21日に開催",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154546.html",
-      "source": "ケータイ Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "stars": 1,
-      "reason": "イベントチケット販売、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8836a07e33bc27cb",
-      "title": "Quordle hints and answers for Saturday, November 7 (game #1748)",
-      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-7-november-2026",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "stars": 1,
-      "reason": "パズル解答記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "d0ca72ffc534a220",
-      "title": "NYT Strands hints and answers for Saturday, November 7 (game #979)",
-      "url": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-7-november-2026",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "stars": 1,
-      "reason": "パズル解答記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "4aeb4fafc2bc9f05",
-      "title": "NYT Connections hints and answers for Saturday, November 7 (game #1245)",
-      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-7-november-2026",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "stars": 1,
-      "reason": "パズル解答記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8503dad2a88867fd",
-      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
-      "url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T23:15:19.000Z",
-      "stars": 1,
-      "reason": "エンタメ番組ニュース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "38ac78171c0f2250",
-      "title": "OpenAI CEO Sam Altman chats up Samsung to try and secure more RAM — as concerns grow over AI capacity",
-      "url": "https://www.techradar.com/pro/openai-ceo-sam-altman-chats-up-samsung-to-try-and-secure-more-ram-as-concerns-grow-over-ai-capacity",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-06T23:05:00.000Z",
-      "stars": 1,
-      "reason": "AI業界サプライチェーンの観測記事",
-      "score": 2,
-      "groups": [
-        "AI・生成AI",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "118369de89f061c4",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:53:46.000Z",
-      "stars": 1,
-      "reason": "資金調達ニュース、重複気味",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a53850d86ab0fda9",
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "source": "Ars Technica Gear & Gadgets",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:41:37.000Z",
-      "stars": 1,
-      "reason": "地政学ニュース、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "01a90022593fef1d",
-      "title": "Google Messages’ new pinned chats are dividing users, and we want your take",
-      "url": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-user-reactions-3732689/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:27:43.000Z",
-      "stars": 1,
-      "reason": "UI機能変更の反応記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9e37fea37d498bba",
-      "title": "Call of Duty: Modern Warfare 4 composer says multiplayer music requires a 'flexible framework' compared to the campaign with 'dramatic moments' as 'you have no idea how any given match is going to unf…",
-      "url": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-multiplayer-music-requires-a-flexible-framework-compared-to-the-campaign-with-dramatic-moments-as-you-have-no-idea-how-any-given-match-is-going-to-unfold-multiplayer-is-completely-unpredictable",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:00:00.000Z",
-      "stars": 1,
-      "reason": "ゲーム音楽コラム、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "2ee35accd2767ccc",
-      "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
-      "url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:46:36.000Z",
-      "stars": 1,
-      "reason": "政治調査報道、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a065d4b73b45d4ca",
-      "title": "The Duo apps are coming, says Apple",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "source": "TechCrunch",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:38:05.000Z",
-      "stars": 1,
-      "reason": "広報発表の重複記事",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "6df69093c6fd2427",
-      "title": "Disney wants robots to do more than entertain you — they could help run its theme park operations, too",
-      "url": "https://www.techradar.com/science/robotics/disneys-latest-robot-experiments-could-change-your-theme-park-visit-before-you-even-get-inside-starting-with-a-robot-straight-out-of-pixars-cars",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:30:00.000Z",
-      "stars": 1,
-      "reason": "テーマパークロボット活用、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "2c159ad5d43ad7a1",
-      "title": "Russian Federal State Statistics Service says it was hit by massive cyberattack — hackers steal 23TB of data, including Ukraine war casualty figures",
-      "url": "https://www.techradar.com/pro/security/russian-federal-state-statistics-service-says-it-was-hit-by-massive-cyberattack-hackers-steal-23tb-of-data-including-ukraine-war-casualty-figures",
-      "source": "TechRadar",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:10:00.000Z",
-      "stars": 1,
-      "reason": "海外政府サイバー攻撃事件、業務直結薄い",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "4f676de9b153adf6",
-      "title": "初登場時の約3倍！ でも“通常価格”の120万円台に高騰した「GeForce RTX 5090」――それでもアキバで買い手が途絶えない理由",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/07/news011.html",
+      "id": "64f9cfe8cb216dc6",
+      "title": "「ChatGPT Classic」デスクトップアプリ、2027年1月30日で提供終了／Bluetooth SIGが新機能「High Data Throughput」の採択を発表 通信速度が最大7.5Mbpsに",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/08/news002.html",
       "source": "ITmedia PC USER",
       "region": "国内",
-      "publishedAt": "2026-11-06T21:00:00.000Z",
-      "stars": 1,
-      "reason": "GPU価格動向レポート、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "3eab9bb8f303fa71",
-      "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
-      "url": "https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:55:39.000Z",
-      "stars": 1,
-      "reason": "広告紹介、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "d8f725ea8f6d076f",
-      "title": "Samsung Health bug leaves users with missing step history",
-      "url": "https://www.androidauthority.com/samsung-health-missing-step-history-update-3732669/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:37:20.000Z",
-      "stars": 1,
-      "reason": "個別バグ報告、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "b9c0196fc91bccfa",
-      "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
-      "url": "https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more/",
-      "source": "9to5Mac",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:06:06.000Z",
-      "stars": 1,
-      "reason": "法廷闘争報道、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "9b71d9975984da1c",
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "source": "Ars Technica Gear & Gadgets",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:05:30.000Z",
-      "stars": 1,
-      "reason": "物流事件、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "8af09a3966890f81",
-      "title": "Some Nest doorbells have stopped showing the live video feed",
-      "url": "https://www.androidauthority.com/nest-doorbell-live-view-broken-3732672/",
-      "source": "Android Authority",
-      "region": "海外",
-      "publishedAt": "2026-11-06T20:04:09.000Z",
-      "stars": 1,
-      "reason": "不具合報告、業務無関係",
-      "score": 2,
-      "groups": []
-    },
-    {
-      "id": "a964b2baaab83c16",
-      "title": "Absurdly lightweight Japanese pod tent is an ethereal camping marvel",
-      "url": "https://newatlas.com/tents/field-record-lightest-freestanding-tent/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-07T18:33:00.000Z",
-      "stars": 1,
-      "reason": "キャンプ用品紹介、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "5ed125fc21a47b5b",
-      "title": "Extra-wide tiny house gets comfortable cabin living just right",
-      "url": "https://newatlas.com/tiny-houses/skye-park-model-zook-cabins/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-07T16:03:00.000Z",
-      "stars": 1,
-      "reason": "住宅紹介、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "52b52c86c822ff4a",
-      "title": "RTX 5060 Ti＆水冷搭載のGALLERIA、メモリ32GB化が9696円！ ドスパラのブラックフライデー先取りキャンペーン",
-      "url": "https://ascii.jp/elem/000/004/449/4449121/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T13:30:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "a2c8095006a67adb",
-      "title": "Cold War bomber to get 21st-century hypersonic missile",
-      "url": "https://newatlas.com/military/cold-war-bomber-to-get-21st-century-hypersonic-missile/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-07T13:03:00.000Z",
-      "stars": 1,
-      "reason": "軍事ニュース、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "33fbff4a41b9eff4",
-      "title": "キャリバー9Sの手巻き式25周年を祝う限定【グランドセイコー】藍染着想のネイビーダイアルとアラビア数字が際立つ - WATCHNAVI Salon",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOTZtNVlyd0Y0Y19BeEEwUk1tMnFlb0lxNHdacUxFMnVKd0p4Zll2cE55OVNJUzBNRDNCRUE1c1h3bzhBSXdPYk1aT2Jqd3BSblJHZw?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T12:15:00.000Z",
-      "stars": 1,
-      "reason": "高級腕時計新作、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "17da6a57879124ef",
-      "title": "【デジタルデトックス】家でぼんやり過ごす時間の作り方｜1/fゆらぎギア＆余白時計のおすすめ",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZEk2SDBYYWtwMEIwdThrWlk3TVZ0a2JWOW5ORmdpdUppSDJPXy1YaFpWUUZCYzlUVFZOVEZzUG9LRWlSWE5EamVOQQ?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T11:38:42.000Z",
-      "stars": 1,
-      "reason": "ライフスタイル記事、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "36d975f19d2656ca",
-      "title": "佐々木ほのか、デジタル限定写真集『Playful Calm.』でフレッシュ美ボディ披露",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVUlicjhRUTQwal80MS1YeW9xWUVPQWwxQjBWZ2NBcGxsMXM2eFcySnB4ZjUyalhESDR2OEQtVFBGTHBkYkJWSXBlUXNXXzhUVlZF?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T11:38:42.000Z",
-      "stars": 1,
-      "reason": "写真集、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "0789b1f21536c4ef",
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:37:00.000Z",
-      "stars": 1,
-      "reason": "ペット用品、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "16a571e8e289dada",
-      "title": "Call of Duty: Warzone has finally said goodbye to PS4 and Xbox One",
-      "url": "https://www.digitaltrends.com/gaming/call-of-duty-warzone-ps4-xbox-one-shutdown/",
-      "source": "Digital Trends",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:13:24.000Z",
-      "stars": 1,
-      "reason": "ゲームサポート終了、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "a8649f811e2f5251",
-      "title": "Weight loss is tied to earlier bedtime, not the hours spent asleep",
-      "url": "https://newatlas.com/sleep/weight-loss-earlier-bedtimes/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:03:00.000Z",
-      "stars": 1,
-      "reason": "健康研究、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "c2dabfa504247bba",
-      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-      "url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "9f640c426c0d0c5a",
-      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "stars": 1,
-      "reason": "米政治トピック、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "27fa1ea73544607f",
-      "title": "ここまでやる!? 自宅も料亭もテーマパークも…“長居必至”のトイレがバラエティ豊かすぎた",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GWUd4eVdmYnd6WlotcGV1c2NuQTh1ZkhCMklOMk14bElIV3U2amhvcmd1NFNSLTViMUgzNHBmU3h0YUREaTdkN09QZWVaZw?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:38:32.000Z",
-      "stars": 1,
-      "reason": "住宅設備紹介、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "d395431379a8af6a",
-      "title": "そろそろエアコン暖房の出番じゃない？ 電気代のムダを抑え、快適に過ごす5つのポイント",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Da3Mzdy03V2VSRzI2TGxXYzFZSW9DSDBBd0FYNWhtUzRibnRNdUY3OC0yZk9SNjNmTExLTGtCYm4xaUFFdUVUTXpHc3FYckk?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:22:07.000Z",
-      "stars": 1,
-      "reason": "生活Tips記事、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "f41e6ed1b5f1f264",
-      "title": "日本は枯渇。「Fitbit Air」米Google ストアは在庫潤沢",
-      "url": "https://jetstream.blog/2026/11/07/us-google-store-fitbit-air-plenty-stock/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:03:24.000Z",
-      "stars": 1,
-      "reason": "在庫情報のみ",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "c527ec6788bda0d7",
-      "title": "お悩み相談にも応じます！ アイドルだらけの新番組「石田萌依の萌えドル放送局！」誕生",
-      "url": "https://ascii.jp/elem/000/004/447/4447995/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "stars": 1,
-      "reason": "エンタメ企画、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "023157799142cdd6",
-      "title": "The American Dream Wasn’t Built for Climate Change",
-      "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "stars": 1,
-      "reason": "社会論考、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "8d78254e47e7621b",
-      "title": "トレーニー向け！「Fitbit Air」アーム/レッグバンドAmazonで販売中",
-      "url": "https://jetstream.blog/2026/11/07/google-fitbit-air-arm-leg-band-amazon-lineup/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:41:47.000Z",
-      "stars": 1,
-      "reason": "アクセサリー販売情報",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "6b3a242c1f9dd94e",
-      "title": "秋のひとり旅ならここ！「激レア原酒の試飲」や「活版印刷体験」まで、趣味に没頭できる大人の体験スポット5選",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hcDhib3NTY01Od3dXN0VwUndjZTFoVUhncVlYcTNNVVh2NGRfX2ZWVTJwQ1pPRHNyUTF6MmgtVmtMUU5UeWpFTWZfX0VmUQ?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:38:21.000Z",
-      "stars": 1,
-      "reason": "旅行企画、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "93ec89e74a49a9a9",
-      "title": "絶滅寸前のV8サウンドをオープンエアで。レクサスLCの販売終了で失われる「日本車の贅沢」",
-      "url": "https://ascii.jp/elem/000/004/449/4449308/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 1,
-      "reason": "自動車コラム、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "9e7a8f18f763d97d",
-      "title": "Lollipop oral sensor will have your child excited for a checkup",
-      "url": "https://newatlas.com/good-thinking/lollylab-lollipop-medication-sensor/",
-      "source": "New Atlas",
-      "region": "海外",
-      "publishedAt": "2026-11-07T08:03:00.000Z",
-      "stars": 1,
-      "reason": "医療研究ガジェット、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "9c19c29ea6a2885b",
-      "title": "在庫あり！ヨドバシカメラ、Fitbit Air限定モデル「Sleepy Blue」販売再開",
-      "url": "https://jetstream.blog/2026/11/07/google-fitbit-air-special-edition-pokemon-sleep-yodobashi-back-in-stock-20261107/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:12:41.000Z",
-      "stars": 1,
-      "reason": "在庫情報のみ",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "ede3ced904a6bf02",
-      "title": "サブウェイに「鴨サンド」登場！ 冬限定、これはおいしそう",
-      "url": "https://ascii.jp/elem/000/004/449/4449355/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T07:00:00.000Z",
-      "stars": 1,
-      "reason": "食品新商品、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "80eca3a96b721462",
-      "title": "ESBOX株式会社、中古ゲーム機の「業者買取・法人買取」を強化 動作確認・仕分け不要で買取",
-      "url": "https://ascii.jp/elem/000/004/449/4449532/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:38:56.000Z",
-      "stars": 1,
-      "reason": "買取サービスPR、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "81311efb7947e44a",
-      "title": "団地・築古マンションのお風呂リフォームを床下から支える。排水継手「サスケくん」を東京ビッグサイトで展示",
-      "url": "https://ascii.jp/elem/000/004/449/4449525/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T05:02:01.000Z",
-      "stars": 1,
-      "reason": "建材展示会、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "7a3097ce105fef24",
-      "title": "【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154552.html",
-      "source": "PC Watch",
-      "region": "国内",
-      "publishedAt": "2026-11-07T04:22:00.000Z",
-      "stars": 1,
-      "reason": "Amazonセール記事",
-      "score": 1,
+      "publishedAt": "2026-11-07T21:00:00.000Z",
+      "stars": 2,
+      "reason": "AIアプリ終了予告とBluetooth新規格を把握",
+      "score": 7,
       "groups": [
-        "実務で使える周辺機器",
-        "減点対象（セール・広告色）"
+        "AI・生成AI",
+        "新製品・発表"
       ]
     },
     {
-      "id": "8c98a2e1c3fa4238",
-      "title": "【11月の劇場アニメ】ufotable制作の『魔法使いの夜』がついに公開 『楽園追放』や『ボトムズ』の新作も登場",
-      "url": "https://ascii.jp/elem/000/004/449/4449492/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T04:00:00.000Z",
-      "stars": 1,
-      "reason": "映画紹介、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "555c30d2efe850cd",
-      "title": "Mid-engine 3-wheeler packs more kilo-to-kilo power than a Ferrari Enzo",
-      "url": "https://newatlas.com/automotive/mtpeak-one-all-three-wheeler/",
-      "source": "New Atlas",
+      "id": "ae06ecf7187204d4",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
       "region": "海外",
-      "publishedAt": "2026-11-07T03:03:00.000Z",
-      "stars": 1,
-      "reason": "バイク紹介、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "1a665670bb5fcee8",
-      "title": "【2027シーズン】埼玉武蔵ヒートベアーズ・東京レジスターズ 合同選手トライアウト開催のお知らせ",
-      "url": "https://ascii.jp/elem/000/004/449/4449529/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 1,
-      "reason": "スポーツイベント告知、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "0d65624214729245",
-      "title": "アニマーシブライブ「竜とそばかすの姫 - PROJECT LAYRA - 」11月15日（日）千秋楽ライブビューイング開催決定！",
-      "url": "https://ascii.jp/elem/000/004/449/4449527/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 1,
-      "reason": "イベント告知、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "baae4f0ba2ffd42f",
-      "title": "予算200万円で極上VIP空間が手に入る！ 今あえて「14代目クラウン」を中古で狙うべき理由",
-      "url": "https://ascii.jp/elem/000/004/449/4449306/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T03:00:00.000Z",
-      "stars": 1,
-      "reason": "自動車コラム、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "739ae5b42c2daedd",
-      "title": "【小中学生対象】好きなアニメで世界に友達をつくろう！NIJINアカデミーが11月15日にオンライン「放課後フェス」を開催",
-      "url": "https://ascii.jp/elem/000/004/449/4449530/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:52:03.000Z",
-      "stars": 1,
-      "reason": "子供向けイベント告知、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "ca114c4e6e404283",
-      "title": "ヤマダ電機「Fitbit Edge」全モデル売り切れ",
-      "url": "https://jetstream.blog/2026/11/07/google-fitbit-edge-yamada-denki-all-sold-out-20261107/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:40:32.000Z",
-      "stars": 1,
-      "reason": "在庫情報のみ",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "b63009c1734b6460",
-      "title": "リスナーの感想や疑問にRyo’LEFTY’Miyataが回答！The Vounds海外初ライブの舞台裏も語る",
-      "url": "https://ascii.jp/elem/000/004/449/4449522/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:00:00.000Z",
-      "stars": 1,
-      "reason": "音楽ラジオ企画、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "d81e5887b64ca0f9",
-      "title": "New Realme 17 Pro spec leak helps clarify its place in the upcoming lineup",
-      "url": "https://www.gsmarena.com/realme_17_pro_leak_helps_clarify_its_place_in_the_upcoming_lineup-news-75392.php",
-      "source": "GSMArena",
-      "region": "海外",
-      "publishedAt": "2026-11-07T01:33:02.000Z",
-      "stars": 1,
-      "reason": "未発表機種のリーク情報",
-      "score": 1,
+      "publishedAt": "2026-11-08T17:23:19.000Z",
+      "stars": 2,
+      "reason": "AI音楽生成の著作権訴訟で顧客説明に使える",
+      "score": 6,
       "groups": [
+        "AI・生成AI",
+        "制度・プライバシー"
+      ]
+    },
+    {
+      "id": "53044e44b3aab431",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:18:19.000Z",
+      "stars": 2,
+      "reason": "Siriのエージェント化方針は押さえておきたい",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "de9fa039c30a7313",
+      "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+      "url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:25:00.000Z",
+      "stars": 2,
+      "reason": "AIチップ放熱材料の進展で技術ネタに有用",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "670335a07c630b2b",
+      "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "stars": 2,
+      "reason": "AIチップ輸出規制の実態で規制動向を把握",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "b6f0207e5bb92f62",
+      "title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+      "url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T12:40:00.000Z",
+      "stars": 2,
+      "reason": "AI需要のDRAM高騰がPC選びに影響と把握",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "a9659effa45c5ff6",
+      "title": "「貯金は無意味」発言から3日後、イーロン・マスクがAI代に音を上げる",
+      "url": "https://www.gizmodo.jp/article/2611-elon-musk-ai-cost-grok-bot/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "stars": 2,
+      "reason": "AI運用コストの実例で顧客説明に使える",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "9e5f86fe30339048",
+      "title": "'Getting the job done should also be a natural thing': Zoom lays out its plans to use AI and context to be even more of a useful workplace assistant",
+      "url": "https://www.techradar.com/pro/getting-the-job-done-should-also-be-a-natural-thing",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "stars": 2,
+      "reason": "会議AIの強化方針は仕事道具選定の参考に",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "7abf94671d466c68",
+      "title": "AIを使う人 vs 使わない人、働く時間が長いのはどっち？ 最大で1日90分の差がつくケースも",
+      "url": "https://www.gizmodo.jp/article/2611-ai-work-hours-comparison/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 2,
+      "reason": "AI利用と労働時間のデータは登壇で使える",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "a8833b8d4a8045db",
+      "title": "Employed job seekers are shunning companies which use AI interviews — and I don't blame them",
+      "url": "https://www.techradar.com/pro/employed-job-seekers-are-shunning-companies-which-use-ai-interviews-and-i-dont-blame-them",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T07:00:00.000Z",
+      "stars": 2,
+      "reason": "AI面接への反発は顧客説明のネタになる",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "58b6958418b4843d",
+      "title": "【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援",
+      "url": "https://ascii.jp/elem/000/004/449/4449561/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:28:00.000Z",
+      "stars": 2,
+      "reason": "AIエージェント規制対応の国内動向を把握",
+      "score": 5,
+      "groups": [
+        "AI・生成AI",
+        "制度・プライバシー"
+      ]
+    },
+    {
+      "id": "1893218a98d06532",
+      "title": "I took the iPhone 18 Pro to New Zealand to find out just how good its cameras really are",
+      "url": "https://www.techradar.com/phones/iphone/i-took-the-iphone-18-pro-to-new-zealand-to-find-out-just-how-good-its-cameras-really-are-here-are-35-of-my-favorite-photos-and-the-settings-i-used-to-capture-them",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "stars": 2,
+      "reason": "実機カメラ検証で顧客への製品説明に使える",
+      "score": 4,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "14abc97d62196b22",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "WIRED",
+      "region": "海外",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "stars": 2,
+      "reason": "消費者向けAI機能の実例として押さえる",
+      "score": 4,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "6e70fe048dede744",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "source": "WIRED",
+      "region": "海外",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 2,
+      "reason": "AIの次潮流として押さえておきたい技術解説",
+      "score": 4,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "8e5c791207e6fb68",
+      "title": "Boseのオープンイヤー、スポーツ向けは音もデザインもGoodです。悩ましいのはモデル選び",
+      "url": "https://www.gizmodo.jp/article/2611-bose-sport-open-earbuds-review/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T03:00:00.000Z",
+      "stars": 2,
+      "reason": "スポーツ向けイヤホンレビューで機材選定の参考",
+      "score": 4,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "dd88d38c56cbfb59",
+      "title": "Quick Shareにバックアップ機能追加。Androidスマホの写真がWindowsに自動保存される幸せ",
+      "url": "https://www.gizmodo.jp/article/2611-quick-share-android-windows-backup/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T02:00:00.000Z",
+      "stars": 2,
+      "reason": "Android→Windows自動保存は便利機能として把握",
+      "score": 4,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "72e3f1631d5e1815",
+      "title": "Raspberry Pi 5 price hike means the 16GB model now costs three times what it did at launch — and of course, the global RAM shortage is to blame",
+      "url": "https://www.techradar.com/pro/raspberry-pi-5-price-hike-means-the-16gb-model-now-costs-three-times-what-it-did-at-launch-and-of-course-the-global-ram-shortage-is-to-blame",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-07T23:00:00.000Z",
+      "stars": 2,
+      "reason": "AI需要によるRAM高騰の実例で把握しておく",
+      "score": 4,
+      "groups": [
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "5c0ce818ec43405d",
+      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
+      "url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
+      "source": "9to5Mac",
+      "region": "海外",
+      "publishedAt": "2026-11-07T22:30:00.000Z",
+      "stars": 2,
+      "reason": "新カメラアプリは登壇の小ネタに使える",
+      "score": 4,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "6880cbaddbf51aaf",
+      "title": "初めての分割キーボード「Earth95s」を買ってみた",
+      "url": "https://orefolder.jp/2026/11/earth95s/",
+      "source": "OREFOLDER",
+      "region": "国内",
+      "publishedAt": "2026-11-08T10:00:07.000Z",
+      "stars": 2,
+      "reason": "キーボード実使用レポートで機材選定の参考",
+      "score": 3,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "d2a076e6d32a2f12",
+      "title": "MelGeek VIVA63 HE review: Who needs a boring keyboard anyway?",
+      "url": "https://www.digitaltrends.com/computing/melgeek-viva63-he-keyboard-review/",
+      "source": "Digital Trends",
+      "region": "海外",
+      "publishedAt": "2026-11-08T09:55:40.000Z",
+      "stars": 2,
+      "reason": "ハイエンドキーボードレビューで機材選定の参考",
+      "score": 3,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "9308481164c0211b",
+      "title": "着替え対応のすげぇBeats 360ヘッドホン！ ジムでもストリートでも映え確定だが、俺は技術が気になる",
+      "url": "https://ascii.jp/elem/000/004/449/4449567/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T09:00:00.000Z",
+      "stars": 2,
+      "reason": "ヘッドホンレビューで機材選定の参考になる",
+      "score": 3,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "65525a352f7d62c0",
+      "title": "I saw HONOR’s Magic 9 Pro Max go head-to-head with an ARRI cinema camera. Here’s what surprised me",
+      "url": "https://www.digitaltrends.com/phones/honor-magic-9-pro-max-arri-cinema-camera-first-impressions/",
+      "source": "Digital Trends",
+      "region": "海外",
+      "publishedAt": "2026-11-07T20:49:17.000Z",
+      "stars": 2,
+      "reason": "スマホカメラの実機比較で登壇ネタに使える",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "7dafd905bf906c83",
+      "title": "New report claims 'America hates data centers' as it finds 90% of public comments at local government meetings are negative",
+      "url": "https://www.techradar.com/pro/new-report-claims-america-hates-data-centers-as-it-finds-90-of-public-comments-at-local-government-meetings-are-negative",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:05:00.000Z",
+      "stars": 2,
+      "reason": "AIデータセンターへの反発は顧客説明に使える",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "0ce0b41235fb1e8a",
+      "title": "Japanese arcades suffer week-long blackout following Sega server hack",
+      "url": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "stars": 2,
+      "reason": "セキュリティ事故の実例で顧客説明に使える",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "4454cc71d896918e",
+      "title": "Hundreds arrested after Microsoft data center protest turns violent",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T13:20:00.000Z",
+      "stars": 2,
+      "reason": "AI施設への抗議激化は規制動向として把握",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "2d19de5a8148fb17",
+      "title": "Corsair Voxara review: the right specs for a gamer, but a long way off ‘studio grade’",
+      "url": "https://www.techradar.com/gaming/gaming-accessories/corsair-voxara-review",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T09:00:00.000Z",
+      "stars": 2,
+      "reason": "ゲーミングマイクレビューで機材選定の参考",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "b1e72b1e8c10f1c4",
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "source": "WIRED",
+      "region": "海外",
+      "publishedAt": "2026-11-08T10:30:00.000Z",
+      "stars": 2,
+      "reason": "AI時代でも人間が難問を解く好例で話題になる",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "082de41780595cce",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:00:30.000Z",
+      "stars": 1,
+      "reason": "ベータコード発見のみの未確定情報",
+      "score": 7,
+      "groups": [
+        "AI・生成AI",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "eb75e89ccc5d50a2",
+      "title": "CIO、ドン・キホーテ限定カラーのモバイルバッテリーと充電器を発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154391.html",
+      "source": "ケータイ Watch",
+      "region": "国内",
+      "publishedAt": "2026-11-07T23:00:00.000Z",
+      "stars": 1,
+      "reason": "限定カラー発売のみで業務に直結しない",
+      "score": 6,
+      "groups": [
+        "新製品・発表",
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "6df44734228f7971",
+      "title": "Suno AI music generator sued again for copyright infringement",
+      "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
+      "source": "Engadget",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:42:14.000Z",
+      "stars": 1,
+      "reason": "同一訴訟の重複報道で一次情報性が低い",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "02f2d6614b1890b3",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-08T17:02:00.000Z",
+      "stars": 1,
+      "reason": "ニュースレター総集編で単体の判断材料がない",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "4a05af922163aa89",
+      "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+      "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+      "source": "9to5Mac",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:55:23.000Z",
+      "stars": 1,
+      "reason": "Siri報道の重複で一次情報性が低い",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "16300678c1394bc7",
+      "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+      "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+      "source": "9to5Mac",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:30:36.000Z",
+      "stars": 1,
+      "reason": "Siri報道の重複で一次情報性が低い",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "e8e4da18523710e0",
+      "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T12:20:00.000Z",
+      "stars": 1,
+      "reason": "個人ホームラボの実験でビジネス関係が薄い",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "76c4989e4e21db73",
+      "title": "Google wants to lock Android down, but Droynis teaches you how to stay safe instead",
+      "url": "https://www.androidauthority.com/droynis-open-source-android-security-app-3731115/",
+      "source": "Android Authority",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:00:53.000Z",
+      "stars": 1,
+      "reason": "個人向けセキュリティアプリ紹介で関連性が薄い",
+      "score": 5,
+      "groups": [
+        "スマホ・PC本体",
+        "制度・プライバシー"
+      ]
+    },
+    {
+      "id": "9effe20f92589833",
+      "title": "PC直結で液タブになる「Magic Pro 13」発売！XPPen最高峰うたうAndroidタブ、3K・120Hz、16万9800円",
+      "url": "https://smhn.info/202611-xppen-magic-pro-13-android-drawing-tablet-pen-display",
+      "source": "すまほん!!",
+      "region": "国内",
+      "publishedAt": "2026-11-08T07:04:36.000Z",
+      "stars": 1,
+      "reason": "お絵描き向けタブレットで仕事道具に該当しない",
+      "score": 5,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "b464e389ac5e11f3",
+      "title": "日本発のプレミアムオーラルケアブランド「maus（マウス）」誕生。第一弾となるプレミアム歯ブラシを発売開始。",
+      "url": "https://ascii.jp/elem/000/004/449/4449565/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T06:00:00.000Z",
+      "stars": 1,
+      "reason": "歯ブラシ新発売でAIや仕事道具と無関係",
+      "score": 5,
+      "groups": [
+        "新製品・発表",
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "7994c1f534fb27b2",
+      "title": "Just a moonshot? Google energy head claims data centers in space would cost up to 100x more than on Earth",
+      "url": "https://www.techradar.com/pro/just-a-moonshot-google-energy-head-claims-data-centers-in-space-would-cost-up-to-100x-more-than-on-earth",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T01:10:00.000Z",
+      "stars": 1,
+      "reason": "宇宙データセンターの憶測コストで未確定",
+      "score": 5,
+      "groups": [
+        "AI・生成AI"
+      ]
+    },
+    {
+      "id": "5a051f8a9e1d41ee",
+      "title": "[本日の一品]隠しカメラを探すのは自分の目！ 手のひらサイズの「宇宙人型 カメラ探知機」",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154450.html",
+      "source": "ケータイ Watch",
+      "region": "国内",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "stars": 1,
+      "reason": "隠しカメラ探知機の紹介で業務に無関係",
+      "score": 4,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "ada5a278ba11f2ee",
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]フロッピーディスク型SSDケースで物欲が大爆発！ 必要ないけど超欲しいレトロガジェットを買いまくりッ!!!",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2153725.html",
+      "source": "ケータイ Watch",
+      "region": "国内",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "stars": 1,
+      "reason": "レトロガジェット収集記で業務に無関係",
+      "score": 4,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "d5d2b9dc156cb941",
+      "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:30:00.000Z",
+      "stars": 1,
+      "reason": "ゲームサーバーの裏側トリビアで業務に無関係",
+      "score": 4,
+      "groups": [
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "5ec00a4220a834ce",
+      "title": "The iPhone has a 'gray list' of words and phrases that won't auto-complete",
+      "url": "https://www.techradar.com/phones/ios/a-very-light-touch-form-of-censorship-the-iphone-has-a-gray-list-of-words-and-phrases-that-apple-wont-auto-complete-for-you",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:30:00.000Z",
+      "stars": 1,
+      "reason": "自動補完の仕様トリビアで業務に無関係",
+      "score": 4,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "20562a68939906d5",
+      "title": "7 apps that still look terrible on foldables, and Google should call them out first",
+      "url": "https://www.androidauthority.com/worst-android-apps-foldables-3729614/",
+      "source": "Android Authority",
+      "region": "海外",
+      "publishedAt": "2026-11-08T10:30:58.000Z",
+      "stars": 1,
+      "reason": "折りたたみ対応不足の指摘で参考程度",
+      "score": 4,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "aa42eae91e38c303",
+      "title": "The best Android browser isn’t on the Play Store. Here’s how to install it",
+      "url": "https://www.androidauthority.com/solipsism-browser-android-how-to-download-3731532/",
+      "source": "Android Authority",
+      "region": "海外",
+      "publishedAt": "2026-11-08T10:00:33.000Z",
+      "stars": 1,
+      "reason": "ブラウザ紹介記事で仕事道具の判断に直結しない",
+      "score": 4,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "c802a4dcbf0885f4",
+      "title": "Xbox、ワニに丸のみされる。世界に1台の特注モデルが完成、ちゃんと遊べます",
+      "url": "https://www.gizmodo.jp/article/2611-xbox-series-x-alligator-edition/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T09:00:00.000Z",
+      "stars": 1,
+      "reason": "ネタ企画のXbox改造で業務に無関係",
+      "score": 4,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "d296e64e5f4ef01f",
+      "title": "iPhone Duoのヒンジ問題、原因は供給元1社の部材か？Appleはシリアル番号で特定可能との噂",
+      "url": "https://smhn.info/202611-iphone-duo-hinge-issue-supplier-materials-rumor",
+      "source": "すまほん!!",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:56:50.000Z",
+      "stars": 1,
+      "reason": "未確定リーク情報で一次情報に基づかない",
+      "score": 4,
+      "groups": [
+        "新製品・発表",
+        "スマホ・PC本体",
         "減点対象（噂・リーク）"
       ]
     },
     {
-      "id": "5b8c336bc243355d",
-      "title": "最大7万5千円キャッシュバック！ 富士フイルム「GFXシリーズ＆GFレンズ 2026年冬キャッシュバックキャンペーン」",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90LWh6ckU5bHFmXzFIVXhaSVFDTHFhdkgtV2lHdDk5UFhkTUlqVjA3NnFDODlSX2tpTk5ZYTAtRHVacWZJSFBpTTE4NzI?oc=5",
-      "source": "GetNavi web",
+      "id": "299c4e425d0e0901",
+      "title": "ゲーム機、タオルで包むのやめました。Belkin「Nintendo Switch 2のためのケース」が長旅の味方",
+      "url": "https://www.gizmodo.jp/article/2611-belkin-nintendo-switch-2-charging-case-pro/",
+      "source": "GIZMODO JAPAN",
       "region": "国内",
-      "publishedAt": "2026-11-07T01:15:00.000Z",
+      "publishedAt": "2026-11-08T05:35:00.000Z",
       "stars": 1,
-      "reason": "キャッシュバックキャンペーン記事",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "a262c2ea815f1f99",
-      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
-      "url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-06T22:31:15.000Z",
-      "stars": 1,
-      "reason": "EV業界コラム、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "31d08835f0d5b6cd",
-      "title": "15年にわたり撮り続けた“農”の風景が雄弁に語る 公文健太郎写真展「土は静かである」",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBeFVpTkhDbmdCTi1NVU9QMVhBNGxnSUJHZ190a0F4a0U5RjNkTUx5NFJRZ09JMzJlejVvOGxKVnNDS3l3elRIb0I4SjkxUmMwa1BvZ2N3?oc=5",
-      "source": "GetNavi web",
-      "region": "国内",
-      "publishedAt": "2026-11-06T21:12:07.000Z",
-      "stars": 1,
-      "reason": "写真展告知、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "f670f6a91719f1c8",
-      "title": "How Stephen Miller Schemed His Way to the Top",
-      "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-06T21:10:02.000Z",
-      "stars": 1,
-      "reason": "米政治人物コラム、業務無関係",
-      "score": 1,
-      "groups": []
-    },
-    {
-      "id": "22aa9c80fbf12afd",
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "source": "WIRED",
-      "region": "海外",
-      "publishedAt": "2026-11-07T11:45:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
+      "reason": "ゲーム機ケースレビューで仕事道具に該当しない",
+      "score": 4,
       "groups": [
-        "実務で使える周辺機器",
-        "減点対象（セール・広告色）"
+        "実務で使える周辺機器"
       ]
     },
     {
-      "id": "ff0584a368c1d0fc",
-      "title": "『ゼルダの伝説 時のオカリナ』を外出先で！ Switch 2をドック不要で出力できる14型モバイルディスプレーが30％オフ",
-      "url": "https://ascii.jp/elem/000/004/449/4449456/?rss",
-      "source": "ASCII.jp",
+      "id": "b129160a6586578c",
+      "title": "28年ぶりの新作。キヤノンのタイマーリモコンが時計機能をゲット",
+      "url": "https://www.gizmodo.jp/article/canon-tc-n3-tc-e3-timer-remote/",
+      "source": "GIZMODO JAPAN",
       "region": "国内",
-      "publishedAt": "2026-11-07T10:30:00.000Z",
+      "publishedAt": "2026-11-08T04:00:00.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
+      "reason": "カメラ用リモコン新作で仕事道具に該当しない",
+      "score": 4,
       "groups": [
-        "実務で使える周辺機器",
-        "減点対象（セール・広告色）"
+        "新製品・発表"
       ]
     },
     {
-      "id": "59634a57a476d991",
-      "title": "失敗しない軽量ワイヤレスゲーミングマウスと言えば1ヵ月で400点以上購入されたRazerのアイツがスマイルセールで36％オフ",
-      "url": "https://ascii.jp/elem/000/004/449/4449453/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
-      "groups": [
-        "実務で使える周辺機器",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "89bd135af27946d2",
-      "title": "ゴジラとコラボしたFMVノートPCが、直販サイトで10%オフに！",
-      "url": "https://ascii.jp/elem/000/004/449/4449509/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
-      "groups": [
-        "スマホ・PC本体",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "6693be505de6463c",
-      "title": "“ちょうど良いビジネスモバイル”VAIO S13がオータムセールで18万円台",
-      "url": "https://ascii.jp/elem/000/004/447/4447607/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T09:00:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
-      "groups": [
-        "スマホ・PC本体",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "7498c46d119f566e",
-      "title": "なんと11万円台に！ FMVの16.0型ノートPC「FMV WA3-K3」がアウトレット価格",
-      "url": "https://ascii.jp/elem/000/004/449/4449506/?rss",
-      "source": "ASCII.jp",
-      "region": "国内",
-      "publishedAt": "2026-11-07T06:00:00.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
-      "groups": [
-        "スマホ・PC本体",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "e8235a8109119bd9",
-      "title": "+15%pt還元&600円引き！楽天スーパーDEAL「moto g37j」",
-      "url": "https://jetstream.blog/2026/11/07/motorola-moto-g37j-rakuten-superdeal-20261107/",
-      "source": "Jetstream BLOG",
-      "region": "国内",
-      "publishedAt": "2026-11-07T02:56:22.000Z",
-      "stars": 1,
-      "reason": "セール記事",
-      "score": 0,
-      "groups": [
-        "スマホ・PC本体",
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "20892c351a54c964",
-      "title": "Hostinger slashes Premium hosting prices by 87% this Black Friday",
-      "url": "https://www.techradar.com/pro/hostinger-slashes-87-percent-off-its-premium-web-hosting-for-black-friday-and-our-exclusive-techradar-code-reduces-the-price-even-more",
+      "id": "2d24e58d4e13beb6",
+      "title": "'The next generation won’t replace this one so much as sit on top of it' — Industry analysts say Sony, Microsoft, and Nintendo's 'relentless push for higher-end performance will need to be moderated' …",
+      "url": "https://www.techradar.com/gaming/the-next-generation-wont-replace-this-one-so-much-as-sit-on-top-of-it-industry-analysts-say-sony-microsoft-and-nintendos-relentless-push-for-higher-end-performance-will-need-to-be-moderated-to-avoid-usd1000-launch-consoles",
       "source": "TechRadar",
       "region": "海外",
-      "publishedAt": "2026-11-07T18:20:00.000Z",
+      "publishedAt": "2026-11-08T01:00:00.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -1,
+      "reason": "ゲーム機の価格傾向分析で業務に無関係",
+      "score": 4,
       "groups": [
-        "減点対象（セール・広告色）"
+        "新製品・発表"
       ]
     },
     {
-      "id": "131c7319af2c42f1",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "id": "25c6db8b93a8415f",
+      "title": "This RTX 5060 gaming PC costs less than the Steam Machine",
+      "url": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-07T21:27:30.000Z",
+      "stars": 1,
+      "reason": "ゲーミングPCの割引記事で一次情報性が低い",
+      "score": 4,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "3dd5ee135c1332f5",
+      "title": "お届け予定が10日後に。Google ストア「Pixel 11 Pro」Canyon/Obsidian 512GB",
+      "url": "https://jetstream.blog/2026/11/08/google-store-pixel-11-pro-canyon-obsidian-512gb-delivery-delayed-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T13:08:29.000Z",
+      "stars": 1,
+      "reason": "在庫入荷速報のみで判断材料にならない",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "65d2845242fd757b",
+      "title": "お届け予定が10日後に。Google ストア「Pixel 11」Frost 512GB",
+      "url": "https://jetstream.blog/2026/11/08/google-store-pixel-11-frost-512gb-delivery-delayed-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T13:03:58.000Z",
+      "stars": 1,
+      "reason": "在庫入荷速報のみで判断材料にならない",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "1c4f10dfa7b96532",
+      "title": "漆黒の一台がお求めやすく！ VAIO SX14【ALL BLACK EDITION】がキャンペーン中3万5000円オフ",
+      "url": "https://ascii.jp/elem/000/004/449/4449062/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 1,
+      "reason": "ノートPCの割引キャンペーンで一次情報性が低い",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "30e7c947cd59d283",
+      "title": "「お客様」に恋をしたコンカフェ嬢が禁断の誘惑。しおん共和国が念願のDVDデビュー！",
+      "url": "https://ascii.jp/elem/000/004/447/4447996/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 1,
+      "reason": "DVDデビューイベントで業務に無関係",
+      "score": 3,
+      "groups": [
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "b090b47a47ae9e5d",
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "source": "WIRED",
+      "region": "海外",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 1,
+      "reason": "タッチ対応手袋の紹介で仕事道具に該当しない",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "86d0f5a2f8d88024",
+      "title": "ノジマ/Google ストア。「Fitbit Edge」販売状況【2026年11月7日（土）】",
+      "url": "https://jetstream.blog/2026/11/08/google-fitbit-edge-retailers-stock-status-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T08:49:20.000Z",
+      "stars": 1,
+      "reason": "販売店の在庫状況速報のみで判断材料にならない",
+      "score": 3,
+      "groups": [
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "d127c0a05cf31f96",
+      "title": "“キャッシュレス対応”のフィットネストラッカー、新たに登場か。新Galaxy Fit 4が大進化を遂げそう",
+      "url": "https://www.gizmodo.jp/article/2611-galaxy-fit-4-nfc-cashless/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T08:35:00.000Z",
+      "stars": 1,
+      "reason": "未発表スマートバンドのリーク情報のみ",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体",
+        "減点対象（噂・リーク）"
+      ]
+    },
+    {
+      "id": "4185dc3e50587514",
+      "title": "ウルトラマンとMOUTHのコラボキャップ「ウルトラ＆マウス」降臨！ ウルトラヒーローや怪獣の刺繍入り",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pbmRxVFdSZTdZN1ZvcnNiU1pwVkdsb0VNaFJOQk01T3lfNldmVUZuczgyZm1SX2E5THVwX2I4N3JQbm1ENkphaWtIV2E?oc=5",
+      "source": "GetNavi web",
+      "region": "国内",
+      "publishedAt": "2026-11-08T08:15:00.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 3,
+      "groups": [
+        "実務で使える周辺機器"
+      ]
+    },
+    {
+      "id": "9a9ac118b7e668bf",
+      "title": "週間スマホ業界ピックアップ – 11月のGalaxyスクラッチが開催中！ほか",
+      "url": "https://orefolder.jp/2026/11/weekly-news-2026-45/",
+      "source": "OREFOLDER",
+      "region": "国内",
+      "publishedAt": "2026-11-08T03:00:18.000Z",
+      "stars": 1,
+      "reason": "週間ニュース総集編で単体の判断材料がない",
+      "score": 3,
+      "groups": [
+        "スマホ・PC本体"
+      ]
+    },
+    {
+      "id": "61e9372fbeb0b52e",
+      "title": "Pimax、年間最大の「ブラックフライデー2026」早期キャンペーンを始動！11月1日以降の購入を対象とした「公式価格保証サービス」を正式適用",
+      "url": "https://ascii.jp/elem/000/004/449/4449559/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T03:00:00.000Z",
+      "stars": 1,
+      "reason": "VR機器のセール告知で一次情報性が低い",
+      "score": 3,
+      "groups": [
+        "新製品・発表"
+      ]
+    },
+    {
+      "id": "2c93e9013ac15b4c",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-07T21:17:08.000Z",
+      "stars": 1,
+      "reason": "未検証の諜報疑惑で一次情報に基づかない",
+      "score": 3,
+      "groups": [
+        "制度・プライバシー"
+      ]
+    },
+    {
+      "id": "8f9edb697d23e202",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:51:30.000Z",
+      "stars": 1,
+      "reason": "VC人事ゴシップで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "bcfbafb101fac144",
+      "title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
+      "url": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+      "source": "Engadget",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:45:00.000Z",
+      "stars": 1,
+      "reason": "M6の性能比較記事で既報の重複",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "a8bc262ec7288e85",
+      "title": "You can have a PlayStation arcade machine at home, but there's a huge caveat",
+      "url": "https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/",
+      "source": "Engadget",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:30:00.000Z",
+      "stars": 1,
+      "reason": "ゲーム筐体DIYの紹介で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "0c0f929410732952",
+      "title": "What does the Xbox Series X have that the Playstation 5 Pro doesn't?",
+      "url": "https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/",
+      "source": "Engadget",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:15:00.000Z",
+      "stars": 1,
+      "reason": "ゲーム機比較記事で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "991d00f8bf0c1caa",
+      "title": "5 underrated PlayStation App features",
+      "url": "https://www.engadget.com/2309256/underrated-playstation-app-features/",
+      "source": "Engadget",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:00:00.000Z",
+      "stars": 1,
+      "reason": "ゲームアプリ使い方紹介で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "4563fa204fa71cca",
+      "title": "How to watch Patriots vs Packers for FREE: live stream NFL Week 9 game online from anywhere",
+      "url": "https://www.techradar.com/entertainment/american-football/patriots-vs-packers-free-nfl-week-9-game",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T19:00:00.000Z",
+      "stars": 1,
+      "reason": "スポーツ視聴ガイドで登壇ネタに使えない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "90a1f0a5500af66b",
+      "title": "Why 2TB of phone storage makes more sense than you think",
+      "url": "https://www.engadget.com/2309548/2tb-phone-storage-makes-sense/",
+      "source": "Engadget",
+      "region": "海外",
+      "publishedAt": "2026-11-08T18:45:00.000Z",
+      "stars": 1,
+      "reason": "スマホ容量の一般論で仕事道具判断に直結しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "0675638659a41ac3",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-08T18:00:04.000Z",
+      "stars": 1,
+      "reason": "コメディ番組の話題で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d42d09f1aa1dafab",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-08T17:30:00.000Z",
+      "stars": 1,
+      "reason": "VCファンド設立の人物紹介で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "b6aec4f643f76a4d",
+      "title": "How to watch Atletico Madrid vs Barcelona: live stream La Liga match for free online from anywhere, team news",
+      "url": "https://www.techradar.com/entertainment/football/how-to-watch-atletico-madrid-vs-barcelona-live-stream-la-liga-match-for-free-online-from-anywhere",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T17:30:00.000Z",
+      "stars": 1,
+      "reason": "スポーツ視聴ガイドで登壇ネタに使えない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "079a6b8b94617fc6",
+      "title": "How to watch Stacey Dooley's Australia: Off the Beaten Track for FREE",
+      "url": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-stacey-dooleys-australia-off-the-beaten-track",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "stars": 1,
+      "reason": "番組視聴ガイドで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "e2dbe848198bc62c",
+      "title": "Samsung S90H review: a phenomenal OLED TV",
+      "url": "https://www.techradar.com/televisions/samsung-s90h-review",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "stars": 1,
+      "reason": "テレビレビューで仕事道具に該当しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "804976c80051c0da",
+      "title": "How to watch WTA Finals 2026: FREE Live Streams & TV Channels for Women's Tennis, Schedule & Preview",
+      "url": "https://www.techradar.com/entertainment/tennis/wta-finals-2026-free-live-streams",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "stars": 1,
+      "reason": "スポーツ視聴ガイドで登壇ネタに使えない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "c14d10cd549c7544",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "stars": 1,
+      "reason": "コーヒーメーカーレビューで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "99faa2c088d919c6",
+      "title": "Logitech G502 X Lightspeed Review: No lights, same price",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "stars": 1,
+      "reason": "ゲーミングマウスレビューで仕事道具に非該当",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "b898af538ee978d3",
+      "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+      "url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T14:40:00.000Z",
+      "stars": 1,
+      "reason": "カーネル仕様変更のトリビアで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "fcc759566aac18fb",
+      "title": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T14:36:39.000Z",
+      "stars": 1,
+      "reason": "軍事ロボットの話題で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "866acc6653c3ca1d",
+      "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T14:20:00.000Z",
+      "stars": 1,
+      "reason": "旧GPUの周年記念で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "6321fad5ac4f944d",
+      "title": "海岸に導入された「サメ監視用ドローン」に鳥がマジギレ、海に沈める",
+      "url": "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T14:00:00.000Z",
+      "stars": 1,
+      "reason": "ドローンと鳥の小話で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "ee3f25fff803de26",
+      "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T13:40:00.000Z",
+      "stars": 1,
+      "reason": "開発者向けツールで非エンジニア向けに不向き",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "e5adfc4cfd9d21ef",
+      "title": "アメリカの空、フロッピーディスクが守ってました。連邦航空局が数十年ぶりにシステム更新",
+      "url": "https://www.gizmodo.jp/article/2611-faa-floppy-disk-system-update/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T13:30:00.000Z",
+      "stars": 1,
+      "reason": "米国システム更新のトリビアで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "cc905290b6d0c2e9",
+      "title": "〈Anison Days〉11/11のゲストはClariS",
+      "url": "https://getnews.jp/archives/3753822",
+      "source": "ガジェット通信",
+      "region": "国内",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "501814925f98cf88",
+      "title": "Hudson Westbrook、カントリーな新曲リリース",
+      "url": "https://getnews.jp/archives/3753821",
+      "source": "ガジェット通信",
+      "region": "国内",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "2b017cd8c10c8c9d",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
       "source": "The Verge",
       "region": "海外",
-      "publishedAt": "2026-11-07T16:00:00.000Z",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -1,
-      "groups": [
-        "減点対象（セール・広告色）"
-      ]
+      "reason": "メディア業界論評で業務に直結しない",
+      "score": 2,
+      "groups": []
     },
     {
-      "id": "fa40a5f5b72bddab",
-      "title": "【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154551.html",
-      "source": "PC Watch",
+      "id": "ea68b13cfc8aa500",
+      "title": "どんな料理にも合うパクチー万能調味料。サラダに納豆に、炒め物にもひとさじだけで満足できる",
+      "url": "https://getnews.jp/archives/3753823",
+      "source": "ガジェット通信",
       "region": "国内",
-      "publishedAt": "2026-11-07T03:46:17.000Z",
+      "publishedAt": "2026-11-08T12:30:27.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -1,
-      "groups": [
-        "減点対象（セール・広告色）"
-      ]
+      "reason": "要約が空で判断材料がない",
+      "score": 2,
+      "groups": []
     },
     {
-      "id": "577e4be1598f540b",
-      "title": "Vポイントのキャンペーンまとめ【11月7日最新版】 5万～10万ポイント還元のチャンス、対象鉄道の乗車で10倍",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news012.html",
-      "source": "ITmedia Mobile",
-      "region": "国内",
-      "publishedAt": "2026-11-07T01:00:00.000Z",
-      "stars": 1,
-      "reason": "ポイントキャンペーンまとめ",
-      "score": -1,
-      "groups": [
-        "減点対象（セール・広告色）"
-      ]
-    },
-    {
-      "id": "95e834e5f03f5cb6",
-      "title": "13 waterproof jacket deals to save you from the November drizzle — up to 40% off leading brands",
-      "url": "https://www.techradar.com/health-fitness/exercise-equipment/up-to-40-percent-off-top-quality-waterproof-jackets-from-the-north-face-rab-patagonia-and-more-this-early-black-friday-sale-will-save-you-from-the-november-drizzle",
+      "id": "d07b0491218519c5",
+      "title": "How to watch England vs Australia: FREE live streams, TV channels for Nations Championship 2026 game, team news",
+      "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-australia-free-nations-championship-2026-free",
       "source": "TechRadar",
       "region": "海外",
-      "publishedAt": "2026-11-06T20:05:26.000Z",
+      "publishedAt": "2026-11-08T12:10:00.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -1,
+      "reason": "スポーツ視聴ガイドで登壇ネタに使えない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "88a3b4bb090fcd81",
+      "title": "乾燥さんの新作「オイル美容液」を、いつものスキンケアに1滴プラス。手軽にふっくらハリ肌を目指せそう",
+      "url": "https://getnews.jp/archives/3753808",
+      "source": "ガジェット通信",
+      "region": "国内",
+      "publishedAt": "2026-11-08T12:00:34.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "a5b8b5e90a9c43af",
+      "title": "LAYRA、「あなたへ」フル3DCGのMV公開",
+      "url": "https://getnews.jp/archives/3753807",
+      "source": "ガジェット通信",
+      "region": "国内",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d9a5872b21f08e9a",
+      "title": "Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away",
+      "url": "https://www.tomshardware.com/tech-industry/drones/pocket-sized-ukrainian-receiver-intercepts-russian-strike-drone-video-feeds-up-to-six-miles-away-device-only-slightly-heavier-than-a-smartphone-intercepts-analog-video-signals-sent-to-russian-operators",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "stars": 1,
+      "reason": "軍事ドローン傍受機器で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "6009c5c5f0674e26",
+      "title": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし",
+      "url": "https://www.gizmodo.jp/article/2611-iron-powder-energy-storage/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "stars": 1,
+      "reason": "蓄電研究の話題で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "c3cda47fb8ddb31d",
+      "title": "彗星が地球に「生命の種」を運んだ説、実はかなり無理があったかも",
+      "url": "https://www.gizmodo.jp/article/2611-comet-origin-of-life-theory-challenged/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "stars": 1,
+      "reason": "生命起源の科学研究で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "06b449533fa2ebbc",
+      "title": "PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM",
+      "url": "https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected",
+      "source": "Tom's Hardware",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "stars": 1,
+      "reason": "DIY模型の話題で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "b7ac3b5f2d484de7",
+      "title": "Audio-Technica AT-LP7X review: a beautiful and easy to use turntable that's just a shade off excellent, sonically speaking",
+      "url": "https://www.techradar.com/audio/turntables/audio-technica-at-lp7x-review",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "stars": 1,
+      "reason": "ターンテーブルレビューで仕事道具に非該当",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d4336b0855e00ba1",
+      "title": "Winter commuter kitlist: my essentials for traveling in the wet and cold",
+      "url": "https://www.techradar.com/tech/winter-commuter-essentials-heres-everything-i-use-to-make-traveling-in-the-wet-and-cold-more-bearable",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 1,
+      "reason": "通勤装備の一般紹介で仕事道具判断に直結しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "31eb09d85930257a",
+      "title": "ハチがつくる天然プラスチック。丈夫なのに自然に分解される",
+      "url": "https://www.gizmodo.jp/article/bee-made-natural-plastic-biodegradable/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "stars": 1,
+      "reason": "天然プラスチック研究で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "f0038db202c91c4d",
+      "title": "The UK government has a plan to fix 'wild west' e-bikes, but will it work?",
+      "url": "https://www.techradar.com/health-fitness/bikes/the-uk-government-has-declared-war-on-wild-west-e-bike-parking-but-will-its-plan-really-work",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "stars": 1,
+      "reason": "英国の規制議論で日本の顧客対応に直結しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "b0a4358ff17024f7",
+      "title": "中国初の有人月面着陸は「乗り換え」あり。月の上空で待ち合わせ",
+      "url": "https://www.gizmodo.jp/article/2611-china-manned-lunar-landing-rendezvous/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T07:35:00.000Z",
+      "stars": 1,
+      "reason": "有人月面着陸計画で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "fd4bf094109e69d3",
+      "title": "Shark PowerDetect Transformer review: a strong, versatile vac that switches from upright to stick",
+      "url": "https://www.techradar.com/home/vacuums/shark-powerdetect-transformer-review",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T07:00:00.000Z",
+      "stars": 1,
+      "reason": "掃除機レビューで仕事道具に該当しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "7eb6cd8c522c884d",
+      "title": "Watch Australia vs Samoa: FREE live streams and TV channels",
+      "url": "https://www.techradar.com/entertainment/rugby/australia-vs-samoa-free-rugby-league-world-cup-2026-semi-final",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T06:05:00.000Z",
+      "stars": 1,
+      "reason": "スポーツ視聴ガイドで登壇ネタに使えない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d9d0ea78bdc5acf6",
+      "title": "ミニバッグなのにエキスパンダブルで収納拡大。傘とペットボトルが同時に収まる",
+      "url": "https://www.gizmodo.jp/article/h-tag_hamburger_shoulder_bag/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T06:00:00.000Z",
+      "stars": 1,
+      "reason": "ミニバッグ紹介で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "e87ee47db49a60e3",
+      "title": "折りたたみスマホ「nubia Flip 2」がMNP・新規契約で一括9800円から。ワイモバイルにて",
+      "url": "https://smhn.info/202611-ymobile-nubia-flip-2-mnp-new-contract-9800-yen",
+      "source": "すまほん!!",
+      "region": "国内",
+      "publishedAt": "2026-11-08T04:43:07.000Z",
+      "stars": 1,
+      "reason": "キャリア割引の案内で一次情報性が低い",
+      "score": 2,
       "groups": [
+        "新製品・発表",
+        "実務で使える周辺機器",
         "減点対象（セール・広告色）"
       ]
     },
     {
-      "id": "d4b0e143522aae1d",
-      "title": "45%引き！走行充電器「EcoFlow Alternator Charger 600」【AamzonスマイルSale】",
-      "url": "https://jetstream.blog/2026/11/08/ecoflow-alternator-charger-600-amazon-smile-sale-20261108/",
+      "id": "9aa17d4f40ca9c25",
+      "title": "ドコモがahamoサイトの緊急メンテナンスを完了 「サイトの安全性が確認できた」ため",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news006.html",
+      "source": "ITmedia Mobile",
+      "region": "国内",
+      "publishedAt": "2026-11-08T04:32:00.000Z",
+      "stars": 1,
+      "reason": "メンテナンス完了の告知で判断材料にならない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "a39f7ba65a12b757",
+      "title": "太陽の“500兆倍”。見逃されてきた宇宙一明るい天体",
+      "url": "https://www.gizmodo.jp/article/2611-brightest-quasar-sun-500-trillion-times/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T02:35:00.000Z",
+      "stars": 1,
+      "reason": "天体発見の科学ニュースで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "ae00fa7e6c950754",
+      "title": "【ワークマン】2900円の「マルチ収納2WAYバッグ」 トート＆リュックになり、ヘルメットも収納できる",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news003.html",
+      "source": "ITmedia Mobile",
+      "region": "国内",
+      "publishedAt": "2026-11-08T01:00:00.000Z",
+      "stars": 1,
+      "reason": "バッグ新商品の案内で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "43e3acded7345b05",
+      "title": "ウエルシアのお得情報まとめ【11月8日最新版】 ブラックフライデーで最大20％還元、最大1万円・2万～3万ポイント還元も",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news004.html",
+      "source": "ITmedia Mobile",
+      "region": "国内",
+      "publishedAt": "2026-11-08T01:00:00.000Z",
+      "stars": 1,
+      "reason": "ポイント還元キャンペーンで一次情報性が低い",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "1e31113a87a695c1",
+      "title": "最後の一片まできれいにスライス。料理効率がアップするキッチンガジェット",
+      "url": "https://www.gizmodo.jp/article/dreamfarm_nocutu_slicer/",
+      "source": "GIZMODO JAPAN",
+      "region": "国内",
+      "publishedAt": "2026-11-08T01:00:00.000Z",
+      "stars": 1,
+      "reason": "キッチン用品レビューで業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "6505e90dc76464f2",
+      "title": "Drones can now be tracked down by mobile networks alone — could this new Ericsson tech spell the end for the current crop of flying UAVs?",
+      "url": "https://www.techradar.com/pro/drones-can-now-be-tracked-down-by-mobile-networks-alone-could-this-new-ericsson-tech-spell-the-end-for-the-current-crop-of-flying-uavs",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T00:10:00.000Z",
+      "stars": 1,
+      "reason": "将来のドローン検知技術で実用化は先の話",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "cefa10b4f4bdbabe",
+      "title": "Quordle hints and answers for Sunday, November 8 (game #1749)",
+      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-8-november-2026",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T00:00:00.000Z",
+      "stars": 1,
+      "reason": "パズルの正解紹介で業務に関係しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d54341e380d6ec29",
+      "title": "NYT Connections hints and answers for Sunday, November 8 (game #1246)",
+      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-8-november-2026",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T00:00:00.000Z",
+      "stars": 1,
+      "reason": "パズルの正解紹介で業務に関係しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "b9136af6e29221ad",
+      "title": "NYT Strands hints and answers for Sunday, November 8 (game #980)",
+      "url": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-8-november-2026",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-08T00:00:00.000Z",
+      "stars": 1,
+      "reason": "パズルの正解紹介で業務に関係しない",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "d44fec61ccb764a3",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "region": "海外",
+      "publishedAt": "2026-11-07T22:07:22.000Z",
+      "stars": 1,
+      "reason": "政治とデータセンターの論評で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "f0f4f6a2265ac97e",
+      "title": "Hitman World of Assassination devs say Elusive Targets are captured from studying talent over many hours and 'bespoke craftsmanship' rather than scans — 'You can have the 3d mesh completely right and …",
+      "url": "https://www.techradar.com/gaming/hitman-world-of-assassination-devs-say-elusive-targets-are-captured-from-studying-talent-over-many-hours-and-bespoke-craftsmanship-rather-than-scans-you-can-have-the-3d-mesh-completely-right-and-still-not-feel-like-it-looks-like-the-person",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-07T22:00:00.000Z",
+      "stars": 1,
+      "reason": "ゲーム開発の制作裏話で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "8ab11f335da8ba2b",
+      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
+      "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
+      "source": "9to5Mac",
+      "region": "海外",
+      "publishedAt": "2026-11-07T20:30:00.000Z",
+      "stars": 1,
+      "reason": "楽譜アプリの紹介で仕事道具に非該当",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "281cb641ae38f5e8",
+      "title": "Retail World of Warcraft is one lonely treadmill; fortunately, Classic and Forever remind us that it doesn’t have to be.",
+      "url": "https://www.techradar.com/gaming/retail-world-of-warcraft-is-one-lonely-treadmill-fortunately-classic-and-forever-remind-us-that-it-doesnt-have-to-be",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-07T20:00:00.000Z",
+      "stars": 1,
+      "reason": "ゲーム論評で業務に無関係",
+      "score": 2,
+      "groups": []
+    },
+    {
+      "id": "7701236e9399f531",
+      "title": "ドコモ「docomo 5G」サービスエリアマップ更新【2026年11月9日（月）】",
+      "url": "https://jetstream.blog/2026/11/09/docomo-5g-area-map-update-20261109/",
       "source": "Jetstream BLOG",
       "region": "国内",
-      "publishedAt": "2026-11-07T19:49:39.000Z",
+      "publishedAt": "2026-11-08T19:59:12.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -2,
-      "groups": [
-        "減点対象（セール・広告色）"
-      ]
+      "reason": "通信エリアマップ更新のみで判断材料にならない",
+      "score": 1,
+      "groups": []
     },
     {
-      "id": "e40621832784dfaf",
-      "title": "割引特典復活！Amazon「motorola razr fold」18%+26,982円引き",
-      "url": "https://jetstream.blog/2026/11/08/motorola-razr-fold-blue-amazon-discount-20261108/",
+      "id": "5dba5ab732a1e1c4",
+      "title": "Google ストア「Fitbit Air」全モデル在庫切れ",
+      "url": "https://jetstream.blog/2026/11/09/google-store-fitbit-air-all-sold-out-20261109/",
       "source": "Jetstream BLOG",
       "region": "国内",
-      "publishedAt": "2026-11-07T19:49:25.000Z",
+      "publishedAt": "2026-11-08T19:49:38.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -2,
-      "groups": [
-        "減点対象（セール・広告色）"
-      ]
+      "reason": "在庫切れ速報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
     },
     {
-      "id": "00b73f4339b33bfc",
-      "title": "RTX 5080搭載PCが7万2000円引き！ パソコンショップSEVEN、11月8日限定セール",
-      "url": "https://ascii.jp/elem/000/004/448/4448584/?rss",
-      "source": "ASCII.jp",
+      "id": "6ce6915af07956c8",
+      "title": "また。Amazon「SwitchBot ハブ2 専用壁掛けコンセントマウントホルダー」完売",
+      "url": "https://jetstream.blog/2026/11/09/switchbot-hub-2-takeverk-wall-mount-holder-amazon-sold-out-20261109/",
+      "source": "Jetstream BLOG",
       "region": "国内",
-      "publishedAt": "2026-11-07T15:00:00.000Z",
+      "publishedAt": "2026-11-08T19:45:30.000Z",
       "stars": 1,
-      "reason": "セール記事",
-      "score": -2,
+      "reason": "アクセサリー完売速報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "4cb8b76702aa58f2",
+      "title": "Knee osteoarthritis pain relief – and massive weight loss – from new GLP-1",
+      "url": "https://newatlas.com/disease/obesity/knee-osteoarthritis-pain-relief-weight-loss/",
+      "source": "New Atlas",
+      "region": "海外",
+      "publishedAt": "2026-11-08T16:30:00.000Z",
+      "stars": 1,
+      "reason": "医薬品の臨床試験で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "f803527ef6471535",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "region": "海外",
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "stars": 1,
+      "reason": "セール告知中心の記事で一次情報性が低い",
+      "score": 1,
       "groups": [
+        "実務で使える周辺機器",
         "減点対象（セール・広告色）"
       ]
     },
     {
-      "id": "73470ff7c5b3d160",
-      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "id": "04f3b00b7880e513",
+      "title": "L-shaped tiny house embraces indoor/outdoor living",
+      "url": "https://newatlas.com/tiny-houses/antonia-vagabond-haven/",
+      "source": "New Atlas",
+      "region": "海外",
+      "publishedAt": "2026-11-08T13:03:00.000Z",
+      "stars": 1,
+      "reason": "タイニーハウスの建築紹介で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "835e3591e5299bb8",
+      "title": "在庫状況改善。Google ストア「Fitbit Edge」全モデルが即日発送対応",
+      "url": "https://jetstream.blog/2026/11/08/google-store-fitbit-edge-all-models-ready-to-ship-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T12:35:58.000Z",
+      "stars": 1,
+      "reason": "発送対応状況の速報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "a64eb3e8224b8033",
+      "title": "〈動画付き〉【ハミルトン最新時計】「カーキ フィールド マーフ」の新バリエーション＆映画『オデュッセイア』との限定コラボモデル - WATCHNAVI Salon",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zdTRtSUhIZVhFaUpvVV93Nnl6ZjRtWGVRNVBGTXA4U3E0WE9QTjUtRS1WUUswOTZiSXFDV25XQ2ZfZzRFOXlVQjN3X0J6UURvblNpRw?oc=5",
+      "source": "GetNavi web",
+      "region": "国内",
+      "publishedAt": "2026-11-08T12:15:00.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "c4e27129d0937b5e",
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "url": "https://www.wired.com/gallery/best-computer-speakers/",
       "source": "WIRED",
       "region": "海外",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
       "stars": 1,
-      "reason": "セール記事",
+      "reason": "スピーカーのレビューで仕事道具に非該当",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "06c0f1fcd5b65337",
+      "title": "Google ストア「Fitbit Air」Obsidian販売再開",
+      "url": "https://jetstream.blog/2026/11/08/google-store-fitbit-air-obsidian-sales-resumed-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T11:34:46.000Z",
+      "stars": 1,
+      "reason": "販売再開の速報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "f738555b032b378b",
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "source": "WIRED",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:30:00.000Z",
+      "stars": 1,
+      "reason": "カメラストラップ紹介で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "13731c5caa7f91ef",
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "source": "WIRED",
+      "region": "海外",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "stars": 1,
+      "reason": "休暇取得の心得で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "21444b91bc5e1a96",
+      "title": "Shipping container-mountable guns offer plug-and-play naval defense",
+      "url": "https://newatlas.com/military/bae-systems-sea-tridon-modular-naval-gun-system/",
+      "source": "New Atlas",
+      "region": "海外",
+      "publishedAt": "2026-11-08T09:03:00.000Z",
+      "stars": 1,
+      "reason": "艦載砲システムの紹介で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "3f476cfd02f0a4df",
+      "title": "マイルドハイブリッド廃止は正解!? 約300万円のデリカミニで東名を200km走って燃費をガチ検証",
+      "url": "https://ascii.jp/elem/000/004/449/4449314/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T09:00:00.000Z",
+      "stars": 1,
+      "reason": "車の燃費検証記事で仕事道具に該当しない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "82a620a1a2199058",
+      "title": "デカい！うるさい！重い！ソニーの巨大スピーカー「ULT TOWER 7」はそれが最高！車輪付きで笑うしかない",
+      "url": "https://ascii.jp/elem/000/004/447/4447860/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "stars": 1,
+      "reason": "大型スピーカーの紹介で仕事道具に非該当",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "591f7d58d0d139b3",
+      "title": "在庫あり！ヨドバシカメラ、Fitbit Air限定モデル「Sleepy Blue」販売中",
+      "url": "https://jetstream.blog/2026/11/08/google-fitbit-air-special-edition-pokemon-sleep-yodobashi-sales-resumed-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T07:35:57.000Z",
+      "stars": 1,
+      "reason": "限定モデル在庫情報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "fc536c3e5caaa7b4",
+      "title": "開業当時の西武渋谷店も！ 写真と資料で渋谷の歴史を紐解く「渋谷アーカイブ写真展2026」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zMHB4Mi1lX01QZU1KUmtGYXBBaXdGbk55NUZKWTRSSnNJTjRBMElJakl0T0FzRkJGZVZfaGYySFkyUVZid0Vhd0p6OU5UXzVUUW1JekdnQjU?oc=5",
+      "source": "GetNavi web",
+      "region": "国内",
+      "publishedAt": "2026-11-08T07:25:47.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "d09f918d38b796ea",
+      "title": "受託開発から自社サービスへ。TorchUp、最初の顧客獲得と営業の仕組み化を解説する無料資料を公開",
+      "url": "https://ascii.jp/elem/000/004/449/4449562/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T06:42:02.000Z",
+      "stars": 1,
+      "reason": "営業資料の無料公開案内で業務に直結しない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "15247a5fde7700d9",
+      "title": "まだまだ電話を掛けることが多い人向けに！ 月2000円以下で「かけ放題」が実現可能な格安SIMまとめ",
+      "url": "https://ascii.jp/elem/000/004/449/4449535/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T06:00:00.000Z",
+      "stars": 1,
+      "reason": "格安SIMまとめ記事で仕事道具判断に直結しない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "53d557aae9506d50",
+      "title": "拡充？「SwitchBot リレースイッチ」複数モデル技適取得",
+      "url": "https://jetstream.blog/2026/11/08/switchbot-relay-switch-w5502300-series-giteki/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:52:20.000Z",
+      "stars": 1,
+      "reason": "型番の技適取得情報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "fb0f7169c9aad5bd",
+      "title": "スマホがデジタル使い捨てカメラに。フィルム選びから撮影までを再現した新サービス「FilmLog.」公開。IT専門学校1年生が独自のシステムを開発",
+      "url": "https://ascii.jp/elem/000/004/449/4449563/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:49:50.000Z",
+      "stars": 1,
+      "reason": "学生開発アプリの紹介で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "718f53669dee40e1",
+      "title": "プラグミニ後継？SwitchBot謎型番「W2001406」技適取得",
+      "url": "https://jetstream.blog/2026/11/08/switchbot-w2001406-giteki/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:24:07.000Z",
+      "stars": 1,
+      "reason": "型番の技適取得情報のみで判断材料にならない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "56b2009143095c4c",
+      "title": "ファミマに「パンどろぼう」が初登場！ 描き下ろしパッケージのコラボパン2種＆限定グッズも",
+      "url": "https://ascii.jp/elem/000/004/449/4449393/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:00:00.000Z",
+      "stars": 1,
+      "reason": "コラボパン販売の案内で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "9e644a1b506d70b3",
+      "title": "Battery-free sensor powers up wirelessly via local circuitry radiation",
+      "url": "https://newatlas.com/energy/ambient-radiation-powered-sensor/",
+      "source": "New Atlas",
+      "region": "海外",
+      "publishedAt": "2026-11-08T03:03:00.000Z",
+      "stars": 1,
+      "reason": "無給電センサーの研究で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "10540936bc26ea97",
+      "title": "高校生たちのフレッシュな作品が集う「神奈川工業高校・川崎北高校 写真部合同作品展」第82回ハマ展で開催",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMYjdvNW5iT0NCQUtKbHdtNWpadjJ2OGI1RHVSQkx6NURzQXZhWlZ1S0tMNkotU2lycm1mdFZsR3JfVHZ5Z0FNbkU0WE1ZZk5fWW9TV0dBbTM?oc=5",
+      "source": "GetNavi web",
+      "region": "国内",
+      "publishedAt": "2026-11-08T02:37:35.000Z",
+      "stars": 1,
+      "reason": "要約が空で判断材料がない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "b2d8ad46a955a130",
+      "title": "BYD’s new Rolls-Royce-inspired EV can float, turn like a tank, and costs over $300,000",
+      "url": "https://www.digitaltrends.com/cars/byds-new-rolls-royce-inspired-ev-can-float-turn-like-a-tank-and-costs-over-300000/",
+      "source": "Digital Trends",
+      "region": "海外",
+      "publishedAt": "2026-11-08T00:02:42.000Z",
+      "stars": 1,
+      "reason": "高級EVの発表で仕事道具に該当しない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "79d90a2bcda0b71d",
+      "title": "MIT fuses best of Legos & Transformers into shape-shifting building blocks",
+      "url": "https://newatlas.com/electronics/bifur-circuit-transforming-electronics/",
+      "source": "New Atlas",
+      "region": "海外",
+      "publishedAt": "2026-11-07T22:03:00.000Z",
+      "stars": 1,
+      "reason": "研究用ブロック玩具の紹介で業務に無関係",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "85376128c898041e",
+      "title": "Research exposes TikTok’s dark side that lures young girls into the world of adult content",
+      "url": "https://www.digitaltrends.com/social-media/researchers-uncover-tiktoks-dark-side-that-lures-young-girls-into-the-world-of-adult-content/",
+      "source": "Digital Trends",
+      "region": "海外",
+      "publishedAt": "2026-11-07T21:54:55.000Z",
+      "stars": 1,
+      "reason": "SNSの未成年リスク調査で業務に直結しない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "947320ba9daad6ea",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura laptop gets $500 off for Black Friday",
+      "url": "https://www.techradar.com/pro/lenovos-premium-thinkpad-x1-carbon-gen-14-aura-edition-laptop-gets-a-usd500-price-cut-for-black-friday",
+      "source": "TechRadar",
+      "region": "海外",
+      "publishedAt": "2026-11-07T21:00:00.000Z",
+      "stars": 1,
+      "reason": "ノートPCの割引セールで一次情報性が低い",
+      "score": 1,
+      "groups": [
+        "スマホ・PC本体",
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "7c8a62d9bc4cf887",
+      "title": "エンタメ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQU1hSy1HT2ZNNnUtVUlPcGpUaE80eExLTWV6clVjZ0NaaEMyM1lkcWFiUDBRcEQtTFFYbVdOMVViOXhXY0lqR3d3c0hxZmNBOXBiNWVHWDN0S1BFX2ptRlJjNTNacGEyOXpEdGo3NUk?oc=5",
+      "source": "GetNavi web",
+      "region": "国内",
+      "publishedAt": "2026-11-07T20:19:20.000Z",
+      "stars": 1,
+      "reason": "タイトル・要約なく判断材料がない",
+      "score": 1,
+      "groups": []
+    },
+    {
+      "id": "08745b741441752b",
+      "title": "13型の大画面、動画専用にするのは惜しい？ ペンも付属するLenovo「Idea Tab Pro」がセールで8万6200円に",
+      "url": "https://ascii.jp/elem/000/004/449/4449090/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T10:50:00.000Z",
+      "stars": 1,
+      "reason": "タブレットの割引セールで一次情報性が低い",
+      "score": 0,
+      "groups": [
+        "スマホ・PC本体",
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "f178315fa5c922d0",
+      "title": "ゴジラコラボのノートPCが、FMV直販サイトでなんと10%オフ！",
+      "url": "https://ascii.jp/elem/000/004/449/4449510/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T09:00:00.000Z",
+      "stars": 1,
+      "reason": "ノートPCの割引セールで一次情報性が低い",
+      "score": 0,
+      "groups": [
+        "スマホ・PC本体",
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "acc6806fd05b6b39",
+      "title": "FMVの16.0型ノートPC「FMV WA3-K3」がアウトレット価格で、なんと11万円台！",
+      "url": "https://ascii.jp/elem/000/004/449/4449507/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T06:00:00.000Z",
+      "stars": 1,
+      "reason": "ノートPCのアウトレット販売で一次情報性が低い",
+      "score": 0,
+      "groups": [
+        "スマホ・PC本体",
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "cfa4cd776663bd63",
+      "title": "えっ、11.6型ノートPCが9万9000円!? FMV直販で複数のモデルがセール対象",
+      "url": "https://ascii.jp/elem/000/004/449/4449501/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T03:00:00.000Z",
+      "stars": 1,
+      "reason": "ノートPCの割引セールで一次情報性が低い",
+      "score": 0,
+      "groups": [
+        "スマホ・PC本体",
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "339e80354fe06252",
+      "title": "最大9万3000円引き！ パソコンショップSEVEN、BTOパソコン10商品が11月9日限定セール",
+      "url": "https://ascii.jp/elem/000/004/449/4449064/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "stars": 1,
+      "reason": "BTOパソコンの期間限定セールで一次情報性が低い",
+      "score": -2,
+      "groups": [
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "2e86393a93908422",
+      "title": "26%引き！Amazon「motorola razr fold」White",
+      "url": "https://jetstream.blog/2026/11/08/motorola-razr-fold-white-amazon-discount-20261108/",
+      "source": "Jetstream BLOG",
+      "region": "国内",
+      "publishedAt": "2026-11-08T11:48:14.000Z",
+      "stars": 1,
+      "reason": "折りたたみスマホの割引セールで一次情報性が低い",
+      "score": -2,
+      "groups": [
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "5964b1e818cea508",
+      "title": "Switch 2本体や周辺機器を収納できるケースにスティックカバーとスタンドも付いて、スマイルセールで1756円！",
+      "url": "https://ascii.jp/elem/000/004/449/4449459/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "stars": 1,
+      "reason": "ケースの割引セールで一次情報性が低い",
+      "score": -2,
+      "groups": [
+        "減点対象（セール・広告色）"
+      ]
+    },
+    {
+      "id": "fd5d9ba894064fb0",
+      "title": "Core Ultra 5搭載の14.0型モバイルノートが23万円台だ！ FMV直販に注目！",
+      "url": "https://ascii.jp/elem/000/004/449/4449504/?rss",
+      "source": "ASCII.jp",
+      "region": "国内",
+      "publishedAt": "2026-11-08T05:00:00.000Z",
+      "stars": 1,
+      "reason": "ノートPCの割引セールで一次情報性が低い",
       "score": -2,
       "groups": [
         "減点対象（セール・広告色）"
